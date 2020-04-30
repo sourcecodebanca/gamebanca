@@ -1,0 +1,653 @@
+{
+  "ID": "e1377d38-8a18-421f-a8a3-0ca4877766a1",
+  "Version": "3.10.0.0",
+  "Name": "UIPopupHuongDan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2557,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 317.52
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.441
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 402.48,
+            "BottomMargin": 317.52,
+            "Tag": 2574,
+            "ActionTag": -1102978903,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 82.08,
+              "Y": 70.58
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0641,
+              "Y": 0.098
+            },
+            "PreSize": {
+              "X": 0.8719,
+              "Y": 0.6597
+            },
+            "LeftMargin": 82.08,
+            "RightMargin": 81.92,
+            "TopMargin": 174.42,
+            "BottomMargin": 70.58,
+            "Tag": 2591,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupHuongDan/HD1.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 367,
+                "Scale9OriginY": 155,
+                "Scale9Width": 379,
+                "Scale9Height": 162,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 1.0
+                },
+                "RightMargin": 4464.0,
+                "Tag": 2592,
+                "ActionTag": 2058731754,
+                "Size": {
+                  "X": 1116.0,
+                  "Y": 475.0
+                },
+                "Name": "Page_0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupHuongDan/HD2.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 367,
+                "Scale9OriginY": 155,
+                "Scale9Width": 379,
+                "Scale9Height": 162,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1116.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 1.0
+                },
+                "LeftMargin": 1116.0,
+                "RightMargin": 3348.0,
+                "Tag": 2593,
+                "ActionTag": -1122100913,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 1116.0,
+                  "Y": 475.0
+                },
+                "Name": "Page_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupHuongDan/HD3.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 367,
+                "Scale9OriginY": 155,
+                "Scale9Width": 379,
+                "Scale9Height": 162,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 2232.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 1.0
+                },
+                "LeftMargin": 2232.0,
+                "RightMargin": 2232.0,
+                "Tag": 2594,
+                "ActionTag": -1278575943,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 1116.0,
+                  "Y": 475.0
+                },
+                "Name": "Page_2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupHuongDan/HD4.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 367,
+                "Scale9OriginY": 155,
+                "Scale9Width": 379,
+                "Scale9Height": 162,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 3348.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 1.0
+                },
+                "LeftMargin": 3348.0,
+                "RightMargin": 1116.0,
+                "Tag": 2595,
+                "ActionTag": -1475824279,
+                "ZOrder": 3,
+                "Size": {
+                  "X": 1116.0,
+                  "Y": 475.0
+                },
+                "Name": "Page_3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupHuongDan/HD5.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 367,
+                "Scale9OriginY": 155,
+                "Scale9Width": 379,
+                "Scale9Height": 162,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 4464.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 1.0
+                },
+                "LeftMargin": 4464.0,
+                "Tag": 2596,
+                "ActionTag": 1350692420,
+                "ZOrder": 4,
+                "Size": {
+                  "X": 1116.0,
+                  "Y": 475.0
+                },
+                "Name": "Page_4",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -884621352,
+            "Size": {
+              "X": 1116.0,
+              "Y": 475.0
+            },
+            "Name": "ListPageView",
+            "ctype": "PageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1225.7344,
+              "Y": 630.8335
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9576,
+              "Y": 0.8762
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1189.2344,
+            "RightMargin": 17.7656,
+            "TopMargin": 52.6665,
+            "BottomMargin": 594.3335,
+            "Tag": 2697,
+            "ActionTag": -1031528958,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleHuongDan.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.9991,
+              "Y": 614.4923
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4922,
+              "Y": 0.8535
+            },
+            "PreSize": {
+              "X": 0.182,
+              "Y": 0.0653
+            },
+            "LeftMargin": 513.4991,
+            "RightMargin": 533.5009,
+            "TopMargin": 82.0077,
+            "BottomMargin": 590.9923,
+            "Tag": 2764,
+            "ActionTag": -270881730,
+            "Size": {
+              "X": 233.0,
+              "Y": 47.0
+            },
+            "Name": "TitleHuongDan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnNext.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 34,
+            "Scale9Height": 46,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1235.4567,
+              "Y": 326.88
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9652,
+              "Y": 0.454
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.0944
+            },
+            "LeftMargin": 1203.4567,
+            "RightMargin": 12.5433,
+            "TopMargin": 359.12,
+            "BottomMargin": 292.88,
+            "Tag": 3503,
+            "ActionTag": 322259518,
+            "Size": {
+              "X": 64.0,
+              "Y": 68.0
+            },
+            "Name": "BtnNext",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnNext.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 34,
+            "Scale9Height": 46,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 45.2648,
+              "Y": 326.88
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0354,
+              "Y": 0.454
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.0944
+            },
+            "LeftMargin": 13.2648,
+            "RightMargin": 1202.7352,
+            "TopMargin": 359.12,
+            "BottomMargin": 292.88,
+            "Tag": 3504,
+            "ActionTag": 1116310039,
+            "Size": {
+              "X": 64.0,
+              "Y": 68.0
+            },
+            "Name": "BtnBack",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupHuongDan/HD1.png",
+        "Popups/PopupHuongDan/HD2.png",
+        "Popups/PopupHuongDan/HD3.png",
+        "Popups/PopupHuongDan/HD4.png",
+        "Popups/PopupHuongDan/HD5.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

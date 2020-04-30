@@ -1,0 +1,296 @@
+{
+  "ID": "23ef929e-192c-4eba-8c49-e69fcf8188dc",
+  "Version": "3.10.0.0",
+  "Name": "UIUpdateLoading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 262,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "loading.png",
+              "Plist": "MenuGame/AtlasLoading/AtlasLoading_1.plist"
+            },
+            "Scale9OriginX": 295,
+            "Scale9OriginY": 6,
+            "Scale9Width": 127,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0001,
+              "Y": 196.0011
+            },
+            "Scale": {
+              "ScaleX": 0.98,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2722
+            },
+            "PreSize": {
+              "X": 0.5602,
+              "Y": 0.1083
+            },
+            "LeftMargin": 281.5001,
+            "RightMargin": 281.4999,
+            "TopMargin": 523.9989,
+            "BottomMargin": 118.0011,
+            "Tag": 264,
+            "ActionTag": 590105076,
+            "Size": {
+              "X": 717.0,
+              "Y": 78.0
+            },
+            "Name": "ImageLoadingBarBG",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "LOADING...",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 147,
+              "G": 61,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0001,
+              "Y": 77.5967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1078
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0653
+            },
+            "LeftMargin": 555.5001,
+            "RightMargin": 555.4999,
+            "TopMargin": 618.9033,
+            "BottomMargin": 54.0967,
+            "Tag": 302,
+            "ActionTag": -1710820464,
+            "Size": {
+              "X": 169.0,
+              "Y": 47.0
+            },
+            "Name": "TextLoading",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ProgressBarData": {
+              "Type": "PlistSubImage",
+              "Path": "loading_1.png",
+              "Plist": "MenuGame/AtlasLoading/AtlasLoading_1.plist"
+            },
+            "PercentInfo": 100,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.1577,
+              "Y": 156.2029
+            },
+            "Scale": {
+              "ScaleX": 0.99,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4986,
+              "Y": 0.2169
+            },
+            "PreSize": {
+              "X": 0.5289,
+              "Y": 0.075
+            },
+            "LeftMargin": 299.6577,
+            "RightMargin": 303.3423,
+            "TopMargin": 536.7971,
+            "BottomMargin": 129.2029,
+            "Tag": 8,
+            "ActionTag": 320402200,
+            "Size": {
+              "X": 677.0,
+              "Y": 54.0
+            },
+            "Name": "ProcessLoading",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "Lỗi kết nối. Vui lòng kiểm tra internet\nĐang thử kết nối lại....",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 147,
+              "G": 61,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 286.705
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3982
+            },
+            "PreSize": {
+              "X": 0.4914,
+              "Y": 0.1306
+            },
+            "LeftMargin": 325.5,
+            "RightMargin": 325.5,
+            "TopMargin": 386.295,
+            "BottomMargin": 239.705,
+            "Tag": 7,
+            "ActionTag": 326980527,
+            "Size": {
+              "X": 629.0,
+              "Y": 94.0
+            },
+            "Name": "TextError",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 147,
+              "G": 61,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0001,
+              "Y": 150.0837
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.214
+            },
+            "PreSize": {
+              "X": 0.0445,
+              "Y": 0.0653
+            },
+            "LeftMargin": 611.5001,
+            "RightMargin": 611.4999,
+            "TopMargin": 542.4163,
+            "BottomMargin": 130.5837,
+            "Tag": 303,
+            "ActionTag": -1036810613,
+            "Size": {
+              "X": 57.0,
+              "Y": 47.0
+            },
+            "Name": "TextPercent",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/arialbd.ttf",
+        "MenuGame/AtlasLoading/AtlasLoading_1.plist",
+        "MenuGame/AtlasLoading/AtlasLoading_1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

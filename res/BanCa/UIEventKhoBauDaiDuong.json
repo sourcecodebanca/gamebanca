@@ -1,0 +1,2395 @@
+{
+  "ID": "a1a758dc-336c-43f5-a4f9-13e0710be94e",
+  "Version": "3.10.0.0",
+  "Name": "UIEventKhoBauDaiDuong",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 91,
+            "ActionTag": 534038160,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "JFBackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuayKhoBauDaiDuong/vong-quay.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 1705,
+            "Scale9Height": 1013,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.432
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5006
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.3555,
+              "Y": 1.4486
+            },
+            "LeftMargin": -227.52,
+            "RightMargin": -227.52,
+            "TopMargin": -161.928,
+            "BottomMargin": -161.0641,
+            "Tag": 92,
+            "ActionTag": -1520328179,
+            "Size": {
+              "X": 1735.04,
+              "Y": 1042.9921
+            },
+            "Name": "JFBackgroundTienCa",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "100.000\n\n\n\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 229,
+              "G": 119,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 456.9208,
+              "Y": 141.4715
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 216,
+              "B": 35
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.357,
+              "Y": 0.1965
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.11,
+              "Y": 0.02
+            },
+            "LeftMargin": 386.5208,
+            "RightMargin": 752.6792,
+            "TopMargin": 571.3285,
+            "BottomMargin": 134.2715,
+            "Tag": 93,
+            "ActionTag": 366948004,
+            "Size": {
+              "X": 140.8,
+              "Y": 14.4
+            },
+            "Name": "JFTxtXuThangThuaHomQua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 15,
+            "LabelText": "THẺ CÀO 200.000 VND\n\n\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UVNNguyenDu.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 782.848,
+              "Y": 86.6009
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 2.5187,
+            "RotationSkewY": 2.5257,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.6116,
+              "Y": 0.1203
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.14,
+              "Y": 0.0319
+            },
+            "LeftMargin": 693.248,
+            "RightMargin": 407.5521,
+            "TopMargin": 621.9151,
+            "BottomMargin": 75.1169,
+            "Tag": 51,
+            "ActionTag": 1528390848,
+            "Size": {
+              "X": 179.2,
+              "Y": 22.968
+            },
+            "Name": "JFTxtKetQua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "1\n\n\n\n\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 445.68,
+              "Y": 516.81
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 3,
+              "B": 56
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3482,
+              "Y": 0.7178
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.0375,
+              "Y": 0.05
+            },
+            "LeftMargin": 421.68,
+            "RightMargin": 810.32,
+            "TopMargin": 185.19,
+            "BottomMargin": 498.81,
+            "Tag": 53,
+            "ActionTag": -381184768,
+            "Size": {
+              "X": 48.0,
+              "Y": 36.0
+            },
+            "Name": "JFTxtLuotQuay",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 15,
+            "LabelText": "1.000.000.000 GOLD\n\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 79,
+              "G": 15,
+              "B": 15
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 916.5807,
+              "Y": 583.1575
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7161,
+              "Y": 0.8099
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.15,
+              "Y": 0.0319
+            },
+            "LeftMargin": 820.5807,
+            "RightMargin": 267.4193,
+            "TopMargin": 125.3585,
+            "BottomMargin": 571.6735,
+            "Tag": 54,
+            "ActionTag": -2081323293,
+            "Size": {
+              "X": 192.0,
+              "Y": 22.968
+            },
+            "Name": "JFTxtJackpot",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "LichSuQuayActive.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "LichSuQuay.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 168,
+            "Scale9Height": 67,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 583.04,
+              "Y": 456.408
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4555,
+              "Y": 0.6339
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.1547,
+              "Y": 0.1069
+            },
+            "LeftMargin": 484.032,
+            "RightMargin": 597.952,
+            "TopMargin": 225.108,
+            "BottomMargin": 417.924,
+            "Tag": 99,
+            "ActionTag": -340732778,
+            "Size": {
+              "X": 198.016,
+              "Y": 76.968
+            },
+            "Name": "JFButtonLichSu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "vong_quay_scale.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5025,
+              "ScaleY": 0.5078
+            },
+            "Position": {
+              "X": 787.9676,
+              "Y": 340.7455
+            },
+            "Scale": {
+              "ScaleX": 1.4,
+              "ScaleY": 1.4
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6156,
+              "Y": 0.4733
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.2847
+            },
+            "LeftMargin": 684.9551,
+            "RightMargin": 390.0449,
+            "TopMargin": 278.3535,
+            "BottomMargin": 236.6465,
+            "Tag": 140,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.853,
+                  "Y": 157.3131
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -90.0144,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5066,
+                  "Y": 0.7674
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 38.853,
+                "RightMargin": 36.147,
+                "TopMargin": 12.6869,
+                "BottomMargin": 122.3131,
+                "Tag": 157,
+                "ActionTag": 1901473952,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 131.4665,
+                  "Y": 148.564
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": -59.9975,
+                "RotationSkewY": -60.0163,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.6413,
+                  "Y": 0.7247
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 66.4665,
+                "RightMargin": 8.5335,
+                "TopMargin": 21.436,
+                "BottomMargin": 113.564,
+                "Tag": 177,
+                "ActionTag": 526407580,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.101,
+                  "Y": 129.1418
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": -30.0025,
+                "RotationSkewY": -30.0178,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.7322,
+                  "Y": 0.63
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 85.101,
+                "RightMargin": -10.101,
+                "TopMargin": 40.8582,
+                "BottomMargin": 94.1418,
+                "Tag": 178,
+                "ActionTag": 1664366653,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 157.9935,
+                  "Y": 101.2835
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewY": -0.017,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.7707,
+                  "Y": 0.4941
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 92.9935,
+                "RightMargin": -17.9935,
+                "TopMargin": 68.7165,
+                "BottomMargin": 66.2835,
+                "Tag": 179,
+                "ActionTag": -2033871306,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.3675,
+                  "Y": 74.4991
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 29.9991,
+                "RotationSkewY": 29.9803,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.7335,
+                  "Y": 0.3634
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 85.3675,
+                "RightMargin": -10.3675,
+                "TopMargin": 95.5009,
+                "BottomMargin": 39.4991,
+                "Tag": 180,
+                "ActionTag": -1819348258,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.7695,
+                  "Y": 54.3008
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 59.9995,
+                "RotationSkewY": 59.9826,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.6379,
+                  "Y": 0.2649
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 65.7695,
+                "RightMargin": 9.2305,
+                "TopMargin": 115.6992,
+                "BottomMargin": 19.3008,
+                "Tag": 181,
+                "ActionTag": 2084648803,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem6",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.484,
+                  "Y": 47.9939
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 89.983,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5048,
+                  "Y": 0.2341
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 38.484,
+                "RightMargin": 36.516,
+                "TopMargin": 122.0061,
+                "BottomMargin": 12.9939,
+                "Tag": 182,
+                "ActionTag": -1698813232,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 73.5335,
+                  "Y": 52.7197
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 119.9991,
+                "RotationSkewY": 119.9829,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.3587,
+                  "Y": 0.2572
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 8.5335,
+                "RightMargin": 66.4665,
+                "TopMargin": 117.2803,
+                "BottomMargin": 17.7197,
+                "Tag": 183,
+                "ActionTag": -1345040753,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.5665,
+                  "Y": 74.9579
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 150.0009,
+                "RotationSkewY": 149.9826,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2613,
+                  "Y": 0.3656
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": -11.4335,
+                "RightMargin": 86.4335,
+                "TopMargin": 95.0421,
+                "BottomMargin": 39.9579,
+                "Tag": 184,
+                "ActionTag": 1524078497,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem9",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 43.2345,
+                  "Y": 102.2274
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 179.9817,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2109,
+                  "Y": 0.4987
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": -21.7655,
+                "RightMargin": 96.7655,
+                "TopMargin": 67.7726,
+                "BottomMargin": 67.2274,
+                "Tag": 185,
+                "ActionTag": -736107496,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem10",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.266,
+                  "Y": 131.8918
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 210.0005,
+                "RotationSkewY": 209.9815,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2452,
+                  "Y": 0.6434
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": -14.734,
+                "RightMargin": 89.734,
+                "TopMargin": 38.1082,
+                "BottomMargin": 96.8918,
+                "Tag": 186,
+                "ActionTag": 1214505962,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem11",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.463,
+                  "ScaleY": 0.6112
+                },
+                "Position": {
+                  "X": 71.422,
+                  "Y": 151.9095
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 240.0009,
+                "RotationSkewY": 239.9834,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.3484,
+                  "Y": 0.741
+                },
+                "PreSize": {
+                  "X": 0.6341,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 11.232,
+                "RightMargin": 63.768,
+                "TopMargin": 25.8745,
+                "BottomMargin": 109.1255,
+                "Tag": 187,
+                "ActionTag": -774765367,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 70.0
+                },
+                "Name": "JFTxtItem12",
+                "ctype": "TextObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 102.5322,
+                  "Y": 192.7989
+                },
+                "Scale": {
+                  "ScaleX": 0.2909,
+                  "ScaleY": 0.3346
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.9405
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 102.5322,
+                "RightMargin": 102.4678,
+                "TopMargin": 12.2011,
+                "BottomMargin": 192.7989,
+                "Tag": 165,
+                "ActionTag": -270166543,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 150.3504,
+                  "Y": 179.0733
+                },
+                "Scale": {
+                  "ScaleX": 0.3135,
+                  "ScaleY": 0.3135
+                },
+                "RotationSkewX": 29.9981,
+                "RotationSkewY": 38.0217,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7334,
+                  "Y": 0.8735
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 150.3504,
+                "RightMargin": 54.6496,
+                "TopMargin": 25.9267,
+                "BottomMargin": 179.0733,
+                "Tag": 166,
+                "ActionTag": 840873867,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 179.5676,
+                  "Y": 146.4819
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 60.0016,
+                "RotationSkewY": 60.001,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8759,
+                  "Y": 0.7145
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 179.5676,
+                "RightMargin": 25.4324,
+                "TopMargin": 58.5181,
+                "BottomMargin": 146.4819,
+                "Tag": 167,
+                "ActionTag": 1293258389,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 189.8499,
+                  "Y": 103.139
+                },
+                "Scale": {
+                  "ScaleX": 0.3135,
+                  "ScaleY": 0.3135
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 82.0349,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.9261,
+                  "Y": 0.5031
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 189.8499,
+                "RightMargin": 15.1501,
+                "TopMargin": 101.861,
+                "BottomMargin": 103.139,
+                "Tag": 168,
+                "ActionTag": -889694537,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 174.6996,
+                  "Y": 60.1736
+                },
+                "Scale": {
+                  "ScaleX": 0.2847,
+                  "ScaleY": 0.3346
+                },
+                "RotationSkewX": 119.9984,
+                "RotationSkewY": 120.0138,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8522,
+                  "Y": 0.2935
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 174.6996,
+                "RightMargin": 30.3004,
+                "TopMargin": 144.8264,
+                "BottomMargin": 60.1736,
+                "Tag": 169,
+                "ActionTag": -1795402491,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 148.0539,
+                  "Y": 28.9647
+                },
+                "Scale": {
+                  "ScaleX": 0.3135,
+                  "ScaleY": 0.3135
+                },
+                "RotationSkewX": 149.9991,
+                "RotationSkewY": 157.9812,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7222,
+                  "Y": 0.1413
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 148.0539,
+                "RightMargin": 56.9461,
+                "TopMargin": 176.0353,
+                "BottomMargin": 28.9647,
+                "Tag": 170,
+                "ActionTag": 633883688,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem6",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 103.4016,
+                  "Y": 17.3637
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0013,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5044,
+                  "Y": 0.0847
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 103.4016,
+                "RightMargin": 101.5984,
+                "TopMargin": 187.6363,
+                "BottomMargin": 17.3637,
+                "Tag": 171,
+                "ActionTag": -1664775961,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem7",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 58.4473,
+                  "Y": 28.8423
+                },
+                "Scale": {
+                  "ScaleX": 0.3135,
+                  "ScaleY": 0.3135
+                },
+                "RotationSkewX": 209.9999,
+                "RotationSkewY": 201.9143,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2851,
+                  "Y": 0.1407
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 58.4473,
+                "RightMargin": 146.5527,
+                "TopMargin": 176.1577,
+                "BottomMargin": 28.8423,
+                "Tag": 172,
+                "ActionTag": -189564920,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem8",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 29.8542,
+                  "Y": 57.4781
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 239.9999,
+                "RotationSkewY": 240.0036,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1456,
+                  "Y": 0.2804
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 29.8542,
+                "RightMargin": 175.1458,
+                "TopMargin": 147.5219,
+                "BottomMargin": 57.4781,
+                "Tag": 173,
+                "ActionTag": 584240341,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem9",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 16.4775,
+                  "Y": 102.5651
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 270.0,
+                "RotationSkewY": 270.0013,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0804,
+                  "Y": 0.5003
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 16.4775,
+                "RightMargin": 188.5225,
+                "TopMargin": 102.4349,
+                "BottomMargin": 102.5651,
+                "Tag": 174,
+                "ActionTag": -1975348129,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem10",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 28.5905,
+                  "Y": 148.6889
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 300.0027,
+                "RotationSkewY": 299.9978,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1395,
+                  "Y": 0.7253
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 28.5905,
+                "RightMargin": 176.4095,
+                "TopMargin": 56.3111,
+                "BottomMargin": 148.6889,
+                "Tag": 175,
+                "ActionTag": -681179004,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem11",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 56.8017,
+                  "Y": 179.6396
+                },
+                "Scale": {
+                  "ScaleX": 0.3346,
+                  "ScaleY": 0.2909
+                },
+                "RotationSkewX": 329.9995,
+                "RotationSkewY": 329.9644,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2771,
+                  "Y": 0.8763
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 56.8017,
+                "RightMargin": 148.1983,
+                "TopMargin": 25.3604,
+                "BottomMargin": 179.6396,
+                "Tag": 176,
+                "ActionTag": -1955246267,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem12",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "vong_quay_ngoai_scale.png",
+                  "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+                },
+                "Scale9OriginX": 94,
+                "Scale9OriginY": 93,
+                "Scale9Width": 99,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.2588,
+                  "Y": 102.8335
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.5016
+                },
+                "PreSize": {
+                  "X": 1.4,
+                  "Y": 1.3756
+                },
+                "LeftMargin": -41.2412,
+                "RightMargin": -40.7588,
+                "TopMargin": -38.8335,
+                "BottomMargin": -38.1665,
+                "Tag": 100,
+                "ActionTag": 1078623804,
+                "Size": {
+                  "X": 287.0,
+                  "Y": 282.0
+                },
+                "Name": "JFBGVongQuay",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1281375299,
+            "Size": {
+              "X": 205.0,
+              "Y": 205.0
+            },
+            "Name": "JFVongQuay",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ChonDuocO_scale.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9OriginX": 49,
+            "Scale9OriginY": 50,
+            "Scale9Width": 154,
+            "Scale9Height": 154,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 786.5365,
+              "Y": 342.0008
+            },
+            "Scale": {
+              "ScaleX": 1.87,
+              "ScaleY": 1.87
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6145,
+              "Y": 0.475
+            },
+            "PreSize": {
+              "X": 0.118,
+              "Y": 0.2111
+            },
+            "LeftMargin": 711.0365,
+            "RightMargin": 417.9635,
+            "TopMargin": 301.9992,
+            "BottomMargin": 266.0008,
+            "Tag": 178,
+            "ActionTag": -876148459,
+            "Size": {
+              "X": 151.0,
+              "Y": 152.0
+            },
+            "Name": "JFMask",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "KimChon.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9OriginX": 48,
+            "Scale9OriginY": 52,
+            "Scale9Width": 50,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 787.5808,
+              "Y": 503.7397
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6153,
+              "Y": 0.6996
+            },
+            "PreSize": {
+              "X": 0.1141,
+              "Y": 0.2222
+            },
+            "LeftMargin": 714.5808,
+            "RightMargin": 419.4192,
+            "TopMargin": 136.2603,
+            "BottomMargin": 423.7397,
+            "Tag": 122,
+            "ActionTag": 492689079,
+            "Size": {
+              "X": 146.0,
+              "Y": 160.0
+            },
+            "Name": "JFKimChon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 456.8429,
+              "Y": 338.8318
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3569,
+              "Y": 0.4706
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 456.8429,
+            "RightMargin": 823.1571,
+            "TopMargin": 381.1682,
+            "BottomMargin": 338.8318,
+            "Tag": 101,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": -133.106,
+                  "Y": 75.2834
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -133.106,
+                "RightMargin": -119.894,
+                "TopMargin": -75.2834,
+                "BottomMargin": -74.7166,
+                "Tag": 102,
+                "ActionTag": -1198579857,
+                "Size": {
+                  "X": 253.0,
+                  "Y": 150.0
+                },
+                "Name": "JFTxtTheLe",
+                "ctype": "TextObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 305,
+                  "Height": 300
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -143.148,
+                  "Y": -78.2131
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -143.148,
+                "RightMargin": -126.852,
+                "TopMargin": -82.7869,
+                "BottomMargin": -78.2131,
+                "Tag": 103,
+                "ActionTag": 1814380685,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 161.0
+                },
+                "Name": "JFScrollViewTrungGiai",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 305,
+                  "Height": 300
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -144.0765,
+                  "Y": -78.2846
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -144.0765,
+                "RightMargin": -125.9235,
+                "TopMargin": -82.7154,
+                "BottomMargin": -78.2846,
+                "Tag": 46,
+                "ActionTag": 223035254,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 161.0
+                },
+                "Name": "JFScrollViewLichSu",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MINIGAME_VONGQUAY_COLUMN.png",
+                  "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 59,
+                "Scale9Width": 31,
+                "Scale9Height": 62,
+                "AnchorPoint": {
+                  "ScaleX": 0.4592,
+                  "ScaleY": 0.5717
+                },
+                "Position": {
+                  "X": -17.08,
+                  "Y": 13.07
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -58.8672,
+                "RightMargin": -32.1328,
+                "TopMargin": -81.598,
+                "BottomMargin": -78.402,
+                "Tag": 104,
+                "ActionTag": 1757889404,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 160.0
+                },
+                "VisibleForFrame": false,
+                "Name": "JFBGListView",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1406586147,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFLeftContent",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "QuayXam.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "QUAY.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 95,
+            "Scale9Height": 116,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 787.4552,
+              "Y": 340.4019
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6152,
+              "Y": 0.4728
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.175
+            },
+            "LeftMargin": 724.9552,
+            "RightMargin": 430.0448,
+            "TopMargin": 316.5981,
+            "BottomMargin": 277.4019,
+            "Tag": 177,
+            "ActionTag": 833035895,
+            "Size": {
+              "X": 125.0,
+              "Y": 126.0
+            },
+            "Name": "JFButtonQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "checkBoxAutoQuay.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "PressedBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "checkBoxAutoQuay.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "DisableBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "checkBoxAutoQuay.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NodeNormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "check.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NodeDisableFileData": {
+              "Type": "PlistSubImage",
+              "Path": "check.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 545.5844,
+              "Y": 520.9273
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4262,
+              "Y": 0.7235
+            },
+            "PreSize": {
+              "X": 0.0352,
+              "Y": 0.0681
+            },
+            "LeftMargin": 523.0844,
+            "RightMargin": 711.9156,
+            "TopMargin": 174.5727,
+            "BottomMargin": 496.4273,
+            "Tag": 55,
+            "ActionTag": -181171337,
+            "Size": {
+              "X": 45.0,
+              "Y": 49.0
+            },
+            "Name": "JFCheckboxTuQuay",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "UserTrungGiaiActive.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "UserTrungGiai.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 234,
+            "Scale9Height": 69,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 442.752,
+              "Y": 458.496
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.3459,
+              "Y": 0.6368
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.2062,
+              "Y": 0.1097
+            },
+            "LeftMargin": 310.784,
+            "RightMargin": 705.28,
+            "TopMargin": 222.012,
+            "BottomMargin": 419.004,
+            "Tag": 98,
+            "ActionTag": 819397626,
+            "Size": {
+              "X": 263.936,
+              "Y": 78.984
+            },
+            "Name": "JFButtonTrungGiai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TheLeActive.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TheLe.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 104,
+            "Scale9Height": 61,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 326.144,
+              "Y": 460.8
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2548,
+              "Y": 0.64
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.1047,
+              "Y": 0.0986
+            },
+            "LeftMargin": 259.136,
+            "RightMargin": 886.848,
+            "TopMargin": 223.704,
+            "BottomMargin": 425.304,
+            "Tag": 97,
+            "ActionTag": 1271814993,
+            "Size": {
+              "X": 134.016,
+              "Y": 70.992
+            },
+            "Name": "JFButtonTheLe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "close.png",
+              "Plist": "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 48,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1119.224,
+              "Y": 574.2388
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8744,
+              "Y": 0.7976
+            },
+            "PreSize": {
+              "X": 0.0609,
+              "Y": 0.1083
+            },
+            "LeftMargin": 1080.224,
+            "RightMargin": 121.776,
+            "TopMargin": 106.7612,
+            "BottomMargin": 535.2388,
+            "Tag": 96,
+            "ActionTag": -1571650415,
+            "Size": {
+              "X": 78.0,
+              "Y": 78.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/arial.ttf",
+        "Fonts/MyriadPro-Bold.ttf",
+        "Fonts/MyriadPro-Regular.ttf",
+        "Fonts/UVNNguyenDu.TTF",
+        "Popups/VongQuay/AtlasVongQuay.plist",
+        "Popups/VongQuay/AtlasVongQuay.png",
+        "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.plist",
+        "Popups/VongQuayKhoBauDaiDuong/AtlasVongQuayEventKBDD.png",
+        "Popups/VongQuayKhoBauDaiDuong/vong-quay.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

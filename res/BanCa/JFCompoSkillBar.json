@@ -1,0 +1,120 @@
+{
+  "ID": "0e79f14e-2ee4-4be6-87c3-73ef5e5ca880",
+  "Version": "2.3.4",
+  "Name": "JFCompoSkillBar",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 241,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Trident_empty.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": -4.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 177.5,
+            "RightMargin": -268.5,
+            "TopMargin": -17.5,
+            "BottomMargin": -25.5,
+            "Tag": 243,
+            "ActionTag": 1378032197,
+            "Size": {
+              "X": 432.0,
+              "Y": 89.0
+            },
+            "Name": "JFCompoSkillSliderBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ProgressInfo": 0,
+            "ImageFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Trident_Glow.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": -4.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 7.0,
+            "RightMargin": -439.0,
+            "TopMargin": -40.5,
+            "BottomMargin": -48.5,
+            "Tag": 242,
+            "ActionTag": -702960608,
+            "Size": {
+              "X": 432.0,
+              "Y": 89.0
+            },
+            "Name": "JFCompoSkillSlider",
+            "ctype": "LoadingBarObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "ScreenGame/Guns/AtlasGuns.plist",
+        "ScreenGame/Guns/AtlasGuns.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

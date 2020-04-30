@@ -1,0 +1,189 @@
+{
+  "ID": "163f99e6-b1c6-492f-b5b2-1ff098663222",
+  "Version": "2.3.4",
+  "Name": "JFCompoNotify",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 317,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BG_NOTIFY_BAR_LOBBY.png",
+              "Plist": "MenuGame/UnknowItems/AtlasUnknowItems.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -268.5,
+            "RightMargin": -268.5,
+            "TopMargin": -33.5,
+            "BottomMargin": -33.5,
+            "Tag": 318,
+            "ActionTag": 1623484473,
+            "Size": {
+              "X": 537.0,
+              "Y": 67.0
+            },
+            "Name": "JFBackGround",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -266.0,
+            "RightMargin": -266.0,
+            "TopMargin": -32.0,
+            "BottomMargin": -32.0,
+            "Tag": 4,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "text\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0029,
+                  "Y": 30.0007
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4981,
+                  "Y": 0.4688
+                },
+                "PreSize": {
+                  "X": 0.1071,
+                  "Y": 1.125
+                },
+                "LeftMargin": 236.5029,
+                "RightMargin": 238.4971,
+                "TopMargin": -2.0007,
+                "BottomMargin": -5.9993,
+                "Tag": 319,
+                "ActionTag": -916948562,
+                "Size": {
+                  "X": 57.0,
+                  "Y": 72.0
+                },
+                "Name": "JFCompoNotifyTxT",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 848001853,
+            "Size": {
+              "X": 532.0,
+              "Y": 64.0
+            },
+            "Name": "JFCompoNotifyCliping",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "JFCompoNotify",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "MenuGame/UnknowItems/AtlasUnknowItems.plist",
+        "MenuGame/UnknowItems/AtlasUnknowItems.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

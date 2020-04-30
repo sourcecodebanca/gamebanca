@@ -1,0 +1,124 @@
+{
+  "ID": "ccaca8be-e131-43a0-b935-d4d850ff8e03",
+  "Version": "2.3.4",
+  "Name": "JFBackgroundBigNormal",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 66,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopupBig.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 194,
+            "Scale9OriginY": 101,
+            "Scale9Width": 201,
+            "Scale9Height": 107,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.0177,
+              "Y": 0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -581.9823,
+            "RightMargin": -586.0177,
+            "TopMargin": -305.5001,
+            "BottomMargin": -305.4999,
+            "Tag": 67,
+            "ActionTag": 1860868465,
+            "Size": {
+              "X": 1168.0,
+              "Y": 611.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Signboard.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 130,
+            "Scale9OriginY": 37,
+            "Scale9Width": 134,
+            "Scale9Height": 40,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.2509,
+              "Y": 309.6518
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -226.2509,
+            "RightMargin": -223.7491,
+            "TopMargin": -366.6518,
+            "BottomMargin": 252.6518,
+            "Tag": 72,
+            "ActionTag": -1750260927,
+            "Size": {
+              "X": 450.0,
+              "Y": 114.0
+            },
+            "Name": "JFSignboard",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

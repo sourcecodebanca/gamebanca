@@ -1,0 +1,351 @@
+{
+  "ID": "f9911be0-e741-4507-bdac-48a4074ce224",
+  "Version": "3.10.0.0",
+  "Name": "JFItemXepHangNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 281,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LightRow.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 110,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 276.9993,
+              "Y": 18.9981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.9993,
+            "RightMargin": -552.9993,
+            "TopMargin": -37.4981,
+            "BottomMargin": 0.4981,
+            "Tag": 282,
+            "ActionTag": -1914945659,
+            "Size": {
+              "X": 552.0,
+              "Y": 37.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 19.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 118.5,
+            "RightMargin": -121.5,
+            "TopMargin": -37.5,
+            "BottomMargin": 0.5,
+            "Tag": 283,
+            "ActionTag": -1438021431,
+            "Size": {
+              "X": 3.0,
+              "Y": 37.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 335.0,
+              "Y": 19.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 333.5,
+            "RightMargin": -336.5,
+            "TopMargin": -37.5,
+            "BottomMargin": 0.5,
+            "Tag": 284,
+            "ActionTag": -1706035896,
+            "Size": {
+              "X": 3.0,
+              "Y": 37.0
+            },
+            "Name": "Image_2_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "1",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 68.8215,
+              "Y": 17.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 22.8215,
+            "RightMargin": -114.8215,
+            "TopMargin": -26.5,
+            "BottomMargin": 7.5,
+            "Tag": 285,
+            "ActionTag": -1293074467,
+            "Size": {
+              "X": 92.0,
+              "Y": 19.0
+            },
+            "Name": "JFTxtHang",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "1",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 225.12,
+              "Y": 15.5958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 126.12,
+            "RightMargin": -324.12,
+            "TopMargin": -24.0958,
+            "BottomMargin": 7.0958,
+            "Tag": 286,
+            "ActionTag": -1841463126,
+            "Size": {
+              "X": 198.0,
+              "Y": 17.0
+            },
+            "Name": "JFTxtTen",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "1",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 437.2028,
+              "Y": 16.0276
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 18
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 353.2028,
+            "RightMargin": -521.2028,
+            "TopMargin": -24.5276,
+            "BottomMargin": 7.5276,
+            "Tag": 287,
+            "ActionTag": -1985279196,
+            "Size": {
+              "X": 168.0,
+              "Y": 17.0
+            },
+            "Name": "JFTxtTien",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Fonts/tahomabd.ttf",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.plist",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

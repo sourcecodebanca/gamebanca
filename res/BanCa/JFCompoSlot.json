@@ -1,0 +1,77 @@
+{
+  "ID": "7e360799-0f0b-4d7b-96bc-320b118e8cf5",
+  "Version": "2.3.4",
+  "Name": "JFCompoSlot",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 415,
+        "Children": [
+          {
+            "ProgressInfo": 100,
+            "ProgressType": "Right_To_Left",
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupMiniGame/ImgFillSlot.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 270.0,
+            "RotationSkewY": 270.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -47.5,
+            "RightMargin": -47.5,
+            "TopMargin": -42.0,
+            "BottomMargin": -42.0,
+            "Tag": 419,
+            "ActionTag": 1723914937,
+            "Size": {
+              "X": 95.0,
+              "Y": 84.0
+            },
+            "Name": "JFCompoSkillProcessBar",
+            "ctype": "LoadingBarObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Popups/PopupMiniGame/ImgFillSlot.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

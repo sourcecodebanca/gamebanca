@@ -1,0 +1,1036 @@
+{
+  "ID": "bbea5591-b953-4f3b-b0e5-98674bc45f56",
+  "Version": "2.3.4",
+  "Name": "JFPopupHistorySlot",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 143,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundChest.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 99,
+            "Scale9Width": 772,
+            "Scale9Height": 302,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5352,
+              "Y": 0.6389
+            },
+            "LeftMargin": 297.5,
+            "RightMargin": 297.5,
+            "TopMargin": 130.0,
+            "BottomMargin": 130.0,
+            "Tag": 217,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/SlotMinigame/bg-khungtaixiu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9Width": 354,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 342.0,
+                  "Y": 380.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.8261
+                },
+                "PreSize": {
+                  "X": 0.9781,
+                  "Y": 0.1217
+                },
+                "LeftMargin": 7.0,
+                "RightMargin": 8.0,
+                "TopMargin": 52.0,
+                "BottomMargin": 352.0,
+                "Tag": 221,
+                "ActionTag": 213936629,
+                "Size": {
+                  "X": 670.0,
+                  "Y": 56.0
+                },
+                "Alpha": 75,
+                "Name": "ImgBgText",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BoderGadiant.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 13,
+                "Scale9Width": 286,
+                "Scale9Height": 27,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 343.001,
+                  "Y": 426.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5007,
+                  "Y": 0.9261
+                },
+                "PreSize": {
+                  "X": 0.4613,
+                  "Y": 0.1152
+                },
+                "LeftMargin": 185.001,
+                "RightMargin": 183.999,
+                "TopMargin": 7.5,
+                "BottomMargin": 399.5,
+                "Tag": 218,
+                "ActionTag": -1709160499,
+                "Size": {
+                  "X": 316.0,
+                  "Y": 53.0
+                },
+                "Alpha": 178,
+                "Name": "Image_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 35,
+                "LabelText": "LỊCH SỬ CƯỢC ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 336.0,
+                  "Y": 428.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4905,
+                  "Y": 0.9304
+                },
+                "PreSize": {
+                  "X": 0.3956,
+                  "Y": 0.087
+                },
+                "LeftMargin": 200.5,
+                "RightMargin": 213.5,
+                "TopMargin": 12.0,
+                "BottomMargin": 408.0,
+                "Tag": 711,
+                "ActionTag": -592807962,
+                "Size": {
+                  "X": 271.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 1,
+                "Scale9Width": 683,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 167.9567,
+                  "Y": 438.9016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2452,
+                  "Y": 0.9541
+                },
+                "PreSize": {
+                  "X": 0.0044,
+                  "Y": 0.0652
+                },
+                "LeftMargin": 166.4567,
+                "RightMargin": 515.5433,
+                "TopMargin": 6.0984,
+                "BottomMargin": 423.9016,
+                "Tag": 223,
+                "ActionTag": -933543939,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 30.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBgLine4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 1,
+                "Scale9Width": 683,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.1589,
+                  "Y": 437.5414
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8747,
+                  "Y": 0.9512
+                },
+                "PreSize": {
+                  "X": 0.0044,
+                  "Y": 0.0652
+                },
+                "LeftMargin": 597.6589,
+                "RightMargin": 84.3411,
+                "TopMargin": 7.4586,
+                "BottomMargin": 422.5414,
+                "Tag": 232,
+                "ActionTag": 645665068,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 30.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBgLine3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginY": 1,
+                "Scale9Width": 685,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 445.1594,
+                  "Y": 437.5414
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.9512
+                },
+                "PreSize": {
+                  "X": 0.0044,
+                  "Y": 0.0652
+                },
+                "LeftMargin": 443.6594,
+                "RightMargin": 238.3406,
+                "TopMargin": 7.4586,
+                "BottomMargin": 422.5414,
+                "Tag": 231,
+                "ActionTag": -526862120,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 30.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBtLine2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 1,
+                "Scale9Width": 683,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 324.9465,
+                  "Y": 438.0061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4744,
+                  "Y": 0.9522
+                },
+                "PreSize": {
+                  "X": 0.0044,
+                  "Y": 0.0652
+                },
+                "LeftMargin": 323.4465,
+                "RightMargin": 358.5535,
+                "TopMargin": 6.9939,
+                "BottomMargin": 423.0061,
+                "Tag": 229,
+                "ActionTag": -1156434265,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 30.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBgLine1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "PHIÊN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.0,
+                  "Y": 378.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0949,
+                  "Y": 0.8217
+                },
+                "PreSize": {
+                  "X": 0.0978,
+                  "Y": 0.05
+                },
+                "LeftMargin": 31.5,
+                "RightMargin": 586.5,
+                "TopMargin": 70.5,
+                "BottomMargin": 366.5,
+                "Tag": 222,
+                "ActionTag": 1787303876,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "THỜI GIAN CƯỢC ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.0,
+                  "Y": 378.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2774,
+                  "Y": 0.8217
+                },
+                "PreSize": {
+                  "X": 0.2511,
+                  "Y": 0.05
+                },
+                "LeftMargin": 104.0,
+                "RightMargin": 409.0,
+                "TopMargin": 70.5,
+                "BottomMargin": 366.5,
+                "Tag": 224,
+                "ActionTag": 1103960666,
+                "Size": {
+                  "X": 172.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "SỐ DÒNG TRÚNG ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 465.0,
+                  "Y": 378.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6788,
+                  "Y": 0.8217
+                },
+                "PreSize": {
+                  "X": 0.2263,
+                  "Y": 0.05
+                },
+                "LeftMargin": 387.5,
+                "RightMargin": 142.5,
+                "TopMargin": 70.5,
+                "BottomMargin": 366.5,
+                "Tag": 226,
+                "ActionTag": -1349761443,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "TỔNG CƯỢC ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 325.0,
+                  "Y": 378.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4745,
+                  "Y": 0.8217
+                },
+                "PreSize": {
+                  "X": 0.1854,
+                  "Y": 0.05
+                },
+                "LeftMargin": 261.5,
+                "RightMargin": 296.5,
+                "TopMargin": 70.5,
+                "BottomMargin": 366.5,
+                "Tag": 227,
+                "ActionTag": -468721194,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "TIỀN THẮNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 600.0,
+                  "Y": 378.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 13,
+                  "G": 0,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8759,
+                  "Y": 0.8217
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.05
+                },
+                "LeftMargin": 531.5,
+                "RightMargin": 16.5,
+                "TopMargin": 70.5,
+                "BottomMargin": 366.5,
+                "Tag": 228,
+                "ActionTag": 1151916234,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1_4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1326056043,
+            "Size": {
+              "X": 685.0,
+              "Y": 460.0
+            },
+            "Name": "JFbackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 322.0,
+              "Y": 150.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2516,
+              "Y": 0.2083
+            },
+            "PreSize": {
+              "X": 0.5,
+              "Y": 0.4167
+            },
+            "LeftMargin": 322.0,
+            "RightMargin": 318.0,
+            "TopMargin": 270.0,
+            "BottomMargin": 150.0,
+            "Tag": 235,
+            "ActionTag": 1043313205,
+            "Size": {
+              "X": 640.0,
+              "Y": 300.0
+            },
+            "Name": "JFListView",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnClose.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 972.0,
+              "Y": 573.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7594,
+              "Y": 0.7958
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 935.5,
+            "RightMargin": 271.5,
+            "TopMargin": 110.5,
+            "BottomMargin": 536.5,
+            "Tag": 6016,
+            "ActionTag": -1408828044,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 409.7131,
+              "Y": 510.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3201,
+              "Y": 0.7083
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.0417
+            },
+            "LeftMargin": 408.2131,
+            "RightMargin": 868.7869,
+            "TopMargin": 195.0,
+            "BottomMargin": 495.0,
+            "Tag": 91,
+            "ActionTag": -664717895,
+            "Size": {
+              "X": 3.0,
+              "Y": 30.0
+            },
+            "Name": "ImgBgLine2_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.5782,
+              "Y": 510.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4419,
+              "Y": 0.7083
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.0417
+            },
+            "LeftMargin": 564.0782,
+            "RightMargin": 712.9218,
+            "TopMargin": 195.0,
+            "BottomMargin": 495.0,
+            "Tag": 109,
+            "ActionTag": -188976744,
+            "Size": {
+              "X": 3.0,
+              "Y": 30.0
+            },
+            "Name": "ImgBgLine2_0_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 686.6381,
+              "Y": 510.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5364,
+              "Y": 0.7083
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.0417
+            },
+            "LeftMargin": 685.1381,
+            "RightMargin": 591.8619,
+            "TopMargin": 195.0,
+            "BottomMargin": 495.0,
+            "Tag": 110,
+            "ActionTag": -1114694328,
+            "Size": {
+              "X": 3.0,
+              "Y": 30.0
+            },
+            "Name": "ImgBgLine2_0_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 1,
+            "Scale9Width": 683,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 840.1803,
+              "Y": 510.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6564,
+              "Y": 0.7083
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.0417
+            },
+            "LeftMargin": 838.6803,
+            "RightMargin": 438.3197,
+            "TopMargin": 195.0,
+            "BottomMargin": 495.0,
+            "Tag": 111,
+            "ActionTag": -1181587098,
+            "Size": {
+              "X": 3.0,
+              "Y": 30.0
+            },
+            "Name": "ImgBgLine2_0_2",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/arialbd.ttf",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.plist",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.png",
+        "Popups/SlotMinigame/bg-khungtaixiu.png",
+        "Popups/SlotMinigame/BtnClose.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

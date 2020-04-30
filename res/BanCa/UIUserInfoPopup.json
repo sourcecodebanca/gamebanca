@@ -1,0 +1,1275 @@
+{
+  "ID": "af339f4f-3ef2-4668-8e84-d9d23a32b67d",
+  "Version": "2.3.4",
+  "Name": "UIUserInfoPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1075,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundMedium.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 1201,
+            "ActionTag": -1634138615,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitlePersonalInfo.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 633.5627,
+              "Y": 657.6575
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 1.0422,
+            "RotationSkewY": 1.0422,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.495,
+              "Y": 0.9134
+            },
+            "PreSize": {
+              "X": 0.2703,
+              "Y": 0.0694
+            },
+            "LeftMargin": 460.5627,
+            "RightMargin": 473.4373,
+            "TopMargin": 37.3425,
+            "BottomMargin": 632.6575,
+            "Tag": 1242,
+            "ActionTag": -634249399,
+            "Size": {
+              "X": 346.0,
+              "Y": 50.0
+            },
+            "Name": "JFTitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Line.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 411.984
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5722
+            },
+            "PreSize": {
+              "X": 0.5352,
+              "Y": 0.0083
+            },
+            "LeftMargin": 297.5,
+            "RightMargin": 297.5,
+            "TopMargin": 305.016,
+            "BottomMargin": 408.984,
+            "Tag": 1243,
+            "ActionTag": -2102645902,
+            "Size": {
+              "X": 685.0,
+              "Y": 6.0
+            },
+            "Name": "JFLine",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": true,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5049,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 525.883,
+              "Y": 504.8947
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4108,
+              "Y": 0.7012
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1667
+            },
+            "LeftMargin": 470.344,
+            "RightMargin": 699.656,
+            "TopMargin": 155.1053,
+            "BottomMargin": 444.8947,
+            "Tag": 1246,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 55.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 55.0,
+                "RightMargin": 55.0,
+                "TopMargin": 60.0,
+                "BottomMargin": 60.0,
+                "Tag": 1244,
+                "ActionTag": -619899426,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFNodeImage",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 144175427,
+            "Size": {
+              "X": 110.0,
+              "Y": 120.0
+            },
+            "Name": "JFClipAvatar",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundAvartar.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 99,
+            "Scale9Height": 116,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 524.0011,
+              "Y": 505.9929
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4094,
+              "Y": 0.7028
+            },
+            "PreSize": {
+              "X": 0.1297,
+              "Y": 0.2389
+            },
+            "LeftMargin": 441.0011,
+            "RightMargin": 672.9989,
+            "TopMargin": 128.0071,
+            "BottomMargin": 419.9929,
+            "Tag": 976,
+            "ActionTag": 796762596,
+            "Size": {
+              "X": 166.0,
+              "Y": 172.0
+            },
+            "Name": "JFCircleAvatar",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "Name",
+            "PlaceHolderText": "Name",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 624.1117,
+              "Y": 557.5579
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4876,
+              "Y": 0.7744
+            },
+            "PreSize": {
+              "X": 0.2109,
+              "Y": 0.0431
+            },
+            "LeftMargin": 624.1117,
+            "RightMargin": 385.8883,
+            "TopMargin": 146.9421,
+            "BottomMargin": 542.0579,
+            "Tag": 1247,
+            "ActionTag": -1834947109,
+            "Size": {
+              "X": 270.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextName",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "Level:",
+            "PlaceHolderText": "Level:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 622.7068,
+              "Y": 512.2361
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4865,
+              "Y": 0.7114
+            },
+            "PreSize": {
+              "X": 0.2109,
+              "Y": 0.0431
+            },
+            "LeftMargin": 622.7068,
+            "RightMargin": 387.2932,
+            "TopMargin": 192.2639,
+            "BottomMargin": 496.7361,
+            "Tag": 1248,
+            "ActionTag": -743798218,
+            "Size": {
+              "X": 270.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextLevel",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "User ID:",
+            "PlaceHolderText": "User ID:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 296.0002,
+              "Y": 376.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2313,
+              "Y": 0.5222
+            },
+            "PreSize": {
+              "X": 0.1641,
+              "Y": 0.0431
+            },
+            "LeftMargin": 296.0002,
+            "RightMargin": 773.9998,
+            "TopMargin": 328.4997,
+            "BottomMargin": 360.5003,
+            "Tag": 1249,
+            "ActionTag": -687996004,
+            "Size": {
+              "X": 210.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextUserID",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "Gold hiện có:",
+            "PlaceHolderText": "Gold hiện có:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 296.0002,
+              "Y": 323.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2313,
+              "Y": 0.4486
+            },
+            "PreSize": {
+              "X": 0.1781,
+              "Y": 0.0431
+            },
+            "LeftMargin": 296.0002,
+            "RightMargin": 755.9998,
+            "TopMargin": 381.4999,
+            "BottomMargin": 307.5001,
+            "Tag": 1250,
+            "ActionTag": -697140054,
+            "Size": {
+              "X": 228.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextGold",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "CMND:",
+            "PlaceHolderText": "CMND:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 294.4977,
+              "Y": 262.8895
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2301,
+              "Y": 0.3651
+            },
+            "PreSize": {
+              "X": 0.1734,
+              "Y": 0.0431
+            },
+            "LeftMargin": 294.4977,
+            "RightMargin": 763.5023,
+            "TopMargin": 441.6105,
+            "BottomMargin": 247.3895,
+            "Tag": 1251,
+            "ActionTag": 204560232,
+            "Size": {
+              "X": 222.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextCMND",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "SĐT:",
+            "PlaceHolderText": "SĐT:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 295.9997,
+              "Y": 193.6427
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2312,
+              "Y": 0.2689
+            },
+            "PreSize": {
+              "X": 0.1695,
+              "Y": 0.0431
+            },
+            "LeftMargin": 295.9997,
+            "RightMargin": 767.0003,
+            "TopMargin": 510.8573,
+            "BottomMargin": 178.1427,
+            "Tag": 1252,
+            "ActionTag": -109203778,
+            "Size": {
+              "X": 217.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextPhoneNumber",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "123",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 513.6812,
+              "Y": 376.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4013,
+              "Y": 0.5222
+            },
+            "PreSize": {
+              "X": 0.2234,
+              "Y": 0.0431
+            },
+            "LeftMargin": 513.6812,
+            "RightMargin": 480.3188,
+            "TopMargin": 328.4997,
+            "BottomMargin": 360.5003,
+            "Tag": 1280,
+            "ActionTag": 40789742,
+            "Size": {
+              "X": 286.0,
+              "Y": 31.0
+            },
+            "Name": "JFTextUID",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "GoldIcon.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.5948,
+              "Y": 322.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4122,
+              "Y": 0.4486
+            },
+            "PreSize": {
+              "X": 0.0258,
+              "Y": 0.0486
+            },
+            "LeftMargin": 511.0948,
+            "RightMargin": 735.9052,
+            "TopMargin": 379.5006,
+            "BottomMargin": 305.4994,
+            "Tag": 1281,
+            "ActionTag": -1974764737,
+            "Size": {
+              "X": 33.0,
+              "Y": 35.0
+            },
+            "Name": "JFGoldIcon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "9.999.999.999",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "Fonts/SoDan.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 551.363,
+              "Y": 321.9916
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 151,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4308,
+              "Y": 0.4472
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.025
+            },
+            "LeftMargin": 551.363,
+            "RightMargin": 603.637,
+            "TopMargin": 389.0084,
+            "BottomMargin": 312.9916,
+            "Tag": 1325,
+            "ActionTag": -1777307825,
+            "Size": {
+              "X": 125.0,
+              "Y": 18.0
+            },
+            "Name": "JFCoin",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundInfo.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 658.0036,
+              "Y": 266.9961
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5141,
+              "Y": 0.3708
+            },
+            "PreSize": {
+              "X": 0.2297,
+              "Y": 0.0569
+            },
+            "LeftMargin": 511.0036,
+            "RightMargin": 474.9964,
+            "TopMargin": 432.5039,
+            "BottomMargin": 246.4961,
+            "Tag": 1326,
+            "ActionTag": -826433712,
+            "Size": {
+              "X": 294.0,
+              "Y": 41.0
+            },
+            "Name": "JFBGInfoCMND",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundInfo.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 657.9999,
+              "Y": 193.5615
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5141,
+              "Y": 0.2688
+            },
+            "PreSize": {
+              "X": 0.2297,
+              "Y": 0.0569
+            },
+            "LeftMargin": 510.9999,
+            "RightMargin": 475.0001,
+            "TopMargin": 505.9385,
+            "BottomMargin": 173.0615,
+            "Tag": 1327,
+            "ActionTag": -998236062,
+            "Size": {
+              "X": 294.0,
+              "Y": 41.0
+            },
+            "Name": "JFBGInfoPhoneNumber",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "ButtonText": "CẬP NHẬT",
+            "TextColor": {
+              "R": 127,
+              "G": 66,
+              "B": 11
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonYellow.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 124,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9848,
+              "Y": 111.9995
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1556
+            },
+            "PreSize": {
+              "X": 0.1203,
+              "Y": 0.0875
+            },
+            "LeftMargin": 562.9848,
+            "RightMargin": 563.0152,
+            "TopMargin": 576.5005,
+            "BottomMargin": 80.4995,
+            "Tag": 1343,
+            "ActionTag": 1553100393,
+            "Size": {
+              "X": 154.0,
+              "Y": 63.0
+            },
+            "Name": "JFButtonUpdate",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 660.0001,
+              "Y": 265.5415
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5156,
+              "Y": 0.3688
+            },
+            "PreSize": {
+              "X": 0.2234,
+              "Y": 0.0417
+            },
+            "LeftMargin": 517.0001,
+            "RightMargin": 476.9999,
+            "TopMargin": 439.4585,
+            "BottomMargin": 250.5415,
+            "Tag": 1344,
+            "ActionTag": -1042595060,
+            "Size": {
+              "X": 286.0,
+              "Y": 30.0
+            },
+            "Name": "JFCMNDInfo",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 660.0001,
+              "Y": 191.8831
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5156,
+              "Y": 0.2665
+            },
+            "PreSize": {
+              "X": 0.2234,
+              "Y": 0.0417
+            },
+            "LeftMargin": 517.0001,
+            "RightMargin": 476.9999,
+            "TopMargin": 513.1169,
+            "BottomMargin": 176.8831,
+            "Tag": 1345,
+            "ActionTag": -1288358869,
+            "Size": {
+              "X": 286.0,
+              "Y": 30.0
+            },
+            "Name": "JFPhoneNumberInfo",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1011.7907,
+              "Y": 653.162
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.8673,
+            "RotationSkewY": 0.8708,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7905,
+              "Y": 0.9072
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 975.2907,
+            "RightMargin": 231.7092,
+            "TopMargin": 30.338,
+            "BottomMargin": 616.662,
+            "Tag": 1389,
+            "ActionTag": -892362901,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnEdit.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 7,
+            "Scale9OriginY": 11,
+            "Scale9Width": 8,
+            "Scale9Height": 3,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 906.0002,
+              "Y": 563.003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7078,
+              "Y": 0.7819
+            },
+            "PreSize": {
+              "X": 0.0234,
+              "Y": 0.0458
+            },
+            "LeftMargin": 891.0002,
+            "RightMargin": 358.9998,
+            "TopMargin": 140.497,
+            "BottomMargin": 546.503,
+            "Tag": 130,
+            "ActionTag": 1236893790,
+            "Size": {
+              "X": 30.0,
+              "Y": 33.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ButtonEdit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 18,
+            "ButtonText": "ĐỔI MẬT KHẨU",
+            "TextColor": {
+              "R": 127,
+              "G": 66,
+              "B": 11
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonYellow.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 124,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 699.0092,
+              "Y": 453.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5461,
+              "Y": 0.6306
+            },
+            "PreSize": {
+              "X": 0.1203,
+              "Y": 0.0875
+            },
+            "LeftMargin": 622.0092,
+            "RightMargin": 503.9908,
+            "TopMargin": 234.5001,
+            "BottomMargin": 422.4999,
+            "Tag": 92,
+            "ActionTag": -1512435530,
+            "Size": {
+              "X": 154.0,
+              "Y": 63.0
+            },
+            "Name": "JFButtonChangePass",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "CMND không hợp lệ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 651.6601,
+              "Y": 229.7664
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5091,
+              "Y": 0.3191
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.0333
+            },
+            "LeftMargin": 561.6601,
+            "RightMargin": 538.3399,
+            "TopMargin": 478.2336,
+            "BottomMargin": 217.7664,
+            "Tag": 557,
+            "ActionTag": -1598401636,
+            "Size": {
+              "X": 180.0,
+              "Y": 24.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFMsgCMNN",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "SĐT không hơp lệ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 651.6601,
+              "Y": 153.8777
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5091,
+              "Y": 0.2137
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.0333
+            },
+            "LeftMargin": 571.6601,
+            "RightMargin": 548.3399,
+            "TopMargin": 554.1223,
+            "BottomMargin": 141.8777,
+            "Tag": 558,
+            "ActionTag": 1014038020,
+            "Size": {
+              "X": 160.0,
+              "Y": 24.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFMsgDT",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/SoDan.fnt",
+        "Fonts/SoDan.png",
+        "JFBackgroundMedium.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

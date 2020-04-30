@@ -1,0 +1,73 @@
+{
+  "ID": "b49a92c6-881e-440b-bf26-4f25dbca124d",
+  "Version": "2.3.4",
+  "Name": "UIChatPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 140,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFChatPopup.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 484.9981,
+              "Y": 337.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5052,
+              "Y": 0.5281
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 484.9981,
+            "RightMargin": 475.0019,
+            "TopMargin": 302.0006,
+            "BottomMargin": 337.9994,
+            "Tag": 751,
+            "ActionTag": 1619348362,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFChatEmoPopup",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFChatPopup.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

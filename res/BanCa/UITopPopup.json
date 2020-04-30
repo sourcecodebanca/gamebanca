@@ -1,0 +1,618 @@
+{
+  "ID": "8e144737-54fc-432a-b0c5-77205ae03a42",
+  "Version": "3.10.0.0",
+  "Name": "UITopPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 318.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4417
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 401.9993,
+            "BottomMargin": 318.0007,
+            "Tag": 64,
+            "ActionTag": -1131836348,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 69.1602,
+              "Y": 22.6033
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.054,
+              "Y": 0.0314
+            },
+            "PreSize": {
+              "X": 0.2031,
+              "Y": 0.7514
+            },
+            "LeftMargin": 69.1602,
+            "RightMargin": 950.8398,
+            "TopMargin": 156.3967,
+            "BottomMargin": 22.6033,
+            "Tag": 288,
+            "Children": [
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackgroundUserItem.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 114,
+                "Scale9OriginY": 53,
+                "Scale9Width": 120,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 129.5399,
+                  "Y": 282.7879
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4982,
+                  "Y": 0.5227
+                },
+                "PreSize": {
+                  "X": 0.9885,
+                  "Y": 0.9261
+                },
+                "LeftMargin": 1.0399,
+                "RightMargin": 1.9601,
+                "TopMargin": 7.7121,
+                "BottomMargin": 32.2879,
+                "Tag": 287,
+                "ActionTag": -2033890026,
+                "Size": {
+                  "X": 257.0,
+                  "Y": 501.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1688169448,
+            "Size": {
+              "X": 260.0,
+              "Y": 541.0
+            },
+            "Name": "JFPanelMask",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TittleRank.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 111,
+            "Scale9OriginY": 15,
+            "Scale9Width": 86,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.0359,
+              "Y": 612.2371
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4914,
+              "Y": 0.8503
+            },
+            "PreSize": {
+              "X": 0.2406,
+              "Y": 0.0861
+            },
+            "LeftMargin": 475.0359,
+            "RightMargin": 496.9641,
+            "TopMargin": 76.7629,
+            "BottomMargin": 581.2371,
+            "Tag": 61,
+            "ActionTag": -939209971,
+            "Size": {
+              "X": 308.0,
+              "Y": 62.0
+            },
+            "Name": "JFtitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 1126,
+              "Height": 524
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -279,
+            "Scale9OriginY": -82,
+            "Scale9Width": 558,
+            "Scale9Height": 160,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 365.4259,
+              "Y": 495.6907
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2855,
+              "Y": 0.6885
+            },
+            "PreSize": {
+              "X": 0.6563,
+              "Y": 0.6125
+            },
+            "LeftMargin": 365.4259,
+            "RightMargin": 74.5741,
+            "TopMargin": 224.3093,
+            "BottomMargin": 54.6907,
+            "Tag": 63,
+            "ActionTag": -637996383,
+            "Size": {
+              "X": 840.0,
+              "Y": 441.0
+            },
+            "Name": "ScrollViewUsers",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnDaiGiaNormal.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 228,
+            "Scale9Height": 177,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 193.0992,
+              "Y": 456.5969
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1509,
+              "Y": 0.6342
+            },
+            "PreSize": {
+              "X": 0.2016,
+              "Y": 0.2764
+            },
+            "LeftMargin": 64.0992,
+            "RightMargin": 957.9008,
+            "TopMargin": 163.9031,
+            "BottomMargin": 357.0969,
+            "Tag": 155,
+            "ActionTag": -1715766322,
+            "Size": {
+              "X": 258.0,
+              "Y": 199.0
+            },
+            "Name": "JFBtnDaiGia",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1225.7344,
+              "Y": 630.8335
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9576,
+              "Y": 0.8762
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1189.2344,
+            "RightMargin": 17.7656,
+            "TopMargin": 52.6665,
+            "BottomMargin": 594.3335,
+            "Tag": 62,
+            "ActionTag": 1500754879,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundScrollViewTop.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 785.0019,
+              "Y": 274.6588
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6133,
+              "Y": 0.3815
+            },
+            "PreSize": {
+              "X": 0.3281,
+              "Y": 0.3069
+            },
+            "LeftMargin": 575.0019,
+            "RightMargin": 284.9981,
+            "TopMargin": 334.8412,
+            "BottomMargin": 164.1588,
+            "Tag": 471,
+            "ActionTag": 1879139187,
+            "Size": {
+              "X": 420.0,
+              "Y": 221.0
+            },
+            "Name": "ScrollMask",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCaoThuNormal.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 235,
+            "Scale9Height": 181,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 193.0992,
+              "Y": 245.2785
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 127,
+              "G": 127,
+              "B": 127
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1509,
+              "Y": 0.3407
+            },
+            "PreSize": {
+              "X": 0.207,
+              "Y": 0.2819
+            },
+            "LeftMargin": 60.5992,
+            "RightMargin": 954.4008,
+            "TopMargin": 373.2215,
+            "BottomMargin": 143.7785,
+            "Tag": 178,
+            "ActionTag": 1369724020,
+            "Size": {
+              "X": 265.0,
+              "Y": 203.0
+            },
+            "Name": "JFBtnCaoThu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TittleScrollViewTop.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 783.862,
+              "Y": 527.6047
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6124,
+              "Y": 0.7328
+            },
+            "PreSize": {
+              "X": 0.3305,
+              "Y": 0.0472
+            },
+            "LeftMargin": 572.362,
+            "RightMargin": 284.638,
+            "TopMargin": 175.3953,
+            "BottomMargin": 510.6047,
+            "Tag": 498,
+            "ActionTag": -1580431889,
+            "Size": {
+              "X": 423.0,
+              "Y": 34.0
+            },
+            "Name": "TittleScrollViewTop_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "Danh Sách 10 Người Giàu Nhất",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.6948,
+              "Y": 518.2309
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2982,
+              "Y": 0.7198
+            },
+            "PreSize": {
+              "X": 0.3836,
+              "Y": 0.0625
+            },
+            "LeftMargin": 381.6948,
+            "RightMargin": 407.3052,
+            "TopMargin": 179.2691,
+            "BottomMargin": 495.7309,
+            "Tag": 499,
+            "ActionTag": 758768850,
+            "Size": {
+              "X": 491.0,
+              "Y": 45.0
+            },
+            "Name": "TittleScrollView",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

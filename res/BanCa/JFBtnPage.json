@@ -1,0 +1,775 @@
+{
+  "ID": "3c31402f-4cca-4f08-9d90-0fbb8efa4d99",
+  "Version": "3.10.0.0",
+  "Name": "JFBtnPage",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2765,
+        "Children": [
+          {
+            "FontSize": 20,
+            "ButtonText": "1",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -27.5,
+            "RightMargin": -27.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2766,
+            "ActionTag": 1386229766,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "2",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 32.5,
+            "RightMargin": -87.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2916,
+            "ActionTag": -717285765,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "3",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 92.5,
+            "RightMargin": -147.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2917,
+            "ActionTag": -2140976399,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "4",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 180.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 152.5,
+            "RightMargin": -207.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2918,
+            "ActionTag": 590037556,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 212.5,
+            "RightMargin": -267.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2919,
+            "ActionTag": -1939097947,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "6",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 272.5,
+            "RightMargin": -327.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2920,
+            "ActionTag": -20709245,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "7",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 332.5,
+            "RightMargin": -387.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2921,
+            "ActionTag": 70256801,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "8",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 420.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 392.5,
+            "RightMargin": -447.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2922,
+            "ActionTag": -235299334,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_8",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "9",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 452.5,
+            "RightMargin": -507.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2923,
+            "ActionTag": -1407604136,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_9",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "10",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 79,
+              "G": 28,
+              "B": 1
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnPageIndex.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "noImage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 512.5,
+            "RightMargin": -567.5,
+            "TopMargin": -27.5,
+            "BottomMargin": -27.5,
+            "Tag": 2924,
+            "ActionTag": 1604590833,
+            "Size": {
+              "X": 55.0,
+              "Y": 55.0
+            },
+            "Name": "JFBtn_10",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Fonts/tahomabd.ttf",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

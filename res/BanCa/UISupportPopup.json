@@ -1,0 +1,560 @@
+{
+  "ID": "6b506f87-8937-4d74-bc2e-69f5351f6405",
+  "Version": "2.3.4",
+  "Name": "UISupportPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 400,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundSmallNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 481,
+            "ActionTag": -1778382716,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleSupport.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.9343,
+              "Y": 511.9767
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -2.0007,
+            "RotationSkewY": -2.0025,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.7111
+            },
+            "PreSize": {
+              "X": 0.1117,
+              "Y": 0.0778
+            },
+            "LeftMargin": 567.4343,
+            "RightMargin": 569.5657,
+            "TopMargin": 180.0233,
+            "BottomMargin": 483.9767,
+            "Tag": 593,
+            "ActionTag": 700396176,
+            "Size": {
+              "X": 143.0,
+              "Y": 56.0
+            },
+            "Name": "JFTitleSupport",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 938.4624,
+              "Y": 515.5017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.8673,
+            "RotationSkewY": 0.8708,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7332,
+              "Y": 0.716
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 901.9624,
+            "RightMargin": 305.0376,
+            "TopMargin": 167.9983,
+            "BottomMargin": 479.0017,
+            "Tag": 928,
+            "ActionTag": -14331516,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/icon_facebook.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 88,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 453.936,
+              "Y": 368.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3546,
+              "Y": 0.5111
+            },
+            "PreSize": {
+              "X": 0.0922,
+              "Y": 0.1639
+            },
+            "LeftMargin": 394.936,
+            "RightMargin": 767.064,
+            "TopMargin": 293.0,
+            "BottomMargin": 309.0,
+            "Tag": 4792,
+            "ActionTag": -2088750224,
+            "Size": {
+              "X": 118.0,
+              "Y": 118.0
+            },
+            "Name": "Btn_SP_Facebook",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/icon_telegram.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 88,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.0,
+              "Y": 368.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5063,
+              "Y": 0.5111
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.1667
+            },
+            "LeftMargin": 588.0,
+            "RightMargin": 572.0,
+            "TopMargin": 292.0,
+            "BottomMargin": 308.0,
+            "Tag": 9,
+            "ActionTag": -1555527106,
+            "Size": {
+              "X": 120.0,
+              "Y": 120.0
+            },
+            "Name": "Btn_SP_Telegram",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "FANPAGE FB",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 457.1977,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3572,
+              "Y": 0.3889
+            },
+            "PreSize": {
+              "X": 0.1008,
+              "Y": 0.0333
+            },
+            "LeftMargin": 392.6977,
+            "RightMargin": 758.3023,
+            "TopMargin": 428.0,
+            "BottomMargin": 268.0,
+            "Tag": 85,
+            "ActionTag": -900287661,
+            "Size": {
+              "X": 129.0,
+              "Y": 24.0
+            },
+            "Name": "lable_facebook",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "TELEGRAM",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.0,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5063,
+              "Y": 0.3889
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.0333
+            },
+            "LeftMargin": 593.0,
+            "RightMargin": 577.0,
+            "TopMargin": 428.0,
+            "BottomMargin": 268.0,
+            "Tag": 364,
+            "ActionTag": 1730074977,
+            "Size": {
+              "X": 110.0,
+              "Y": 24.0
+            },
+            "Name": "lable_telegram",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/icon_telegram.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 88,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 832.0512,
+              "Y": 368.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.65,
+              "Y": 0.5111
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.1667
+            },
+            "LeftMargin": 772.0512,
+            "RightMargin": 387.9488,
+            "TopMargin": 292.0,
+            "BottomMargin": 308.0,
+            "Tag": 365,
+            "ActionTag": 627175977,
+            "Size": {
+              "X": 120.0,
+              "Y": 120.0
+            },
+            "Name": "Btn_SP_Admin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "ADMIN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 831.2133,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 13,
+              "G": 0,
+              "B": 75
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6494,
+              "Y": 0.3889
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.0333
+            },
+            "LeftMargin": 794.7133,
+            "RightMargin": 412.2867,
+            "TopMargin": 428.0,
+            "BottomMargin": 268.0,
+            "Tag": 366,
+            "ActionTag": -1480985135,
+            "Size": {
+              "X": 73.0,
+              "Y": 24.0
+            },
+            "Name": "lable_admin",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/tahomabd.ttf",
+        "JFBackgroundSmallNormal.json",
+        "MenuGame/Buttons/icon_facebook.png",
+        "MenuGame/Buttons/icon_telegram.png",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

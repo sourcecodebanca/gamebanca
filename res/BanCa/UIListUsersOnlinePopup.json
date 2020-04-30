@@ -1,0 +1,244 @@
+{
+  "ID": "97afcca7-1d0a-4ad6-a7f2-26031e97047c",
+  "Version": "3.10.0.0",
+  "Name": "UIListUsersOnlinePopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 638.0001,
+              "Y": 318.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4984,
+              "Y": 0.4417
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 638.0001,
+            "RightMargin": 641.9999,
+            "TopMargin": 402.0,
+            "BottomMargin": 318.0,
+            "Tag": 98,
+            "ActionTag": -2140365530,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleListUsersOnline.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 111,
+            "Scale9OriginY": 15,
+            "Scale9Width": 117,
+            "Scale9Height": 18,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.04,
+              "Y": 610.24
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4914,
+              "Y": 0.8476
+            },
+            "PreSize": {
+              "X": 0.2648,
+              "Y": 0.0667
+            },
+            "LeftMargin": 459.54,
+            "RightMargin": 481.46,
+            "TopMargin": 85.76,
+            "BottomMargin": 586.24,
+            "Tag": 121,
+            "ActionTag": 86240753,
+            "Size": {
+              "X": 339.0,
+              "Y": 48.0
+            },
+            "Name": "JFtitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1225.7343,
+              "Y": 629.8344
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.8673,
+            "RotationSkewY": 0.8708,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9576,
+              "Y": 0.8748
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1189.2343,
+            "RightMargin": 17.7657,
+            "TopMargin": 53.6656,
+            "BottomMargin": 593.3344,
+            "Tag": 67,
+            "ActionTag": 654165704,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 1126,
+              "Height": 524
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 75.9294,
+              "Y": 551.0043
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0593,
+              "Y": 0.7653
+            },
+            "PreSize": {
+              "X": 0.8797,
+              "Y": 0.7264
+            },
+            "LeftMargin": 75.9294,
+            "RightMargin": 78.0706,
+            "TopMargin": 168.9957,
+            "BottomMargin": 28.0043,
+            "Tag": 120,
+            "ActionTag": 1092861645,
+            "Size": {
+              "X": 1126.0,
+              "Y": 523.0
+            },
+            "Name": "ScrollViewUsers",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

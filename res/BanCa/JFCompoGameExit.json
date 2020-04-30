@@ -1,0 +1,129 @@
+{
+  "ID": "f42ba332-2769-4f98-86e1-684bd13038ad",
+  "Version": "2.3.4",
+  "Name": "JFCompoGameExit",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ExitMsg.png",
+              "Plist": "MenuGame/UnknowItems/AtlasUnknowItems.plist"
+            },
+            "Scale9OriginX": 184,
+            "Scale9OriginY": 41,
+            "Scale9Width": 190,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -279.0,
+            "RightMargin": -279.0,
+            "TopMargin": -63.5,
+            "BottomMargin": -63.5,
+            "Tag": 20,
+            "ActionTag": -1087887873,
+            "Size": {
+              "X": 558.0,
+              "Y": 127.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "10",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -238.349,
+              "Y": -30.5721
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -305.849,
+            "RightMargin": 170.849,
+            "TopMargin": 13.0721,
+            "BottomMargin": -48.0721,
+            "Tag": 21,
+            "ActionTag": 645435865,
+            "Size": {
+              "X": 135.0,
+              "Y": 35.0
+            },
+            "Name": "JFTxtCountdown",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "MenuGame/UnknowItems/AtlasUnknowItems.plist",
+        "MenuGame/UnknowItems/AtlasUnknowItems.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

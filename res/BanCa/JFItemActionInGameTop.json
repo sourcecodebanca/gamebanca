@@ -1,0 +1,601 @@
+{
+  "ID": "9c197274-003c-4bf5-85f6-c2da1f3770b3",
+  "Version": "2.3.4",
+  "Name": "JFItemActionInGameTop",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 251,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_CIRCLE_LINE_BG.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "Scale9OriginX": 70,
+            "Scale9OriginY": 38,
+            "Scale9Width": 73,
+            "Scale9Height": 42,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.1821,
+              "Y": -6.7565
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.3179,
+            "RightMargin": -107.6821,
+            "TopMargin": -33.2435,
+            "BottomMargin": -46.7565,
+            "Tag": 267,
+            "ActionTag": 412601457,
+            "Size": {
+              "X": 213.0,
+              "Y": 80.0
+            },
+            "Name": "JFActionLine",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_ACTION_LINE.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 63,
+            "Scale9Height": 83,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -30.0,
+            "RightMargin": -30.0,
+            "TopMargin": 30.0,
+            "BottomMargin": -90.0,
+            "Tag": 1273,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_ACTION_BG_NORMAL.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 33,
+                "Scale9Height": 33,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 1275,
+                "ActionTag": -700550436,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "ImgBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_BTN_INFO.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 16,
+                "Scale9Width": 11,
+                "Scale9Height": 19,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 20.0,
+                  "Y": 14.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3333,
+                  "Y": 0.2333
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.5
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 20.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 14.0,
+                "Tag": 1274,
+                "ActionTag": 702669939,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 30.0
+                },
+                "Name": "ImgUserInfo",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 391955749,
+            "Size": {
+              "X": 60.0,
+              "Y": 60.0
+            },
+            "Name": "JFBtnUserInfo",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_ACTION_LINE.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 63,
+            "Scale9Height": 83,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0,
+              "Y": -10.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 75.0,
+            "RightMargin": -135.0,
+            "TopMargin": -20.0,
+            "BottomMargin": -40.0,
+            "Tag": 616,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_ACTION_BG_NORMAL.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 33,
+                "Scale9Height": 33,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0002,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.0002,
+                "RightMargin": -0.0002,
+                "Tag": 617,
+                "ActionTag": -853526805,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "ImgBackgroundNormal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_ACTION_BG_DISABLE.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 25,
+                "Scale9Height": 25,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 618,
+                "ActionTag": -1394693493,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBackgroundDisable",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_BTN_ADD_FRIEND.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 63,
+                "Scale9Height": 63,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 2.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1333,
+                  "Y": 0.0333
+                },
+                "PreSize": {
+                  "X": 0.8333,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 2.0,
+                "TopMargin": 8.0,
+                "BottomMargin": 2.0,
+                "Tag": 619,
+                "ActionTag": -522970866,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "ImgAddFriend",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -804306536,
+            "Size": {
+              "X": 60.0,
+              "Y": 60.0
+            },
+            "Name": "JFBtnAddFriend",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_ACTION_LINE.png",
+              "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 63,
+            "Scale9Height": 83,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -105.0,
+              "Y": -10.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -135.0,
+            "RightMargin": 75.0,
+            "TopMargin": -20.0,
+            "BottomMargin": -40.0,
+            "Tag": 90,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_ACTION_BG_NORMAL.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 33,
+                "Scale9Height": 33,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 91,
+                "ActionTag": 2147201196,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "ImgBackgroundNormal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_ACTION_BG_DISABLE.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 25,
+                "Scale9Height": 25,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 92,
+                "ActionTag": -1206246288,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ImgBackgroundDisable",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_BTN_CHAT.png",
+                  "Plist": "ScreenGame/Guns/AtlasGuns.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 21,
+                "Scale9Height": 13,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 13.0,
+                  "Y": 14.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2167,
+                  "Y": 0.2333
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "LeftMargin": 13.0,
+                "RightMargin": 17.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 14.0,
+                "Tag": 93,
+                "ActionTag": 1983679258,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "ImgChat",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 703319497,
+            "Size": {
+              "X": 60.0,
+              "Y": 60.0
+            },
+            "Name": "JFBtnChat",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "JFItemAction",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "ScreenGame/Guns/AtlasGuns.plist",
+        "ScreenGame/Guns/AtlasGuns.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

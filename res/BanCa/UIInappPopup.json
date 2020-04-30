@@ -1,0 +1,539 @@
+{
+  "ID": "ac2a6356-2cdd-4e68-b7ff-acbb9d3c2a9f",
+  "Version": "2.3.4",
+  "Name": "UIInappPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 163,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigShop.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 327.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4542
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 393.0,
+            "BottomMargin": 327.0,
+            "Tag": 1388,
+            "ActionTag": -97249474,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleShop.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 65,
+            "Scale9OriginY": 16,
+            "Scale9Width": 68,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 632.9434,
+              "Y": 627.1623
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -2.0007,
+            "RotationSkewY": -2.0007,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4945,
+              "Y": 0.8711
+            },
+            "PreSize": {
+              "X": 0.1547,
+              "Y": 0.0681
+            },
+            "LeftMargin": 533.9434,
+            "RightMargin": 548.0566,
+            "TopMargin": 68.3377,
+            "BottomMargin": 602.6623,
+            "Tag": 1131,
+            "ActionTag": -1729482774,
+            "Size": {
+              "X": 198.0,
+              "Y": 49.0
+            },
+            "Name": "JFTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1211.8099,
+              "Y": 629.0997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9467,
+              "Y": 0.8737
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1175.3099,
+            "RightMargin": 31.6901,
+            "TopMargin": 54.4003,
+            "BottomMargin": 592.5997,
+            "Tag": 378,
+            "ActionTag": -1268909616,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "small panel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 798,
+            "Scale9Height": 460,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.6667
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.1111
+            },
+            "LeftMargin": 155.0,
+            "RightMargin": 125.0,
+            "TopMargin": 200.0,
+            "BottomMargin": 440.0,
+            "Tag": 1080,
+            "ActionTag": 43868837,
+            "Size": {
+              "X": 1000.0,
+              "Y": 80.0
+            },
+            "Name": "BG_xu1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "small panel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 798,
+            "Scale9Height": 460,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.0,
+              "Y": 380.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.5278
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.1111
+            },
+            "LeftMargin": 155.0,
+            "RightMargin": 125.0,
+            "TopMargin": 300.0,
+            "BottomMargin": 340.0,
+            "Tag": 1114,
+            "ActionTag": -250469730,
+            "Size": {
+              "X": 1000.0,
+              "Y": 80.0
+            },
+            "Name": "BG_xu2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "small panel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 798,
+            "Scale9Height": 460,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.0,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.3889
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.1111
+            },
+            "LeftMargin": 155.0,
+            "RightMargin": 125.0,
+            "TopMargin": 400.0,
+            "BottomMargin": 240.0,
+            "Tag": 1115,
+            "ActionTag": -1633048591,
+            "Size": {
+              "X": 1000.0,
+              "Y": 80.0
+            },
+            "Name": "BG_xu3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "small panel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 798,
+            "Scale9Height": 460,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 665.0001,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5195,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.1111
+            },
+            "LeftMargin": 165.0001,
+            "RightMargin": 114.9999,
+            "TopMargin": 500.0,
+            "BottomMargin": 140.0,
+            "Tag": 1116,
+            "ActionTag": -66661698,
+            "Size": {
+              "X": 1000.0,
+              "Y": 80.0
+            },
+            "Name": "BG_xu4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "InappItem.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 655.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.6667
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 655.0,
+            "RightMargin": 625.0,
+            "TopMargin": 240.0,
+            "BottomMargin": 480.0,
+            "Tag": 418,
+            "ActionTag": -483470727,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "xu1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "InappItem.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 655.0,
+              "Y": 380.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.5278
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 655.0,
+            "RightMargin": 625.0,
+            "TopMargin": 340.0,
+            "BottomMargin": 380.0,
+            "Tag": 517,
+            "ActionTag": 240418855,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "xu2",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "InappItem.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 655.0,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.3889
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 655.0,
+            "RightMargin": 625.0,
+            "TopMargin": 440.0,
+            "BottomMargin": 280.0,
+            "Tag": 523,
+            "ActionTag": 499760844,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "xu3",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "InappItem.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 655.0,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5117,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 655.0,
+            "RightMargin": 625.0,
+            "TopMargin": 540.0,
+            "BottomMargin": 180.0,
+            "Tag": 529,
+            "ActionTag": -1692942073,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "xu4",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "InappItem.json",
+        "JFBackgroundBigShop.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,997 @@
+{
+  "ID": "43101890-20f3-4b9f-aa15-f1c4485173a7",
+  "Version": "2.3.4",
+  "Name": "JFPopupXepHangLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 144,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.8333
+            },
+            "LeftMargin": 240.0,
+            "RightMargin": 240.0,
+            "TopMargin": 60.0,
+            "BottomMargin": 60.0,
+            "Tag": 272,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFBackgroundBigNormal.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 401.0053,
+                  "Y": 269.5193
+                },
+                "Scale": {
+                  "ScaleX": 0.51,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.4492
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 401.0053,
+                "RightMargin": 398.9947,
+                "TopMargin": 330.4807,
+                "BottomMargin": 269.5193,
+                "Tag": 5926,
+                "ActionTag": -346594460,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BGContent.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 64,
+                "Scale9OriginY": 44,
+                "Scale9Width": 68,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 403.4966,
+                  "Y": 250.2582
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5044,
+                  "Y": 0.4171
+                },
+                "PreSize": {
+                  "X": 0.685,
+                  "Y": 0.55
+                },
+                "LeftMargin": 129.4966,
+                "RightMargin": 122.5034,
+                "TopMargin": 184.7418,
+                "BottomMargin": 85.2582,
+                "Tag": 274,
+                "ActionTag": -1795965364,
+                "Size": {
+                  "X": 548.0,
+                  "Y": 330.0
+                },
+                "Name": "Image_12",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "HeaderRow.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9Width": 61,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 403.7635,
+                  "Y": 427.7237
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5047,
+                  "Y": 0.7129
+                },
+                "PreSize": {
+                  "X": 0.6875,
+                  "Y": 0.0567
+                },
+                "LeftMargin": 128.7635,
+                "RightMargin": 121.2365,
+                "TopMargin": 155.2763,
+                "BottomMargin": 410.7237,
+                "Tag": 275,
+                "ActionTag": 78952419,
+                "Size": {
+                  "X": 550.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 1,
+                "Scale9Width": 683,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 246.0139,
+                  "Y": 424.5156
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3075,
+                  "Y": 0.7075
+                },
+                "PreSize": {
+                  "X": 0.0037,
+                  "Y": 0.0467
+                },
+                "LeftMargin": 244.5139,
+                "RightMargin": 552.4861,
+                "TopMargin": 161.4844,
+                "BottomMargin": 410.5156,
+                "Tag": 276,
+                "ActionTag": -530079334,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_14",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Line.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 1,
+                "Scale9Width": 683,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 461.0131,
+                  "Y": 424.5156
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5763,
+                  "Y": 0.7075
+                },
+                "PreSize": {
+                  "X": 0.0037,
+                  "Y": 0.0467
+                },
+                "LeftMargin": 459.5131,
+                "RightMargin": 337.4869,
+                "TopMargin": 161.4844,
+                "BottomMargin": 410.5156,
+                "Tag": 277,
+                "ActionTag": -1736752245,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_14_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Hạng",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.7179,
+                  "Y": 425.5134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 71,
+                  "G": 44,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2309,
+                  "Y": 0.7092
+                },
+                "PreSize": {
+                  "X": 0.1325,
+                  "Y": 0.04
+                },
+                "LeftMargin": 131.7179,
+                "RightMargin": 562.2821,
+                "TopMargin": 162.4866,
+                "BottomMargin": 413.5134,
+                "Tag": 278,
+                "ActionTag": 373853056,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 24.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Tên người chơi",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 351.1677,
+                  "Y": 425.5134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 71,
+                  "G": 44,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.439,
+                  "Y": 0.7092
+                },
+                "PreSize": {
+                  "X": 0.245,
+                  "Y": 0.04
+                },
+                "LeftMargin": 253.1677,
+                "RightMargin": 350.8323,
+                "TopMargin": 162.4866,
+                "BottomMargin": 413.5134,
+                "Tag": 279,
+                "ActionTag": -252359134,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 24.0
+                },
+                "Name": "Text_7_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Phần thưởng",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.0464,
+                  "Y": 425.5134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 71,
+                  "G": 44,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7126,
+                  "Y": 0.7092
+                },
+                "PreSize": {
+                  "X": 0.1963,
+                  "Y": 0.04
+                },
+                "LeftMargin": 491.5464,
+                "RightMargin": 151.4536,
+                "TopMargin": 162.4866,
+                "BottomMargin": 413.5134,
+                "Tag": 280,
+                "ActionTag": 1263279839,
+                "Size": {
+                  "X": 157.0,
+                  "Y": 24.0
+                },
+                "Name": "Text_7_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1357283019,
+            "Size": {
+              "X": 800.0,
+              "Y": 600.0
+            },
+            "Name": "JFBackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 1123,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 432.7
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -432.7,
+                "BottomMargin": 432.7,
+                "Tag": 288,
+                "ActionTag": 1087708114,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 397.8111
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -397.8111,
+                "BottomMargin": 397.8111,
+                "Tag": 311,
+                "ActionTag": 1359478978,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 362.9222
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -362.9222,
+                "BottomMargin": 362.9222,
+                "Tag": 319,
+                "ActionTag": -514522076,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 328.0333
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -328.0333,
+                "BottomMargin": 328.0333,
+                "Tag": 327,
+                "ActionTag": -985610133,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 293.1444
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -293.1444,
+                "BottomMargin": 293.1444,
+                "Tag": 335,
+                "ActionTag": -761277725,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem4",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 258.2555
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -258.2555,
+                "BottomMargin": 258.2555,
+                "Tag": 343,
+                "ActionTag": -2004093018,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem5",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 223.3666
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -223.3666,
+                "BottomMargin": 223.3666,
+                "Tag": 351,
+                "ActionTag": -809718800,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem6",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 188.4778
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -188.4778,
+                "BottomMargin": 188.4778,
+                "Tag": 359,
+                "ActionTag": -327737773,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem7",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "JFItemXepHangNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 366.0,
+                  "Y": 153.5889
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 366.0,
+                "RightMargin": -366.0,
+                "TopMargin": -153.5889,
+                "BottomMargin": 153.5889,
+                "Tag": 367,
+                "ActionTag": -812489498,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem8",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -646839619,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFListItem",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleXepHang.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 73,
+            "Scale9OriginY": 14,
+            "Scale9Width": 77,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.082,
+              "Y": 552.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 1.1051,
+            "RotationSkewY": 1.1051,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5001,
+              "Y": 0.7667
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.05
+            },
+            "LeftMargin": 550.082,
+            "RightMargin": 549.918,
+            "TopMargin": 149.9999,
+            "BottomMargin": 534.0001,
+            "Tag": 383,
+            "ActionTag": -594553654,
+            "Size": {
+              "X": 180.0,
+              "Y": 36.0
+            },
+            "Name": "Image_46",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 939.7607,
+              "Y": 546.3607
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7342,
+              "Y": 0.7588
+            },
+            "PreSize": {
+              "X": 0.0484,
+              "Y": 0.0861
+            },
+            "LeftMargin": 908.7607,
+            "RightMargin": 309.2393,
+            "TopMargin": 142.6393,
+            "BottomMargin": 515.3607,
+            "Tag": 3746,
+            "ActionTag": -820283663,
+            "Size": {
+              "X": 62.0,
+              "Y": 62.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundBigNormal.json",
+        "JFItemXepHangNode.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.plist",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

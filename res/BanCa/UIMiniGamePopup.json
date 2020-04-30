@@ -1,0 +1,431 @@
+{
+  "ID": "f4f1aa95-1735-4fb2-816a-7f91ec88cd9d",
+  "Version": "2.3.4",
+  "Name": "UIMiniGamePopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 340,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 318.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4417
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 402.0,
+            "BottomMargin": 318.0,
+            "Tag": 357,
+            "ActionTag": -969643523,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackGround",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1214.4878,
+              "Y": 624.9027
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9488,
+              "Y": 0.8679
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1177.9878,
+            "RightMargin": 29.0122,
+            "TopMargin": 58.5973,
+            "BottomMargin": 588.4027,
+            "Tag": 563,
+            "ActionTag": -640561984,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleMiniGame.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9052,
+              "Y": 633.6392
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.647,
+            "RotationSkewY": 0.647,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.8801
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.0583
+            },
+            "LeftMargin": 537.4052,
+            "RightMargin": 537.5948,
+            "TopMargin": 65.3608,
+            "BottomMargin": 612.6392,
+            "Tag": 564,
+            "ActionTag": -614347879,
+            "Size": {
+              "X": 205.0,
+              "Y": 42.0
+            },
+            "Name": "JFTitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGContent.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 64,
+            "Scale9OriginY": 64,
+            "Scale9Width": 68,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 292.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4062
+            },
+            "PreSize": {
+              "X": 0.8625,
+              "Y": 0.6944
+            },
+            "LeftMargin": 88.0,
+            "RightMargin": 88.0,
+            "TopMargin": 177.5,
+            "BottomMargin": 42.5,
+            "Tag": 566,
+            "ActionTag": 1790145495,
+            "Size": {
+              "X": 1104.0,
+              "Y": 500.0
+            },
+            "Name": "bgContent",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconVongQuay.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 156,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 195.0,
+              "Y": 425.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1523,
+              "Y": 0.5903
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.2472
+            },
+            "LeftMargin": 115.0,
+            "RightMargin": 1005.0,
+            "TopMargin": 206.0,
+            "BottomMargin": 336.0,
+            "Tag": 568,
+            "ActionTag": 1558087165,
+            "Size": {
+              "X": 160.0,
+              "Y": 178.0
+            },
+            "Name": "JFButtonVongQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconTaiXiu.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 157,
+            "Scale9Height": 181,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 410.0,
+              "Y": 437.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3203,
+              "Y": 0.6069
+            },
+            "PreSize": {
+              "X": 0.1461,
+              "Y": 0.2819
+            },
+            "LeftMargin": 316.5,
+            "RightMargin": 776.5,
+            "TopMargin": 181.5,
+            "BottomMargin": 335.5,
+            "Tag": 569,
+            "ActionTag": -1053246049,
+            "Size": {
+              "X": 187.0,
+              "Y": 203.0
+            },
+            "Name": "JFButtonTaiXiu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnSlot777.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 153,
+            "Scale9Height": 198,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 610.6081,
+              "Y": 428.5874
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.477,
+              "Y": 0.5953
+            },
+            "PreSize": {
+              "X": 0.143,
+              "Y": 0.3056
+            },
+            "LeftMargin": 519.1081,
+            "RightMargin": 577.8919,
+            "TopMargin": 181.4126,
+            "BottomMargin": 318.5874,
+            "Tag": 289,
+            "ActionTag": 728196958,
+            "Size": {
+              "X": 183.0,
+              "Y": 220.0
+            },
+            "Name": "JFButtonSlot",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.plist",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.png",
+        "Popups/SlotMinigame/BtnSlot777.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

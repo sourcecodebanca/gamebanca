@@ -1,0 +1,1897 @@
+{
+  "ID": "cf0dc014-348d-49ef-9ac1-b2c9b1f641a1",
+  "Version": "3.10.0.0",
+  "Name": "UIVongQuaySeason",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 87,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 125,
+            "ActionTag": -1770183743,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "JFBackGround",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BACKGROUND.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 284,
+            "Scale9OriginY": 197,
+            "Scale9Width": 685,
+            "Scale9Height": 273,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.88,
+              "Y": 358.92
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5085,
+              "Y": 0.4985
+            },
+            "PreSize": {
+              "X": 0.9789,
+              "Y": 0.9264
+            },
+            "LeftMargin": 24.38,
+            "RightMargin": 2.62,
+            "TopMargin": 27.58,
+            "BottomMargin": 25.42,
+            "Tag": 124,
+            "ActionTag": -1648044247,
+            "Size": {
+              "X": 1253.0,
+              "Y": 667.0
+            },
+            "Name": "JFBackgroundTienCa",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_VONG_QUAY.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5025,
+              "ScaleY": 0.5078
+            },
+            "Position": {
+              "X": 911.716,
+              "Y": 288.5229
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 22.5,
+            "RotationSkewY": 22.5,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7123,
+              "Y": 0.4007
+            },
+            "PreSize": {
+              "X": 0.2617,
+              "Y": 0.4653
+            },
+            "LeftMargin": 743.3785,
+            "RightMargin": 201.6215,
+            "TopMargin": 266.5901,
+            "BottomMargin": 118.4099,
+            "Tag": 107,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4833,
+                  "ScaleY": 0.4784
+                },
+                "Position": {
+                  "X": 167.0931,
+                  "Y": 247.2064
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -90.0087,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.7379
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 135.6786,
+                "RightMargin": 134.3214,
+                "TopMargin": 61.7136,
+                "BottomMargin": 223.2864,
+                "Tag": 108,
+                "ActionTag": 785221922,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 223.7528,
+                  "Y": 225.7164
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -45.0012,
+                "RotationSkewY": -44.9994,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6679,
+                  "Y": 0.6738
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 191.2528,
+                "RightMargin": 78.7472,
+                "TopMargin": 84.2836,
+                "BottomMargin": 200.7164,
+                "Tag": 109,
+                "ActionTag": 1237008161,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 248.8504,
+                  "Y": 170.7711
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7428,
+                  "Y": 0.5098
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 216.3504,
+                "RightMargin": 53.6496,
+                "TopMargin": 139.2289,
+                "BottomMargin": 145.7711,
+                "Tag": 110,
+                "ActionTag": 694395066,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 223.7531,
+                  "Y": 111.2504
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 44.9988,
+                "RotationSkewY": 45.0012,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6679,
+                  "Y": 0.3321
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 191.2531,
+                "RightMargin": 78.7469,
+                "TopMargin": 198.7496,
+                "BottomMargin": 86.2504,
+                "Tag": 111,
+                "ActionTag": 1353906326,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.6601,
+                  "Y": 86.0107
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0018,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5094,
+                  "Y": 0.2567
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 138.1601,
+                "RightMargin": 131.8399,
+                "TopMargin": 223.9893,
+                "BottomMargin": 61.0107,
+                "Tag": 112,
+                "ActionTag": -940821363,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.7506,
+                  "Y": 109.6098
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 134.9988,
+                "RotationSkewY": 135.0012,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3336,
+                  "Y": 0.3272
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 79.2506,
+                "RightMargin": 190.7494,
+                "TopMargin": 200.3902,
+                "BottomMargin": 84.6098,
+                "Tag": 113,
+                "ActionTag": 332883183,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem6",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.5867,
+                  "Y": 168.3095
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0017,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2555,
+                  "Y": 0.5024
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 53.0867,
+                "RightMargin": 216.9133,
+                "TopMargin": 141.6905,
+                "BottomMargin": 143.3095,
+                "Tag": 114,
+                "ActionTag": 1700137198,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 108.2249,
+                  "Y": 225.2255
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 225.0012,
+                "RotationSkewY": 225.0012,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3231,
+                  "Y": 0.6723
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.1493
+                },
+                "LeftMargin": 75.7249,
+                "RightMargin": 194.2751,
+                "TopMargin": 84.7745,
+                "BottomMargin": 200.2255,
+                "Tag": 115,
+                "ActionTag": 995029851,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtItem8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 165.0519,
+                  "Y": 311.1935
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4927,
+                  "Y": 0.9289
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 165.0519,
+                "RightMargin": 169.9481,
+                "TopMargin": 23.8065,
+                "BottomMargin": 311.1935,
+                "Tag": 116,
+                "ActionTag": -2134232111,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 266.6212,
+                  "Y": 269.1726
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 45.0,
+                "RotationSkewY": 45.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7959,
+                  "Y": 0.8035
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 266.6212,
+                "RightMargin": 68.3788,
+                "TopMargin": 65.8274,
+                "BottomMargin": 269.1726,
+                "Tag": 117,
+                "ActionTag": -1102368363,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 307.4129,
+                  "Y": 170.0724
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.9177,
+                  "Y": 0.5077
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 307.4129,
+                "RightMargin": 27.5871,
+                "TopMargin": 164.9276,
+                "BottomMargin": 170.0724,
+                "Tag": 118,
+                "ActionTag": -1737221848,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 266.3972,
+                  "Y": 66.9747
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 135.0013,
+                "RotationSkewY": 135.0012,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7952,
+                  "Y": 0.1999
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 266.3972,
+                "RightMargin": 68.6028,
+                "TopMargin": 268.0253,
+                "BottomMargin": 66.9747,
+                "Tag": 119,
+                "ActionTag": 1136427230,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 168.5933,
+                  "Y": 24.9943
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0007,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5033,
+                  "Y": 0.0746
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 168.5933,
+                "RightMargin": 166.4067,
+                "TopMargin": 310.0057,
+                "BottomMargin": 24.9943,
+                "Tag": 120,
+                "ActionTag": -1512302381,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 66.1341,
+                  "Y": 65.7691
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -135.0,
+                "RotationSkewY": -134.9988,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1974,
+                  "Y": 0.1963
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 66.1341,
+                "RightMargin": 268.8659,
+                "TopMargin": 269.2309,
+                "BottomMargin": 65.7691,
+                "Tag": 121,
+                "ActionTag": 1266753260,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem6",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 25.653,
+                  "Y": 164.3005
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -89.9983,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0766,
+                  "Y": 0.4904
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 25.653,
+                "RightMargin": 309.347,
+                "TopMargin": 170.6995,
+                "BottomMargin": 164.3005,
+                "Tag": 122,
+                "ActionTag": 1648957554,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem7",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.8864,
+                  "Y": 265.3107
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -45.0012,
+                "RotationSkewY": -44.9988,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1818,
+                  "Y": 0.792
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.8864,
+                "RightMargin": 274.1136,
+                "TopMargin": 69.6893,
+                "BottomMargin": 265.3107,
+                "Tag": 123,
+                "ActionTag": -1548898221,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem8",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -1056332808,
+            "Size": {
+              "X": 335.0,
+              "Y": 335.0
+            },
+            "Name": "JFVongQuay",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_MASK.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 110,
+            "Scale9OriginY": 111,
+            "Scale9Width": 284,
+            "Scale9Height": 286,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.8788,
+              "Y": 280.9099
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7116,
+              "Y": 0.3902
+            },
+            "PreSize": {
+              "X": 0.3938,
+              "Y": 0.7056
+            },
+            "LeftMargin": 658.8788,
+            "RightMargin": 117.1212,
+            "TopMargin": 185.0901,
+            "BottomMargin": 26.9099,
+            "Tag": 101,
+            "ActionTag": 519817973,
+            "Size": {
+              "X": 504.0,
+              "Y": 508.0
+            },
+            "Name": "JFMask",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_KIM_CHON.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 15,
+            "Scale9Width": 16,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 908.88,
+              "Y": 327.0494
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7101,
+              "Y": 0.4542
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0653
+            },
+            "LeftMargin": 886.88,
+            "RightMargin": 349.12,
+            "TopMargin": 369.4506,
+            "BottomMargin": 303.5494,
+            "Tag": 126,
+            "ActionTag": -1829319302,
+            "Size": {
+              "X": 44.0,
+              "Y": 47.0
+            },
+            "Name": "JFKimChon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_VONG_QUAY_BG.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 136,
+            "Scale9OriginY": 180,
+            "Scale9Width": 101,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.8788,
+              "Y": 285.9098
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7116,
+              "Y": 0.3971
+            },
+            "PreSize": {
+              "X": 0.2914,
+              "Y": 0.5181
+            },
+            "LeftMargin": 724.3788,
+            "RightMargin": 182.6212,
+            "TopMargin": 247.5902,
+            "BottomMargin": 99.4098,
+            "Tag": 102,
+            "ActionTag": -260759462,
+            "Size": {
+              "X": 373.0,
+              "Y": 373.0
+            },
+            "Name": "JFBGVongQuay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_QUAY_DISABLE.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_QUAY_HOVER.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_QUAY.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 72,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.8784,
+              "Y": 283.91
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7116,
+              "Y": 0.3943
+            },
+            "PreSize": {
+              "X": 0.0727,
+              "Y": 0.1306
+            },
+            "LeftMargin": 864.3784,
+            "RightMargin": 322.6216,
+            "TopMargin": 389.09,
+            "BottomMargin": 236.91,
+            "Tag": 100,
+            "ActionTag": -992979484,
+            "Size": {
+              "X": 93.0,
+              "Y": 94.0
+            },
+            "Name": "JFButtonQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_THE_LE_HOVER.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_THE_LE.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 55,
+            "Scale9Height": 27,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 413.972,
+              "Y": 401.3055
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3234,
+              "Y": 0.5574
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.0681
+            },
+            "LeftMargin": 371.472,
+            "RightMargin": 823.528,
+            "TopMargin": 294.1945,
+            "BottomMargin": 376.8055,
+            "Tag": 99,
+            "ActionTag": -172419072,
+            "Size": {
+              "X": 85.0,
+              "Y": 49.0
+            },
+            "Name": "JFButtonTheLe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_USER_TRUNG_GIAI_HOVER.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_USER_TRUNG_GIAI.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 27,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 526.562,
+              "Y": 401.6615
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4114,
+              "Y": 0.5579
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.0681
+            },
+            "LeftMargin": 458.062,
+            "RightMargin": 684.938,
+            "TopMargin": 293.8385,
+            "BottomMargin": 377.1615,
+            "Tag": 98,
+            "ActionTag": 896921,
+            "Size": {
+              "X": 137.0,
+              "Y": 49.0
+            },
+            "Name": "JFButtonTrungGiai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_LICH_SU_HOVER.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_LICH_SU.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 101,
+            "Scale9Height": 27,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 661.2703,
+              "Y": 401.9269
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5166,
+              "Y": 0.5582
+            },
+            "PreSize": {
+              "X": 0.1023,
+              "Y": 0.0681
+            },
+            "LeftMargin": 595.7703,
+            "RightMargin": 553.2297,
+            "TopMargin": 293.5731,
+            "BottomMargin": 377.4269,
+            "Tag": 97,
+            "ActionTag": -955924697,
+            "Size": {
+              "X": 131.0,
+              "Y": 49.0
+            },
+            "Name": "JFButtonLichSu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.0874,
+              "Y": 476.9844
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 3,
+              "B": 56
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4626,
+              "Y": 0.6625
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0319
+            },
+            "LeftMargin": 566.0874,
+            "RightMargin": 661.9126,
+            "TopMargin": 231.5156,
+            "BottomMargin": 465.4844,
+            "Tag": 96,
+            "ActionTag": 1932272571,
+            "Size": {
+              "X": 52.0,
+              "Y": 23.0
+            },
+            "Name": "JFTxtLuotQuay",
+            "ctype": "TextObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_AUTOROLL.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_CHECK_MARK.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5172,
+              "ScaleY": 0.5469
+            },
+            "Position": {
+              "X": 705.0817,
+              "Y": 478.3668
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5508,
+              "Y": 0.6644
+            },
+            "PreSize": {
+              "X": 0.0289,
+              "Y": 0.0417
+            },
+            "LeftMargin": 685.9453,
+            "RightMargin": 557.0547,
+            "TopMargin": 228.0402,
+            "BottomMargin": 461.9598,
+            "Tag": 95,
+            "ActionTag": -672509422,
+            "Size": {
+              "X": 37.0,
+              "Y": 30.0
+            },
+            "Name": "JFCheckboxTuQuay",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "THẺ CÀO 20.000 VND",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 113,
+              "G": 96,
+              "B": 82
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 915.3174,
+              "Y": 55.0768
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewY": -0.0035,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7151,
+              "Y": 0.0765
+            },
+            "PreSize": {
+              "X": 0.1469,
+              "Y": 0.0319
+            },
+            "LeftMargin": 821.3174,
+            "RightMargin": 270.6826,
+            "TopMargin": 653.4232,
+            "BottomMargin": 43.5768,
+            "Tag": 94,
+            "ActionTag": -1952125077,
+            "Size": {
+              "X": 188.0,
+              "Y": 23.0
+            },
+            "Name": "JFTxtKetQua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 550.1198,
+              "Y": 318.7949
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4298,
+              "Y": 0.4428
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 550.1198,
+            "RightMargin": 729.8802,
+            "TopMargin": 401.2051,
+            "BottomMargin": 318.7949,
+            "Tag": 90,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "-  Người chơi bắn cá mập tay cầm trong bàn chơi để nhận được các vé tham gia vòng quay may mắn\n-  Giải thưởng bao gồm Gold trong game và các thẻ cào.",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": -129.449,
+                  "Y": 37.9102
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -129.449,
+                "RightMargin": -142.551,
+                "TopMargin": -37.9102,
+                "BottomMargin": -113.0898,
+                "Tag": 91,
+                "ActionTag": -1734271602,
+                "Size": {
+                  "X": 272.0,
+                  "Y": 151.0
+                },
+                "Name": "JFTxtTheLe",
+                "ctype": "TextObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 305,
+                  "Height": 300
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -138.0,
+                  "Y": -123.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -138.0,
+                "RightMargin": -145.0,
+                "TopMargin": -44.0,
+                "BottomMargin": -123.0,
+                "Tag": 92,
+                "ActionTag": -1286466132,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 167.0
+                },
+                "Name": "JFScrollViewTrungGiai",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 305,
+                  "Height": 300
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -138.0,
+                  "Y": -123.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -138.0,
+                "RightMargin": -145.0,
+                "TopMargin": -44.0,
+                "BottomMargin": -123.0,
+                "Tag": 128,
+                "ActionTag": 1329059530,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 167.0
+                },
+                "Name": "JFScrollViewLichSu",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MINIGAME_VONGQUAY_COLUMN.png",
+                  "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 59,
+                "Scale9Width": 31,
+                "Scale9Height": 62,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -5.0,
+                  "Y": -44.26
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -55.5,
+                "RightMargin": -45.5,
+                "TopMargin": -45.74,
+                "BottomMargin": -134.26,
+                "Tag": 93,
+                "ActionTag": 1008045494,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 180.0
+                },
+                "VisibleForFrame": false,
+                "Name": "JFBGListView",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1375184354,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFLeftContent",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_CLOSE_BG.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 16,
+            "Scale9OriginY": 25,
+            "Scale9Width": 52,
+            "Scale9Height": 65,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1138.4608,
+              "Y": 543.8452
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8894,
+              "Y": 0.7553
+            },
+            "PreSize": {
+              "X": 0.0656,
+              "Y": 0.1597
+            },
+            "LeftMargin": 1096.4608,
+            "RightMargin": 99.5392,
+            "TopMargin": 118.6548,
+            "BottomMargin": 486.3452,
+            "Tag": 89,
+            "ActionTag": 274989802,
+            "Size": {
+              "X": 84.0,
+              "Y": 115.0
+            },
+            "Name": "JFBtnCloseBG",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/VongQuaySeason/IMG_BTN_CLOSE.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 52,
+            "Scale9Height": 65,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1138.8463,
+              "Y": 631.3675
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8897,
+              "Y": 0.8769
+            },
+            "PreSize": {
+              "X": 0.0641,
+              "Y": 0.1208
+            },
+            "LeftMargin": 1097.8463,
+            "RightMargin": 100.1537,
+            "TopMargin": 45.1325,
+            "BottomMargin": 587.8675,
+            "Tag": 88,
+            "ActionTag": 992848367,
+            "Size": {
+              "X": 82.0,
+              "Y": 87.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/arial.ttf",
+        "Fonts/arialbd.ttf",
+        "Fonts/MyriadPro-Regular.ttf",
+        "Popups/VongQuay/AtlasVongQuay.plist",
+        "Popups/VongQuay/AtlasVongQuay.png",
+        "Popups/VongQuaySeason/IMG_BACKGROUND.png",
+        "Popups/VongQuaySeason/IMG_BTN_CLOSE.png",
+        "Popups/VongQuaySeason/IMG_BTN_LICH_SU.png",
+        "Popups/VongQuaySeason/IMG_BTN_LICH_SU_HOVER.png",
+        "Popups/VongQuaySeason/IMG_BTN_QUAY.png",
+        "Popups/VongQuaySeason/IMG_BTN_QUAY_DISABLE.png",
+        "Popups/VongQuaySeason/IMG_BTN_QUAY_HOVER.png",
+        "Popups/VongQuaySeason/IMG_BTN_THE_LE.png",
+        "Popups/VongQuaySeason/IMG_BTN_THE_LE_HOVER.png",
+        "Popups/VongQuaySeason/IMG_BTN_USER_TRUNG_GIAI.png",
+        "Popups/VongQuaySeason/IMG_BTN_USER_TRUNG_GIAI_HOVER.png",
+        "Popups/VongQuaySeason/IMG_CHECK_MARK.png",
+        "Popups/VongQuaySeason/IMG_CLOSE_BG.png",
+        "Popups/VongQuaySeason/IMG_KIM_CHON.png",
+        "Popups/VongQuaySeason/IMG_MASK.png",
+        "Popups/VongQuaySeason/IMG_VONG_QUAY.png",
+        "Popups/VongQuaySeason/IMG_VONG_QUAY_BG.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

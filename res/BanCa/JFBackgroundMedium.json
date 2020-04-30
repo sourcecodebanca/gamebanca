@@ -1,0 +1,123 @@
+{
+  "ID": "41f6de3f-50f5-452a-90c4-1a762d6f4e1e",
+  "Version": "2.3.4",
+  "Name": "JFBackgroundMedium",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1111,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopupBig.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 194,
+            "Scale9OriginY": 101,
+            "Scale9Width": 201,
+            "Scale9Height": 107,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -373.5,
+            "RightMargin": -373.5,
+            "TopMargin": -255.0,
+            "BottomMargin": -255.0,
+            "Tag": 549,
+            "ActionTag": 1294530052,
+            "Size": {
+              "X": 747.0,
+              "Y": 510.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Signboard.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 130,
+            "Scale9OriginY": 42,
+            "Scale9Width": 134,
+            "Scale9Height": 30,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.9742,
+              "Y": 238.5965
+            },
+            "Scale": {
+              "ScaleX": 0.76,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -276.9742,
+            "RightMargin": -273.0258,
+            "TopMargin": -295.5965,
+            "BottomMargin": 181.5965,
+            "Tag": 756,
+            "ActionTag": -1348396182,
+            "Size": {
+              "X": 550.0,
+              "Y": 114.0
+            },
+            "Name": "ImgBanner",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

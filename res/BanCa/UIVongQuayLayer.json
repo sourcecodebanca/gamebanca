@@ -1,0 +1,2298 @@
+{
+  "ID": "7f5b7b0c-487c-4978-90a1-55553062d96d",
+  "Version": "3.10.0.0",
+  "Name": "UIVongQuayLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 42,
+            "ActionTag": -1250988990,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "JFBackGround",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 284,
+            "Scale9OriginY": 197,
+            "Scale9Width": 295,
+            "Scale9Height": 204,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 698.6925,
+              "Y": 398.7288
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5459,
+              "Y": 0.5538
+            },
+            "PreSize": {
+              "X": 0.6742,
+              "Y": 0.8306
+            },
+            "LeftMargin": 267.1925,
+            "RightMargin": 149.8075,
+            "TopMargin": 22.2712,
+            "BottomMargin": 99.7288,
+            "Tag": 2,
+            "ActionTag": 1943998004,
+            "Size": {
+              "X": 863.0,
+              "Y": 598.0
+            },
+            "Name": "JFBackgroundTienCa",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_GAME.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5025,
+              "ScaleY": 0.5078
+            },
+            "Position": {
+              "X": 815.5045,
+              "Y": 318.0701
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6371,
+              "Y": 0.4418
+            },
+            "PreSize": {
+              "X": 0.3094,
+              "Y": 0.55
+            },
+            "LeftMargin": 616.5145,
+            "RightMargin": 267.4855,
+            "TopMargin": 207.0187,
+            "BottomMargin": 116.9813,
+            "Tag": 3,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 201.78,
+                  "Y": 282.7359
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -90.0079,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5095,
+                  "Y": 0.714
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 163.78,
+                "RightMargin": 156.22,
+                "TopMargin": 95.2641,
+                "BottomMargin": 264.7359,
+                "Tag": 24,
+                "ActionTag": 379230999,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 257.7526,
+                  "Y": 258.881
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -45.0012,
+                "RotationSkewY": -45.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6509,
+                  "Y": 0.6537
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 219.7526,
+                "RightMargin": 100.2474,
+                "TopMargin": 119.119,
+                "BottomMargin": 240.881,
+                "Tag": 25,
+                "ActionTag": 165175460,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.2355,
+                  "Y": 203.8781
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7077,
+                  "Y": 0.5148
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 242.2355,
+                "RightMargin": 77.7645,
+                "TopMargin": 174.1219,
+                "BottomMargin": 185.8781,
+                "Tag": 26,
+                "ActionTag": 618471208,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 256.2856,
+                  "Y": 144.9374
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 44.9994,
+                "RotationSkewY": 45.0006,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6472,
+                  "Y": 0.366
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 218.2856,
+                "RightMargin": 101.7144,
+                "TopMargin": 233.0626,
+                "BottomMargin": 126.9374,
+                "Tag": 27,
+                "ActionTag": -693064499,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 202.8528,
+                  "Y": 124.3353
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0009,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5123,
+                  "Y": 0.314
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 164.8528,
+                "RightMargin": 155.1472,
+                "TopMargin": 253.6647,
+                "BottomMargin": 106.3353,
+                "Tag": 28,
+                "ActionTag": -1410715834,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 144.3448,
+                  "Y": 146.2942
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 134.9994,
+                "RotationSkewY": 135.0012,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3645,
+                  "Y": 0.3694
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 106.3448,
+                "RightMargin": 213.6552,
+                "TopMargin": 231.7058,
+                "BottomMargin": 128.2942,
+                "Tag": 29,
+                "ActionTag": -358175053,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem6",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.5657,
+                  "Y": 204.8501
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0017,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3019,
+                  "Y": 0.5173
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 81.5657,
+                "RightMargin": 238.4343,
+                "TopMargin": 173.1499,
+                "BottomMargin": 186.8501,
+                "Tag": 30,
+                "ActionTag": -1506124688,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 62,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.1595,
+                  "Y": 259.4186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 225.0006,
+                "RotationSkewY": 225.0012,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3539,
+                  "Y": 0.6551
+                },
+                "PreSize": {
+                  "X": 0.1919,
+                  "Y": 0.0909
+                },
+                "LeftMargin": 102.1595,
+                "RightMargin": 217.8405,
+                "TopMargin": 118.5814,
+                "BottomMargin": 241.4186,
+                "Tag": 31,
+                "ActionTag": 515683342,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 36.0
+                },
+                "Name": "JFTxtItem8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 199.3204,
+                  "Y": 340.9788
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5033,
+                  "Y": 0.8611
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 199.3204,
+                "RightMargin": 196.6796,
+                "TopMargin": 55.0212,
+                "BottomMargin": 340.9788,
+                "Tag": 32,
+                "ActionTag": -158400510,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 296.2059,
+                  "Y": 300.1054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 45.0,
+                "RotationSkewY": 45.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.748,
+                  "Y": 0.7578
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 296.2059,
+                "RightMargin": 99.7941,
+                "TopMargin": 95.8946,
+                "BottomMargin": 300.1054,
+                "Tag": 33,
+                "ActionTag": -802840545,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 337.4249,
+                  "Y": 206.4092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8521,
+                  "Y": 0.5212
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 337.4249,
+                "RightMargin": 58.5751,
+                "TopMargin": 189.5908,
+                "BottomMargin": 206.4092,
+                "Tag": 34,
+                "ActionTag": 922633870,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 303.5115,
+                  "Y": 104.3006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 135.0,
+                "RotationSkewY": 135.0018,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7664,
+                  "Y": 0.2634
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 303.5115,
+                "RightMargin": 92.4885,
+                "TopMargin": 291.6994,
+                "BottomMargin": 104.3006,
+                "Tag": 35,
+                "ActionTag": 572324999,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 202.2035,
+                  "Y": 55.6998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0009,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5106,
+                  "Y": 0.1407
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 202.2035,
+                "RightMargin": 193.7965,
+                "TopMargin": 340.3002,
+                "BottomMargin": 55.6998,
+                "Tag": 36,
+                "ActionTag": 86608989,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 98.6648,
+                  "Y": 94.6777
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -135.0,
+                "RotationSkewY": -134.9991,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2492,
+                  "Y": 0.2391
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 98.6648,
+                "RightMargin": 297.3352,
+                "TopMargin": 301.3223,
+                "BottomMargin": 94.6777,
+                "Tag": 37,
+                "ActionTag": 1289653306,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem6",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 55.4457,
+                  "Y": 201.4619
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -89.9983,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.14,
+                  "Y": 0.5087
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 55.4457,
+                "RightMargin": 340.5543,
+                "TopMargin": 194.5381,
+                "BottomMargin": 201.4619,
+                "Tag": 38,
+                "ActionTag": 1647594315,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem7",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 98.7079,
+                  "Y": 300.8489
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -45.0,
+                "RotationSkewY": -44.9994,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2493,
+                  "Y": 0.7597
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 98.7079,
+                "RightMargin": 297.2921,
+                "TopMargin": 95.1511,
+                "BottomMargin": 300.8489,
+                "Tag": 39,
+                "ActionTag": 2064620542,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JFItem8",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -448465804,
+            "Size": {
+              "X": 396.0,
+              "Y": 396.0
+            },
+            "Name": "JFVongQuay",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_RUONG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 45,
+            "Scale9OriginY": 65,
+            "Scale9Width": 48,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 255.2249,
+              "Y": 265.3754
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1994,
+              "Y": 0.3686
+            },
+            "PreSize": {
+              "X": 0.1078,
+              "Y": 0.275
+            },
+            "LeftMargin": 186.2249,
+            "RightMargin": 955.7751,
+            "TopMargin": 355.6246,
+            "BottomMargin": 166.3754,
+            "Tag": 5,
+            "ActionTag": 1317179952,
+            "Size": {
+              "X": 138.0,
+              "Y": 198.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BONGBONG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 18,
+            "Scale9OriginY": 14,
+            "Scale9Width": 20,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1021.87,
+              "Y": 196.8427
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7983,
+              "Y": 0.2734
+            },
+            "PreSize": {
+              "X": 0.0437,
+              "Y": 0.0597
+            },
+            "LeftMargin": 993.87,
+            "RightMargin": 230.13,
+            "TopMargin": 501.6573,
+            "BottomMargin": 175.3427,
+            "Tag": 6,
+            "ActionTag": -723510538,
+            "Size": {
+              "X": 56.0,
+              "Y": 43.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BONGBONG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 18,
+            "Scale9OriginY": 14,
+            "Scale9Width": 20,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 236.3544,
+              "Y": 384.6725
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1847,
+              "Y": 0.5343
+            },
+            "PreSize": {
+              "X": 0.0234,
+              "Y": 0.0361
+            },
+            "LeftMargin": 221.3544,
+            "RightMargin": 1028.6456,
+            "TopMargin": 322.3275,
+            "BottomMargin": 371.6725,
+            "Tag": 7,
+            "ActionTag": -1070451573,
+            "Size": {
+              "X": 30.0,
+              "Y": 26.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BONGBONG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 18,
+            "Scale9OriginY": 14,
+            "Scale9Width": 20,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 160.7651,
+              "Y": 332.3789
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1256,
+              "Y": 0.4616
+            },
+            "PreSize": {
+              "X": 0.0156,
+              "Y": 0.0222
+            },
+            "LeftMargin": 150.7651,
+            "RightMargin": 1109.2349,
+            "TopMargin": 379.6211,
+            "BottomMargin": 324.3789,
+            "Tag": 8,
+            "ActionTag": 1112476869,
+            "Size": {
+              "X": 20.0,
+              "Y": 16.0
+            },
+            "Alpha": 168,
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BONGBONG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 18,
+            "Scale9OriginY": 14,
+            "Scale9Width": 20,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.5917,
+              "Y": 458.7889
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1567,
+              "Y": 0.6372
+            },
+            "PreSize": {
+              "X": 0.0141,
+              "Y": 0.0167
+            },
+            "LeftMargin": 191.5917,
+            "RightMargin": 1070.4083,
+            "TopMargin": 255.2111,
+            "BottomMargin": 452.7889,
+            "Tag": 9,
+            "ActionTag": 1482520262,
+            "Size": {
+              "X": 18.0,
+              "Y": 12.0
+            },
+            "Alpha": 106,
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1092.9152,
+              "Y": 226.1199
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8538,
+              "Y": 0.3141
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.075
+            },
+            "LeftMargin": 1044.9152,
+            "RightMargin": 139.0848,
+            "TopMargin": 466.8801,
+            "BottomMargin": 199.1199,
+            "Tag": 10,
+            "ActionTag": -1312899146,
+            "Size": {
+              "X": 96.0,
+              "Y": 54.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1026.3317,
+              "Y": 168.0317
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 14.81,
+            "RotationSkewY": 14.8123,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8018,
+              "Y": 0.2334
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 994.3317,
+            "RightMargin": 221.6683,
+            "TopMargin": 533.9683,
+            "BottomMargin": 150.0317,
+            "Tag": 11,
+            "ActionTag": 407908856,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 969.505,
+              "Y": 102.7286
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 28.6602,
+            "RotationSkewY": 28.6573,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7574,
+              "Y": 0.1427
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.03,
+              "Y": 0.03
+            },
+            "LeftMargin": 950.305,
+            "RightMargin": 291.295,
+            "TopMargin": 606.4714,
+            "BottomMargin": 91.9286,
+            "Tag": 12,
+            "ActionTag": -649074509,
+            "Size": {
+              "X": 38.4,
+              "Y": 21.6
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 184.569,
+              "Y": 224.2769
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": -1.0
+            },
+            "RotationSkewX": -196.099,
+            "RotationSkewY": -196.1089,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1442,
+              "Y": 0.3115
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 152.569,
+            "RightMargin": 1063.431,
+            "TopMargin": 477.7231,
+            "BottomMargin": 206.2769,
+            "Tag": 13,
+            "ActionTag": -237160414,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 180.8956,
+              "Y": 414.9603
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": -1.0
+            },
+            "RotationSkewX": -161.523,
+            "RotationSkewY": -161.5358,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1413,
+              "Y": 0.5763
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.07,
+              "Y": 0.07
+            },
+            "LeftMargin": 136.0956,
+            "RightMargin": 1054.3044,
+            "TopMargin": 279.8397,
+            "BottomMargin": 389.7603,
+            "Tag": 14,
+            "ActionTag": -1791925850,
+            "Size": {
+              "X": 89.6,
+              "Y": 50.4
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_COIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 17,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 255.6122,
+              "Y": 529.4333
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": -1.0
+            },
+            "RotationSkewX": -144.8306,
+            "RotationSkewY": -144.8525,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1997,
+              "Y": 0.7353
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.04,
+              "Y": 0.04
+            },
+            "LeftMargin": 230.0122,
+            "RightMargin": 998.7878,
+            "TopMargin": 176.1667,
+            "BottomMargin": 515.0333,
+            "Tag": 15,
+            "ActionTag": 1735799853,
+            "Size": {
+              "X": 51.2,
+              "Y": 28.8
+            },
+            "Name": "JFImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BODER.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 136,
+            "Scale9OriginY": 180,
+            "Scale9Width": 142,
+            "Scale9Height": 188,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 812.5516,
+              "Y": 271.6169
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6348,
+              "Y": 0.3772
+            },
+            "PreSize": {
+              "X": 0.3234,
+              "Y": 0.7611
+            },
+            "LeftMargin": 605.5516,
+            "RightMargin": 260.4484,
+            "TopMargin": 174.3831,
+            "BottomMargin": -2.3831,
+            "Tag": 16,
+            "ActionTag": -1227678334,
+            "Size": {
+              "X": 414.0,
+              "Y": 548.0
+            },
+            "Name": "JFBGVongQuay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_GAME_MASK.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 110,
+            "Scale9OriginY": 111,
+            "Scale9Width": 116,
+            "Scale9Height": 116,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 812.7297,
+              "Y": 319.0187
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6349,
+              "Y": 0.4431
+            },
+            "PreSize": {
+              "X": 0.2625,
+              "Y": 0.4694
+            },
+            "LeftMargin": 644.7297,
+            "RightMargin": 299.2703,
+            "TopMargin": 231.9813,
+            "BottomMargin": 150.0187,
+            "Tag": 17,
+            "ActionTag": 1426347401,
+            "Size": {
+              "X": 336.0,
+              "Y": 338.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFMask",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BTN_QUAY_DISABLE.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BTN_QUAY.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 113,
+            "Scale9Height": 123,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 815.5693,
+              "Y": 316.4826
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6372,
+              "Y": 0.4396
+            },
+            "PreSize": {
+              "X": 0.1133,
+              "Y": 0.2014
+            },
+            "LeftMargin": 743.0693,
+            "RightMargin": 391.9307,
+            "TopMargin": 331.0174,
+            "BottomMargin": 243.9826,
+            "Tag": 18,
+            "ActionTag": 292040374,
+            "Size": {
+              "X": 145.0,
+              "Y": 145.0
+            },
+            "Name": "JFButtonQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_THELE_HOVER.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_THELE.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 84,
+            "Scale9Height": 54,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 317.7816,
+              "Y": 444.806
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2483,
+              "Y": 0.6178
+            },
+            "PreSize": {
+              "X": 0.0891,
+              "Y": 0.1056
+            },
+            "LeftMargin": 260.7816,
+            "RightMargin": 905.2184,
+            "TopMargin": 237.194,
+            "BottomMargin": 406.806,
+            "Tag": 19,
+            "ActionTag": -1991822167,
+            "Size": {
+              "X": 114.0,
+              "Y": 76.0
+            },
+            "Name": "JFButtonTheLe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_TOPWIN_HOVER.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_TOPWIN.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 138,
+            "Scale9Height": 56,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.587,
+              "Y": 444.0919
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3411,
+              "Y": 0.6168
+            },
+            "PreSize": {
+              "X": 0.1312,
+              "Y": 0.1083
+            },
+            "LeftMargin": 352.587,
+            "RightMargin": 759.413,
+            "TopMargin": 236.9081,
+            "BottomMargin": 405.0919,
+            "Tag": 20,
+            "ActionTag": 780522948,
+            "Size": {
+              "X": 168.0,
+              "Y": 78.0
+            },
+            "Name": "JFButtonTrungGiai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_HISTORY_HOVER.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_HISTORY.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 138,
+            "Scale9Height": 56,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.4348,
+              "Y": 442.4993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4582,
+              "Y": 0.6146
+            },
+            "PreSize": {
+              "X": 0.1312,
+              "Y": 0.1083
+            },
+            "LeftMargin": 502.4348,
+            "RightMargin": 609.5652,
+            "TopMargin": 238.5007,
+            "BottomMargin": 403.4993,
+            "Tag": 21,
+            "ActionTag": 265017085,
+            "Size": {
+              "X": 168.0,
+              "Y": 78.0
+            },
+            "Name": "JFButtonLichSu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 507.2977,
+              "Y": 512.3734
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 3,
+              "B": 56
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3963,
+              "Y": 0.7116
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0319
+            },
+            "LeftMargin": 481.2977,
+            "RightMargin": 746.7023,
+            "TopMargin": 196.1266,
+            "BottomMargin": 500.8734,
+            "Tag": 22,
+            "ActionTag": -2088506213,
+            "Size": {
+              "X": 52.0,
+              "Y": 23.0
+            },
+            "Name": "JFTxtLuotQuay",
+            "ctype": "TextObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_AUTOROLL.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "NodeNormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_BTN_AUTOROLL_HOVER.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 611.8356,
+              "Y": 511.7229
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.478,
+              "Y": 0.7107
+            },
+            "PreSize": {
+              "X": 0.0289,
+              "Y": 0.0458
+            },
+            "LeftMargin": 593.3356,
+            "RightMargin": 649.6644,
+            "TopMargin": 191.7771,
+            "BottomMargin": 495.2229,
+            "Tag": 23,
+            "ActionTag": 1119014388,
+            "Size": {
+              "X": 37.0,
+              "Y": 33.0
+            },
+            "Name": "JFCheckBoxTuQuay",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 113,
+              "G": 96,
+              "B": 82
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 817.0909,
+              "Y": 55.706
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -5.4777,
+            "RotationSkewY": -5.4811,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6384,
+              "Y": 0.0774
+            },
+            "PreSize": {
+              "X": 0.1484,
+              "Y": 0.0264
+            },
+            "LeftMargin": 722.0909,
+            "RightMargin": 367.9091,
+            "TopMargin": 654.794,
+            "BottomMargin": 46.206,
+            "Tag": 40,
+            "ActionTag": 930793905,
+            "Size": {
+              "X": 190.0,
+              "Y": 19.0
+            },
+            "Name": "JFTxtKetQua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 448.6044,
+              "Y": 302.6512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3505,
+              "Y": 0.4203
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 448.6044,
+            "RightMargin": 831.3956,
+            "TopMargin": 417.3488,
+            "BottomMargin": 302.6512,
+            "Tag": 41,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "-  Người chơi bắn cá tay cầm trong bàn chơi để nhận được các vé tham gia vòng quay may mắn. \n-  Giải thưởng bao gồm Xu trong game và các thẻ cào.",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": -133.7899,
+                  "Y": 73.3212
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -133.7899,
+                "RightMargin": -138.2101,
+                "TopMargin": -73.3212,
+                "BottomMargin": -77.6788,
+                "Tag": 45,
+                "ActionTag": 1557309706,
+                "Size": {
+                  "X": 272.0,
+                  "Y": 151.0
+                },
+                "Name": "JFTxtTheLe",
+                "ctype": "TextObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 305,
+                  "Height": 300
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -141.78,
+                  "Y": -85.9183
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -141.78,
+                "RightMargin": -141.22,
+                "TopMargin": -81.0817,
+                "BottomMargin": -85.9183,
+                "Tag": 145,
+                "ActionTag": 2011108371,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 167.0
+                },
+                "Name": "JFScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MINIGAME_VONGQUAY_COLUMN.png",
+                  "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 59,
+                "Scale9Width": 31,
+                "Scale9Height": 62,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.6367,
+                  "Y": -0.2585
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -43.8633,
+                "RightMargin": -47.1367,
+                "TopMargin": -89.7415,
+                "BottomMargin": -90.2585,
+                "Tag": 47,
+                "ActionTag": -31285575,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 180.0
+                },
+                "VisibleForFrame": false,
+                "Name": "JFBGListView",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1331972498,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFLeftContent",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BTN_CLOSEBG.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 16,
+            "Scale9OriginY": 25,
+            "Scale9Width": 17,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1102.552,
+              "Y": 515.207
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8614,
+              "Y": 0.7156
+            },
+            "PreSize": {
+              "X": 0.0383,
+              "Y": 0.1056
+            },
+            "LeftMargin": 1078.052,
+            "RightMargin": 152.948,
+            "TopMargin": 166.793,
+            "BottomMargin": 477.207,
+            "Tag": 43,
+            "ActionTag": -341502525,
+            "Size": {
+              "X": 49.0,
+              "Y": 76.0
+            },
+            "Name": "Image_15",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "MINIGAME_VONGQUAY_BTN_CLOSE.png",
+              "Plist": "Popups/VongQuay/AtlasVongQuay.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 41,
+            "Scale9Height": 33,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1094.4075,
+              "Y": 579.0237
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.855,
+              "Y": 0.8042
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0764
+            },
+            "LeftMargin": 1058.9075,
+            "RightMargin": 150.0925,
+            "TopMargin": 113.4763,
+            "BottomMargin": 551.5237,
+            "Tag": 44,
+            "ActionTag": 110377113,
+            "Size": {
+              "X": 71.0,
+              "Y": 55.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "Fonts/MyriadPro-Regular.ttf",
+        "Popups/VongQuay/AtlasVongQuay.plist",
+        "Popups/VongQuay/AtlasVongQuay.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

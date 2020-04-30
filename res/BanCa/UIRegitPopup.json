@@ -1,0 +1,1078 @@
+{
+  "ID": "bcfcf56b-8412-45c4-9d4b-1118c87404e5",
+  "Version": "2.3.4",
+  "Name": "UIRegitPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Popupbackground.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 628.608,
+              "Y": 344.016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4911,
+              "Y": 0.4778
+            },
+            "PreSize": {
+              "X": 0.6406,
+              "Y": 0.7986
+            },
+            "LeftMargin": 218.608,
+            "RightMargin": 241.392,
+            "TopMargin": 88.484,
+            "BottomMargin": 56.516,
+            "Tag": 45,
+            "ActionTag": -3533701,
+            "Size": {
+              "X": 820.0,
+              "Y": 575.0
+            },
+            "Name": "JFBackground",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleRegister.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.44,
+              "Y": 552.168
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.498,
+              "Y": 0.7669
+            },
+            "PreSize": {
+              "X": 0.175,
+              "Y": 0.1111
+            },
+            "LeftMargin": 525.44,
+            "RightMargin": 530.56,
+            "TopMargin": 127.832,
+            "BottomMargin": 512.168,
+            "Tag": 62,
+            "ActionTag": 900640800,
+            "Size": {
+              "X": 224.0,
+              "Y": 80.0
+            },
+            "Name": "ImgTitleRegister",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonCancel.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 34,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 998.3508,
+              "Y": 584.8199
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.78,
+              "Y": 0.8122
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.0889
+            },
+            "LeftMargin": 966.3508,
+            "RightMargin": 249.6492,
+            "TopMargin": 103.1801,
+            "BottomMargin": 552.8199,
+            "Tag": 47,
+            "ActionTag": 384304663,
+            "Size": {
+              "X": 64.0,
+              "Y": 64.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonRefesh.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 61,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.434,
+              "ScaleY": 0.4778
+            },
+            "Position": {
+              "X": 784.768,
+              "Y": 247.7928
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.6131,
+              "Y": 0.3442
+            },
+            "PreSize": {
+              "X": 0.0711,
+              "Y": 0.1333
+            },
+            "LeftMargin": 745.274,
+            "RightMargin": 443.726,
+            "TopMargin": 422.076,
+            "BottomMargin": 201.924,
+            "Tag": 55,
+            "ActionTag": -748288220,
+            "Size": {
+              "X": 91.0,
+              "Y": 96.0
+            },
+            "Name": "JFButton_Refesh",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonRegister.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 181,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 176.226
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2448
+            },
+            "PreSize": {
+              "X": 0.1648,
+              "Y": 0.1042
+            },
+            "LeftMargin": 534.5,
+            "RightMargin": 534.5,
+            "TopMargin": 506.274,
+            "BottomMargin": 138.726,
+            "Tag": 56,
+            "ActionTag": -508100177,
+            "Size": {
+              "X": 211.0,
+              "Y": 75.0
+            },
+            "Name": "JFButton_Regit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TexBox.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9OriginX": 64,
+            "Scale9OriginY": 17,
+            "Scale9Width": 218,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 470.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6528
+            },
+            "PreSize": {
+              "X": 0.2703,
+              "Y": 0.075
+            },
+            "LeftMargin": 467.0,
+            "RightMargin": 467.0,
+            "TopMargin": 223.0,
+            "BottomMargin": 443.0,
+            "Tag": 57,
+            "ActionTag": -568545753,
+            "Size": {
+              "X": 346.0,
+              "Y": 54.0
+            },
+            "Name": "bgTxtUserName",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TexBox.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9OriginX": 64,
+            "Scale9OriginY": 17,
+            "Scale9Width": 218,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.2703,
+              "Y": 0.075
+            },
+            "LeftMargin": 467.0,
+            "RightMargin": 467.0,
+            "TopMargin": 293.0,
+            "BottomMargin": 373.0,
+            "Tag": 58,
+            "ActionTag": -1918341891,
+            "Size": {
+              "X": 346.0,
+              "Y": 54.0
+            },
+            "Name": "bgTxtPass",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TexBox.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9OriginX": 64,
+            "Scale9OriginY": 17,
+            "Scale9Width": 218,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4583
+            },
+            "PreSize": {
+              "X": 0.2703,
+              "Y": 0.075
+            },
+            "LeftMargin": 467.0,
+            "RightMargin": 467.0,
+            "TopMargin": 363.0,
+            "BottomMargin": 303.0,
+            "Tag": 59,
+            "ActionTag": -425543131,
+            "Size": {
+              "X": 346.0,
+              "Y": 54.0
+            },
+            "Name": "bgtxtComfim",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TexBox.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9OriginX": 19,
+            "Scale9OriginY": 17,
+            "Scale9Width": 308,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 532.9994,
+              "Y": 250.0
+            },
+            "Scale": {
+              "ScaleX": 1.2916,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4164,
+              "Y": 0.3472
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.075
+            },
+            "LeftMargin": 482.9994,
+            "RightMargin": 697.0006,
+            "TopMargin": 443.0,
+            "BottomMargin": 223.0,
+            "Tag": 60,
+            "ActionTag": -324581602,
+            "Size": {
+              "X": 100.0,
+              "Y": 54.0
+            },
+            "Name": "bgtxtCapcha",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TexBox.png",
+              "Plist": "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist"
+            },
+            "Scale9OriginX": 19,
+            "Scale9OriginY": 17,
+            "Scale9Width": 308,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 683.9967,
+              "Y": 249.9999
+            },
+            "Scale": {
+              "ScaleX": 1.2268,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5344,
+              "Y": 0.3472
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.075
+            },
+            "LeftMargin": 633.9967,
+            "RightMargin": 546.0033,
+            "TopMargin": 443.0001,
+            "BottomMargin": 222.9999,
+            "Tag": 61,
+            "ActionTag": -994327941,
+            "Size": {
+              "X": 100.0,
+              "Y": 54.0
+            },
+            "Name": "bgImgCapcha",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Popups/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 26,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Tên tài khoản",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 627.2,
+              "Y": 470.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.49,
+              "Y": 0.6528
+            },
+            "PreSize": {
+              "X": 0.1953,
+              "Y": 0.0361
+            },
+            "LeftMargin": 502.2,
+            "RightMargin": 527.8,
+            "TopMargin": 237.0,
+            "BottomMargin": 457.0,
+            "Tag": 9,
+            "ActionTag": 1081656674,
+            "Size": {
+              "X": 250.0,
+              "Y": 26.0
+            },
+            "Name": "JFtxtUserName",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Popups/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 26,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Mật khẩu",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 627.2,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.49,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.1953,
+              "Y": 0.0361
+            },
+            "LeftMargin": 502.2,
+            "RightMargin": 527.8,
+            "TopMargin": 307.0,
+            "BottomMargin": 387.0,
+            "Tag": 11,
+            "ActionTag": 1773799272,
+            "Size": {
+              "X": 250.0,
+              "Y": 26.0
+            },
+            "Name": "JFtxtPassword",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Popups/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 26,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Nhập lại mật khẩu",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 627.2,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.49,
+              "Y": 0.4583
+            },
+            "PreSize": {
+              "X": 0.1953,
+              "Y": 0.0361
+            },
+            "LeftMargin": 502.2,
+            "RightMargin": 527.8,
+            "TopMargin": 377.0,
+            "BottomMargin": 317.0,
+            "Tag": 12,
+            "ActionTag": 1484268790,
+            "Size": {
+              "X": 250.0,
+              "Y": 26.0
+            },
+            "Name": "JFtxtComfimPass",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Popups/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 26,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Capcha",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 530.0,
+              "Y": 250.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4141,
+              "Y": 0.3472
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0361
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 700.0,
+            "TopMargin": 457.0,
+            "BottomMargin": 237.0,
+            "Tag": 13,
+            "ActionTag": 1591301102,
+            "Size": {
+              "X": 100.0,
+              "Y": 26.0
+            },
+            "Name": "JFtxtCapcha",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 689.0001,
+              "Y": 250.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5383,
+              "Y": 0.3472
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 689.0001,
+            "RightMargin": 590.9999,
+            "TopMargin": 470.0,
+            "BottomMargin": 250.0,
+            "Tag": 67,
+            "ActionTag": 399923931,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFImgCapcha",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 104,
+            "ActionTag": -1125734867,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFDisplayNamePopup",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "Nhập mã capcha",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2986
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.0264
+            },
+            "LeftMargin": 565.0,
+            "RightMargin": 565.0,
+            "TopMargin": 495.5,
+            "BottomMargin": 205.5,
+            "Tag": 89,
+            "ActionTag": 1986871725,
+            "Size": {
+              "X": 150.0,
+              "Y": 19.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFmsgCapcha",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "Nhập tên đăng nhập",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 435.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6042
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.0264
+            },
+            "LeftMargin": 465.0,
+            "RightMargin": 465.0,
+            "TopMargin": 275.5,
+            "BottomMargin": 425.5,
+            "Tag": 90,
+            "ActionTag": -1170822328,
+            "Size": {
+              "X": 350.0,
+              "Y": 19.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFmsgNick",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "Nhập mật khẩu",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 365.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5069
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.0264
+            },
+            "LeftMargin": 465.0,
+            "RightMargin": 465.0,
+            "TopMargin": 345.5,
+            "BottomMargin": 355.5,
+            "Tag": 91,
+            "ActionTag": -1896180492,
+            "Size": {
+              "X": 350.0,
+              "Y": 19.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFmsgPass",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "Nhập xác nhận mật khẩu",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 295.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4097
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.0264
+            },
+            "LeftMargin": 465.0,
+            "RightMargin": 465.0,
+            "TopMargin": 415.5,
+            "BottomMargin": 285.5,
+            "Tag": 92,
+            "ActionTag": -906028698,
+            "Size": {
+              "X": 350.0,
+              "Y": 19.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFmsgComfim",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 39,
+            "ActionTag": -1568732578,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ImgBubble",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Popups/MyriadPro-Bold.ttf",
+        "Popups/PopupRegitLogin/AtlasPopupRegitLogin.plist",
+        "Popups/PopupRegitLogin/AtlasPopupRegitLogin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

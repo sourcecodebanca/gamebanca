@@ -1,0 +1,2774 @@
+{
+  "ID": "ff1f05ec-7ff7-49dc-8407-3f21faba20c3",
+  "Version": "3.10.0.0",
+  "Name": "UITopDamagePopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 54,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 55,
+            "ActionTag": 1779557396,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "small panel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 143,
+            "Scale9OriginY": 85,
+            "Scale9Width": 133,
+            "Scale9Height": 80,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9326,
+              "Y": 332.029
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.4612
+            },
+            "PreSize": {
+              "X": 0.8828,
+              "Y": 0.6944
+            },
+            "LeftMargin": 74.9326,
+            "RightMargin": 75.0674,
+            "TopMargin": 137.971,
+            "BottomMargin": 82.029,
+            "Tag": 73,
+            "ActionTag": 761635463,
+            "Size": {
+              "X": 1130.0,
+              "Y": 500.0
+            },
+            "Alpha": 115,
+            "Name": "JFBG1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RowBottom.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 21,
+            "Scale9Width": 384,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 119.4745
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1659
+            },
+            "PreSize": {
+              "X": 0.8813,
+              "Y": 0.0889
+            },
+            "LeftMargin": 75.9999,
+            "RightMargin": 76.0001,
+            "TopMargin": 568.5255,
+            "BottomMargin": 87.4745,
+            "Tag": 74,
+            "ActionTag": -1146333474,
+            "Size": {
+              "X": 1128.0,
+              "Y": 64.0
+            },
+            "Name": "JFBG2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RowTop.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 18,
+            "Scale9Width": 384,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 553.2302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7684
+            },
+            "PreSize": {
+              "X": 0.8813,
+              "Y": 0.0792
+            },
+            "LeftMargin": 75.9999,
+            "RightMargin": 76.0001,
+            "TopMargin": 138.2698,
+            "BottomMargin": 524.7302,
+            "Tag": 76,
+            "ActionTag": -2055436895,
+            "Size": {
+              "X": 1128.0,
+              "Y": 57.0
+            },
+            "Name": "JFBG3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RowMid.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 25,
+            "Scale9Width": 384,
+            "Scale9Height": 28,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 413.3116
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.574
+            },
+            "PreSize": {
+              "X": 0.8813,
+              "Y": 0.1083
+            },
+            "LeftMargin": 75.9999,
+            "RightMargin": 76.0001,
+            "TopMargin": 267.6884,
+            "BottomMargin": 374.3116,
+            "Tag": 77,
+            "ActionTag": -685524744,
+            "Size": {
+              "X": 1128.0,
+              "Y": 78.0
+            },
+            "Name": "JFBG4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RowMid.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 25,
+            "Scale9Width": 384,
+            "Scale9Height": 28,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 262.8931
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3651
+            },
+            "PreSize": {
+              "X": 0.8813,
+              "Y": 0.1083
+            },
+            "LeftMargin": 75.9999,
+            "RightMargin": 76.0001,
+            "TopMargin": 418.1069,
+            "BottomMargin": 223.8931,
+            "Tag": 78,
+            "ActionTag": 172661914,
+            "Size": {
+              "X": 1128.0,
+              "Y": 78.0
+            },
+            "Name": "JFBG5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "Hạng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 175.9993,
+              "Y": 547.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 89,
+              "G": 66,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1375,
+              "Y": 0.7597
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0597
+            },
+            "LeftMargin": 131.9993,
+            "RightMargin": 1060.0007,
+            "TopMargin": 151.5,
+            "BottomMargin": 525.5,
+            "Tag": 79,
+            "ActionTag": -251384648,
+            "Size": {
+              "X": 88.0,
+              "Y": 43.0
+            },
+            "Name": "JFBG6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "Tên",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.9997,
+              "Y": 546.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 89,
+              "G": 66,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3219,
+              "Y": 0.7597
+            },
+            "PreSize": {
+              "X": 0.0477,
+              "Y": 0.0597
+            },
+            "LeftMargin": 381.4997,
+            "RightMargin": 837.5003,
+            "TopMargin": 151.5004,
+            "BottomMargin": 525.4996,
+            "Tag": 80,
+            "ActionTag": 516770095,
+            "Size": {
+              "X": 61.0,
+              "Y": 43.0
+            },
+            "Name": "JFBG7",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "Sát Thương",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 708.0037,
+              "Y": 547.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 89,
+              "G": 66,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5531,
+              "Y": 0.7597
+            },
+            "PreSize": {
+              "X": 0.1461,
+              "Y": 0.0597
+            },
+            "LeftMargin": 614.5037,
+            "RightMargin": 478.4963,
+            "TopMargin": 151.5,
+            "BottomMargin": 525.5,
+            "Tag": 81,
+            "ActionTag": -1648126794,
+            "Size": {
+              "X": 187.0,
+              "Y": 43.0
+            },
+            "Name": "JFBG8",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "Phần Thưởng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1045.0022,
+              "Y": 547.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 89,
+              "G": 66,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8164,
+              "Y": 0.7597
+            },
+            "PreSize": {
+              "X": 0.1719,
+              "Y": 0.0597
+            },
+            "LeftMargin": 935.0022,
+            "RightMargin": 124.9978,
+            "TopMargin": 151.5,
+            "BottomMargin": 525.5,
+            "Tag": 82,
+            "ActionTag": 1746883671,
+            "Size": {
+              "X": 220.0,
+              "Y": 43.0
+            },
+            "Name": "JFBG9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "column.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginY": 144,
+            "Scale9Width": 3,
+            "Scale9Height": 149,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 277.9991,
+              "Y": 366.3185
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2172,
+              "Y": 0.5088
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.6069
+            },
+            "LeftMargin": 276.4991,
+            "RightMargin": 1000.5009,
+            "TopMargin": 135.1815,
+            "BottomMargin": 147.8185,
+            "Tag": 83,
+            "ActionTag": -130261487,
+            "Size": {
+              "X": 3.0,
+              "Y": 437.0
+            },
+            "Name": "JFBG10",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "column.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginY": 144,
+            "Scale9Width": 3,
+            "Scale9Height": 149,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.9689,
+              "Y": 366.3185
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4453,
+              "Y": 0.5088
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.6069
+            },
+            "LeftMargin": 568.4689,
+            "RightMargin": 708.5311,
+            "TopMargin": 135.1815,
+            "BottomMargin": 147.8185,
+            "Tag": 84,
+            "ActionTag": -2001704015,
+            "Size": {
+              "X": 3.0,
+              "Y": 437.0
+            },
+            "Name": "JFBG11",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "column.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginY": 144,
+            "Scale9Width": 3,
+            "Scale9Height": 149,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 861.9388,
+              "Y": 366.3185
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6734,
+              "Y": 0.5088
+            },
+            "PreSize": {
+              "X": 0.0023,
+              "Y": 0.6069
+            },
+            "LeftMargin": 860.4388,
+            "RightMargin": 416.5612,
+            "TopMargin": 135.1815,
+            "BottomMargin": 147.8185,
+            "Tag": 85,
+            "ActionTag": 1593063409,
+            "Size": {
+              "X": 3.0,
+              "Y": 437.0
+            },
+            "Name": "JFBG12",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 45,
+            "LabelText": "Tình trạng Boss:",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 512.2848,
+              "Y": 110.7445
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 89,
+              "G": 66,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4002,
+              "Y": 0.1538
+            },
+            "PreSize": {
+              "X": 0.2609,
+              "Y": 0.075
+            },
+            "LeftMargin": 345.2848,
+            "RightMargin": 600.7152,
+            "TopMargin": 582.2555,
+            "BottomMargin": 83.7445,
+            "Tag": 86,
+            "ActionTag": -1159113463,
+            "Size": {
+              "X": 334.0,
+              "Y": 54.0
+            },
+            "Name": "JFBG13",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 37,
+            "LabelText": "Sống",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 743.37,
+              "Y": 110.3286
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5808,
+              "Y": 0.1532
+            },
+            "PreSize": {
+              "X": 0.1016,
+              "Y": 0.0667
+            },
+            "LeftMargin": 678.37,
+            "RightMargin": 471.63,
+            "TopMargin": 585.6714,
+            "BottomMargin": 86.3286,
+            "Tag": 87,
+            "ActionTag": 88827189,
+            "Size": {
+              "X": 130.0,
+              "Y": 48.0
+            },
+            "Name": "JFBossStatus",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MedialVang.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 35,
+            "Scale9Width": 37,
+            "Scale9Height": 37,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.0,
+              "Y": 489.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.6792
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 133.0,
+            "RightMargin": 1077.0,
+            "TopMargin": 196.0,
+            "BottomMargin": 454.0,
+            "Tag": 88,
+            "ActionTag": 1779229754,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "JFItemRank1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MedialBac.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 35,
+            "Scale9Width": 37,
+            "Scale9Height": 36,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.0,
+              "Y": 413.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.574
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 133.0,
+            "RightMargin": 1077.0,
+            "TopMargin": 271.75,
+            "BottomMargin": 378.25,
+            "Tag": 89,
+            "ActionTag": 802064601,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "JFItemRank2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MedialDong.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 35,
+            "Scale9Width": 37,
+            "Scale9Height": 37,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.0,
+              "Y": 337.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.4688
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 133.0,
+            "RightMargin": 1077.0,
+            "TopMargin": 347.5,
+            "BottomMargin": 302.5,
+            "Tag": 90,
+            "ActionTag": -1738324869,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "JFItemRank3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconNgoc.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0001,
+              "Y": 486.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.675
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0625
+            },
+            "LeftMargin": 917.0001,
+            "RightMargin": 316.9999,
+            "TopMargin": 211.5,
+            "BottomMargin": 463.5,
+            "Tag": 95,
+            "ActionTag": -1454970443,
+            "Size": {
+              "X": 46.0,
+              "Y": 45.0
+            },
+            "Name": "JFIconGold1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconNgoc.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0001,
+              "Y": 411.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.5712
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0625
+            },
+            "LeftMargin": 917.0001,
+            "RightMargin": 316.9999,
+            "TopMargin": 286.25,
+            "BottomMargin": 388.75,
+            "Tag": 96,
+            "ActionTag": -283971996,
+            "Size": {
+              "X": 46.0,
+              "Y": 45.0
+            },
+            "Name": "JFIconGold2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconNgoc.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0001,
+              "Y": 336.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.4674
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0625
+            },
+            "LeftMargin": 917.0001,
+            "RightMargin": 316.9999,
+            "TopMargin": 361.0,
+            "BottomMargin": 314.0,
+            "Tag": 97,
+            "ActionTag": 1642675083,
+            "Size": {
+              "X": 46.0,
+              "Y": 45.0
+            },
+            "Name": "JFIconGold3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconNgoc.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0001,
+              "Y": 261.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.3635
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0625
+            },
+            "LeftMargin": 917.0001,
+            "RightMargin": 316.9999,
+            "TopMargin": 435.75,
+            "BottomMargin": 239.25,
+            "Tag": 98,
+            "ActionTag": -212675494,
+            "Size": {
+              "X": 46.0,
+              "Y": 45.0
+            },
+            "Name": "JFIconGold4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconNgoc.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0,
+              "Y": 187.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.2597
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0625
+            },
+            "LeftMargin": 917.0,
+            "RightMargin": 317.0,
+            "TopMargin": 510.5,
+            "BottomMargin": 164.5,
+            "Tag": 99,
+            "ActionTag": -1027819308,
+            "Size": {
+              "X": 46.0,
+              "Y": 45.0
+            },
+            "Name": "JFIconGold5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleTopDamage.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 107,
+            "Scale9OriginY": 16,
+            "Scale9Width": 112,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 630.3552,
+              "Y": 655.2659
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4925,
+              "Y": 0.9101
+            },
+            "PreSize": {
+              "X": 0.2547,
+              "Y": 0.0708
+            },
+            "LeftMargin": 467.3552,
+            "RightMargin": 486.6448,
+            "TopMargin": 39.2341,
+            "BottomMargin": 629.7659,
+            "Tag": 100,
+            "ActionTag": 403368671,
+            "Size": {
+              "X": 326.0,
+              "Y": 51.0
+            },
+            "Name": "JFTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 133.8869,
+              "Y": 228.5938
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1046,
+              "Y": 0.3175
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 133.8869,
+            "RightMargin": 1076.113,
+            "TopMargin": 421.4062,
+            "BottomMargin": 228.5938,
+            "Tag": 104,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "4th.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 22,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8571,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": 5.0,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 93,
+                "ActionTag": -1918407786,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "JFBgItem",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "4",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 32.998,
+                  "Y": 33.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 90,
+                  "G": 67,
+                  "B": 34
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4714,
+                  "Y": 0.4857
+                },
+                "PreSize": {
+                  "X": 0.5429,
+                  "Y": 0.4714
+                },
+                "LeftMargin": 13.998,
+                "RightMargin": 18.002,
+                "TopMargin": 19.501,
+                "BottomMargin": 17.499,
+                "Tag": 101,
+                "ActionTag": -1705501727,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 33.0
+                },
+                "Name": "JFTxtRank",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1069023476,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "JFItemRank4",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 132.3024,
+              "Y": 153.6109
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1034,
+              "Y": 0.2133
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 132.3024,
+            "RightMargin": 1077.6976,
+            "TopMargin": 496.3891,
+            "BottomMargin": 153.6109,
+            "Tag": 105,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MyRank.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9OriginX": 21,
+                "Scale9OriginY": 21,
+                "Scale9Width": 22,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9143,
+                  "Y": 0.9143
+                },
+                "LeftMargin": 3.0,
+                "RightMargin": 3.0,
+                "TopMargin": 3.0,
+                "BottomMargin": 3.0,
+                "Tag": 94,
+                "ActionTag": -478959560,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "JFBgItem",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "4+",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 114,
+                  "G": 70,
+                  "B": 6
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 29.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 235,
+                  "B": 60
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4143
+                },
+                "PreSize": {
+                  "X": 0.7143,
+                  "Y": 0.7143
+                },
+                "LeftMargin": 10.0,
+                "RightMargin": 10.0,
+                "TopMargin": 15.999,
+                "BottomMargin": 4.001,
+                "Tag": 102,
+                "ActionTag": 643100689,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "JFTxtRank",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1668354423,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFIconMyRank",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 131.6174,
+              "Y": 153.1953
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1028,
+              "Y": 0.2128
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 131.6174,
+            "RightMargin": 1078.3826,
+            "TopMargin": 496.8047,
+            "BottomMargin": 153.1953,
+            "Tag": 106,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "4th.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 22,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8571,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": 5.0,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 107,
+                "ActionTag": 344386658,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "JFBgItem",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "4+",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 33.999,
+                  "Y": 36.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 90,
+                  "G": 67,
+                  "B": 34
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4857,
+                  "Y": 0.5143
+                },
+                "PreSize": {
+                  "X": 0.5429,
+                  "Y": 0.4714
+                },
+                "LeftMargin": 14.999,
+                "RightMargin": 17.001,
+                "TopMargin": 17.499,
+                "BottomMargin": 19.501,
+                "Tag": 108,
+                "ActionTag": 234780670,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 33.0
+                },
+                "Name": "JFTxtRank",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 274099535,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "JFItemRank5",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 421.9999,
+              "Y": 478.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.6653
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 288.4999,
+            "RightMargin": 724.5001,
+            "TopMargin": 221.0001,
+            "BottomMargin": 458.9999,
+            "Tag": 109,
+            "ActionTag": -1004878890,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFName1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 421.9999,
+              "Y": 403.7499
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.5608
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 288.4999,
+            "RightMargin": 724.5001,
+            "TopMargin": 296.2501,
+            "BottomMargin": 383.7499,
+            "Tag": 110,
+            "ActionTag": 1669350705,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFName2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 421.9999,
+              "Y": 328.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.4563
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 288.4999,
+            "RightMargin": 724.5001,
+            "TopMargin": 371.5,
+            "BottomMargin": 308.5,
+            "Tag": 111,
+            "ActionTag": 796174251,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFName3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 421.9999,
+              "Y": 253.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.3517
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 288.4999,
+            "RightMargin": 724.5001,
+            "TopMargin": 446.75,
+            "BottomMargin": 233.25,
+            "Tag": 112,
+            "ActionTag": -1491884691,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFName4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.0,
+              "Y": 178.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.2472
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 288.5,
+            "RightMargin": 724.5,
+            "TopMargin": 522.0,
+            "BottomMargin": 158.0,
+            "Tag": 113,
+            "ActionTag": 230263102,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFName5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.2914,
+              "Y": 479.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.6653
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 579.7914,
+            "RightMargin": 433.2086,
+            "TopMargin": 221.0,
+            "BottomMargin": 459.0,
+            "Tag": 114,
+            "ActionTag": 1407546879,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFDamage1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.2914,
+              "Y": 403.7488
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.5608
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 579.7914,
+            "RightMargin": 433.2086,
+            "TopMargin": 296.2512,
+            "BottomMargin": 383.7488,
+            "Tag": 115,
+            "ActionTag": 29176304,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFDamage2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.2914,
+              "Y": 328.499
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.4562
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 579.7914,
+            "RightMargin": 433.2086,
+            "TopMargin": 371.501,
+            "BottomMargin": 308.499,
+            "Tag": 116,
+            "ActionTag": 1239517083,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFDamage3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.2914,
+              "Y": 253.2495
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.3517
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 579.7914,
+            "RightMargin": 433.2086,
+            "TopMargin": 446.7505,
+            "BottomMargin": 233.2495,
+            "Tag": 117,
+            "ActionTag": 1961995971,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFDamage4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.29,
+              "Y": 178.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.2472
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.0556
+            },
+            "LeftMargin": 579.79,
+            "RightMargin": 433.21,
+            "TopMargin": 522.0,
+            "BottomMargin": 158.0,
+            "Tag": 118,
+            "ActionTag": 1168274839,
+            "Size": {
+              "X": 267.0,
+              "Y": 40.0
+            },
+            "Name": "JFDamage5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1081.9998,
+              "Y": 481.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8453,
+              "Y": 0.6694
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 961.9998,
+            "RightMargin": 78.0002,
+            "TopMargin": 218.0004,
+            "BottomMargin": 461.9996,
+            "Tag": 119,
+            "ActionTag": -1085811083,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFGold1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1081.9998,
+              "Y": 406.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8453,
+              "Y": 0.5653
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 961.9998,
+            "RightMargin": 78.0002,
+            "TopMargin": 293.0003,
+            "BottomMargin": 386.9997,
+            "Tag": 120,
+            "ActionTag": -1649773316,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFGold2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1081.9998,
+              "Y": 331.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8453,
+              "Y": 0.4611
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 961.9998,
+            "RightMargin": 78.0002,
+            "TopMargin": 368.0002,
+            "BottomMargin": 311.9998,
+            "Tag": 121,
+            "ActionTag": -1780842710,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFGold3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1081.9998,
+              "Y": 256.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8453,
+              "Y": 0.3569
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 961.9998,
+            "RightMargin": 78.0002,
+            "TopMargin": 443.0001,
+            "BottomMargin": 236.9999,
+            "Tag": 122,
+            "ActionTag": -997371852,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFGold4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1082.0,
+              "Y": 182.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8453,
+              "Y": 0.2528
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 962.0,
+            "RightMargin": 78.0,
+            "TopMargin": 518.0,
+            "BottomMargin": 162.0,
+            "Tag": 123,
+            "ActionTag": 960389031,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFGold5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 713.29,
+              "Y": 179.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5573,
+              "Y": 0.2486
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 593.29,
+            "RightMargin": 446.71,
+            "TopMargin": 521.0,
+            "BottomMargin": 159.0,
+            "Tag": 124,
+            "ActionTag": -659598115,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFMyDamage",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 114,
+              "G": 70,
+              "B": 6
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.0,
+              "Y": 178.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 235,
+              "B": 60
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.2472
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.0556
+            },
+            "LeftMargin": 302.0,
+            "RightMargin": 738.0,
+            "TopMargin": 522.0,
+            "BottomMargin": 158.0,
+            "Tag": 125,
+            "ActionTag": -432694882,
+            "Size": {
+              "X": 240.0,
+              "Y": 40.0
+            },
+            "Name": "JFMyName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1232.179,
+              "Y": 673.0663
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9626,
+              "Y": 0.9348
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1195.679,
+            "RightMargin": 11.321,
+            "TopMargin": 10.4337,
+            "BottomMargin": 636.5663,
+            "Tag": 142,
+            "ActionTag": -57236203,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

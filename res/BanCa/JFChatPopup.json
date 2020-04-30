@@ -1,0 +1,1100 @@
+{
+  "ID": "2d6ac504-68bf-46aa-9668-e7403d62c224",
+  "Version": "2.3.4",
+  "Name": "JFChatPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 373,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundSmallNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 395,
+            "ActionTag": -1327568943,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Background",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TITLE_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.101,
+              "Y": 156.385
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -2.0,
+            "RotationSkewY": -1.9998,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -53.101,
+            "RightMargin": -50.899,
+            "TopMargin": -175.385,
+            "BottomMargin": 137.385,
+            "Tag": 394,
+            "ActionTag": 180932578,
+            "Size": {
+              "X": 104.0,
+              "Y": 38.0
+            },
+            "Name": "ImgTitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "Popups/PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -276.5,
+            "RightMargin": 3.5,
+            "TopMargin": -97.0,
+            "BottomMargin": 23.0,
+            "Tag": 401,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Cảm ơn!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.2784,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 98.5,
+                "RightMargin": 98.5,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 913,
+                "ActionTag": -1103276957,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -798499095,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -276.5,
+            "RightMargin": 3.5,
+            "TopMargin": -37.0,
+            "BottomMargin": -37.0,
+            "Tag": 402,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Bắn hay đó!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.3846,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 84.0,
+                "RightMargin": 84.0,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 914,
+                "ActionTag": 1889022883,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2027240470,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.0,
+              "Y": -60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -276.5,
+            "RightMargin": 3.5,
+            "TopMargin": 23.0,
+            "BottomMargin": -97.0,
+            "Tag": 403,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Rất zui được làm quen",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.7253,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 37.5,
+                "RightMargin": 37.5,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 917,
+                "ActionTag": -2049125466,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1395455469,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.0,
+              "Y": -120.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -276.5,
+            "RightMargin": 3.5,
+            "TopMargin": 83.0,
+            "BottomMargin": -157.0,
+            "Tag": 404,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Cho xin ít xu với!!!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.5751,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 58.0,
+                "RightMargin": 58.0,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 918,
+                "ActionTag": -441769003,
+                "Size": {
+                  "X": 157.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_6",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -151773509,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 3.5,
+            "RightMargin": -276.5,
+            "TopMargin": -97.0,
+            "BottomMargin": 23.0,
+            "Tag": 405,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Xin lỗi nhé!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.348,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 89.0,
+                "RightMargin": 89.0,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 919,
+                "ActionTag": -329001464,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -838319813,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 3.5,
+            "RightMargin": -276.5,
+            "TopMargin": -37.0,
+            "BottomMargin": -37.0,
+            "Tag": 406,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Huhu xui quá!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.4249,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 78.5,
+                "RightMargin": 78.5,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 920,
+                "ActionTag": 291756625,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1738434463,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 138.1432,
+              "Y": -60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.6432,
+            "RightMargin": -274.6432,
+            "TopMargin": 23.0,
+            "BottomMargin": -97.0,
+            "Tag": 407,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Trả cá lại đây!!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.4799,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 71.0,
+                "RightMargin": 71.0,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 921,
+                "ActionTag": -1861365160,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_5",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 529883957,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BTN_CHAT.png",
+              "Plist": "PopupChat/atlas_popupchat.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 243,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.0,
+              "Y": -120.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 3.5,
+            "RightMargin": -276.5,
+            "TopMargin": 83.0,
+            "BottomMargin": -157.0,
+            "Tag": 408,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Hehe thắng òi nha!",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5,
+                  "Y": 41.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.56
+                },
+                "PreSize": {
+                  "X": 0.5971,
+                  "Y": 0.3108
+                },
+                "LeftMargin": 55.0,
+                "RightMargin": 55.0,
+                "TopMargin": 21.06,
+                "BottomMargin": 29.94,
+                "Tag": 922,
+                "ActionTag": -320200268,
+                "Size": {
+                  "X": 163.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 646955393,
+            "Size": {
+              "X": 273.0,
+              "Y": 74.0
+            },
+            "Name": "JFBtn7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 299.9999,
+              "Y": 148.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 263.4999,
+            "RightMargin": -336.4999,
+            "TopMargin": -184.5007,
+            "BottomMargin": 111.5007,
+            "Tag": 728,
+            "ActionTag": -1949630612,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundSmallNormal.json",
+        "PopupChat/atlas_popupchat.plist",
+        "PopupChat/atlas_popupchat.png",
+        "Popups/PopupChat/atlas_popupchat.plist",
+        "Popups/PopupChat/atlas_popupchat.png",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

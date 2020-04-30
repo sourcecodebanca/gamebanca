@@ -1,0 +1,325 @@
+{
+  "ID": "8067d17d-0890-4986-9fd9-0b981bf4a1a2",
+  "Version": "2.3.4",
+  "Name": "UIHeSoCaPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 570,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 318.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4417
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 401.9993,
+            "BottomMargin": 318.0007,
+            "Tag": 634,
+            "ActionTag": -1433953584,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1215.735,
+              "Y": 624.8336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9498,
+              "Y": 0.8678
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1179.235,
+            "RightMargin": 27.765,
+            "TopMargin": 58.6664,
+            "BottomMargin": 588.3336,
+            "Tag": 633,
+            "ActionTag": 1724561482,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TittleHeSoCa.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 51,
+            "Scale9OriginY": 15,
+            "Scale9Width": 55,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 635.0427,
+              "Y": 632.5982
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.7029,
+            "RotationSkewY": 0.7029,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4961,
+              "Y": 0.8786
+            },
+            "PreSize": {
+              "X": 0.1227,
+              "Y": 0.0653
+            },
+            "LeftMargin": 556.5427,
+            "RightMargin": 566.4573,
+            "TopMargin": 63.9018,
+            "BottomMargin": 609.0982,
+            "Tag": 686,
+            "ActionTag": 1434178073,
+            "Size": {
+              "X": 157.0,
+              "Y": 47.0
+            },
+            "Name": "JFtitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundUserItem.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 114,
+            "Scale9OriginY": 53,
+            "Scale9Width": 120,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9995,
+              "Y": 294.1901
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4086
+            },
+            "PreSize": {
+              "X": 0.8273,
+              "Y": 0.6944
+            },
+            "LeftMargin": 110.4995,
+            "RightMargin": 110.5005,
+            "TopMargin": 175.8099,
+            "BottomMargin": 44.1901,
+            "Tag": 652,
+            "ActionTag": 1206498468,
+            "Size": {
+              "X": 1059.0,
+              "Y": 500.0
+            },
+            "Name": "Image_48",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupHeSo/HSC_VIP.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 889,
+            "Scale9Height": 408,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.98,
+              "Y": 297.2702
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5015,
+              "Y": 0.4129
+            },
+            "PreSize": {
+              "X": 0.718,
+              "Y": 0.6083
+            },
+            "LeftMargin": 182.48,
+            "RightMargin": 178.52,
+            "TopMargin": 203.7298,
+            "BottomMargin": 78.2702,
+            "Tag": 143,
+            "ActionTag": -1275324845,
+            "Size": {
+              "X": 919.0,
+              "Y": 438.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFHSC_V",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupHeSo/HSC_Thuong.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 894,
+            "Scale9Height": 408,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.98,
+              "Y": 292.2702
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5015,
+              "Y": 0.4059
+            },
+            "PreSize": {
+              "X": 0.7219,
+              "Y": 0.6083
+            },
+            "LeftMargin": 179.98,
+            "RightMargin": 176.02,
+            "TopMargin": 208.7298,
+            "BottomMargin": 73.2702,
+            "Tag": 144,
+            "ActionTag": -1023901573,
+            "Size": {
+              "X": 924.0,
+              "Y": 438.0
+            },
+            "Name": "JFHSC_N",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundBigNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupHeSo/HSC_Thuong.png",
+        "Popups/PopupHeSo/HSC_VIP.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
