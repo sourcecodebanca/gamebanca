@@ -1,0 +1,125 @@
+
+FrameIcon_FX.png
+size: 610,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame_FX0130
+  rotate: false
+  xy: 2, 259
+  size: 145, 164
+  orig: 448, 336
+  offset: 156, 105
+  index: -1
+Frame_FX0135
+  rotate: false
+  xy: 2, 121
+  size: 149, 136
+  orig: 448, 336
+  offset: 156, 127
+  index: -1
+Frame_FX0140
+  rotate: false
+  xy: 301, 331
+  size: 152, 116
+  orig: 448, 336
+  offset: 157, 150
+  index: -1
+Frame_FX0145
+  rotate: false
+  xy: 455, 317
+  size: 152, 134
+  orig: 448, 336
+  offset: 157, 125
+  index: -1
+Frame_FX0150
+  rotate: false
+  xy: 2, 425
+  size: 149, 165
+  orig: 448, 336
+  offset: 161, 87
+  index: -1
+Frame_FX0155
+  rotate: false
+  xy: 153, 119
+  size: 118, 146
+  orig: 448, 336
+  offset: 189, 85
+  index: -1
+Frame_FX0160
+  rotate: false
+  xy: 515, 169
+  size: 93, 146
+  orig: 448, 336
+  offset: 211, 85
+  index: -1
+Frame_FX0165
+  rotate: false
+  xy: 273, 185
+  size: 123, 144
+  orig: 448, 336
+  offset: 177, 87
+  index: -1
+Frame_FX0170
+  rotate: false
+  xy: 454, 453
+  size: 154, 137
+  orig: 448, 336
+  offset: 141, 88
+  index: -1
+Frame_FX0175
+  rotate: false
+  xy: 153, 10
+  size: 148, 107
+  orig: 448, 336
+  offset: 144, 92
+  index: -1
+Frame_FX0180
+  rotate: false
+  xy: 401, 78
+  size: 148, 89
+  orig: 448, 336
+  offset: 144, 95
+  index: -1
+Frame_FX0185
+  rotate: false
+  xy: 2, 2
+  size: 149, 117
+  orig: 448, 336
+  offset: 143, 98
+  index: -1
+Frame_FX0190
+  rotate: false
+  xy: 301, 449
+  size: 151, 141
+  orig: 448, 336
+  offset: 140, 101
+  index: -1
+Frame_FX0195
+  rotate: false
+  xy: 398, 173
+  size: 115, 142
+  orig: 448, 336
+  offset: 142, 104
+  index: -1
+Frame_FX0200
+  rotate: false
+  xy: 303, 24
+  size: 96, 143
+  orig: 448, 336
+  offset: 146, 104
+  index: -1
+Frame_FX0205
+  rotate: false
+  xy: 149, 267
+  size: 120, 156
+  orig: 448, 336
+  offset: 150, 105
+  index: -1
+Frame_FX0210
+  rotate: false
+  xy: 153, 438
+  size: 146, 152
+  orig: 448, 336
+  offset: 154, 110
+  index: -1

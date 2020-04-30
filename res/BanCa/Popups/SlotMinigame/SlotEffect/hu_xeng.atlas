@@ -1,0 +1,180 @@
+
+hu_xeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 0, 0
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 703, 17
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+ef12
+  rotate: false
+  xy: 554, 3
+  size: 148, 119
+  orig: 148, 119
+  offset: 0, 0
+  index: -1
+ef124
+  rotate: false
+  xy: 294, 411
+  size: 290, 283
+  orig: 292, 283
+  offset: 1, 0
+  index: -1
+ef126
+  rotate: false
+  xy: 554, 123
+  size: 249, 287
+  orig: 249, 287
+  offset: 0, 0
+  index: -1
+ef128
+  rotate: false
+  xy: 284, 68
+  size: 269, 307
+  orig: 269, 307
+  offset: 0, 0
+  index: -1
+ef131
+  rotate: false
+  xy: 0, 58
+  size: 283, 317
+  orig: 283, 317
+  offset: 0, 0
+  index: -1
+ef133
+  rotate: false
+  xy: 0, 695
+  size: 302, 318
+  orig: 302, 318
+  offset: 0, 0
+  index: -1
+ef135
+  rotate: false
+  xy: 0, 376
+  size: 293, 318
+  orig: 293, 318
+  offset: 0, 0
+  index: -1
+ef14
+  rotate: false
+  xy: 824, 58
+  size: 170, 156
+  orig: 170, 156
+  offset: 0, 0
+  index: -1
+ef16
+  rotate: false
+  xy: 585, 629
+  size: 189, 174
+  orig: 189, 174
+  offset: 0, 0
+  index: -1
+ef18
+  rotate: false
+  xy: 585, 804
+  size: 204, 209
+  orig: 204, 210
+  offset: 0, 1
+  index: -1
+ef2
+  rotate: false
+  xy: 775, 552
+  size: 246, 246
+  orig: 247, 247
+  offset: 1, 0
+  index: -1
+ef21
+  rotate: false
+  xy: 804, 215
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+ef22
+  rotate: false
+  xy: 804, 799
+  size: 204, 214
+  orig: 206, 214
+  offset: 1, 0
+  index: -1
+ef221
+  rotate: false
+  xy: 804, 380
+  size: 160, 171
+  orig: 160, 171
+  offset: 0, 0
+  index: -1
+ef23
+  rotate: false
+  xy: 585, 448
+  size: 174, 180
+  orig: 174, 180
+  offset: 0, 0
+  index: -1
+ef26
+  rotate: false
+  xy: 303, 777
+  size: 277, 236
+  orig: 277, 236
+  offset: 0, 0
+  index: -1
+sct
+  rotate: false
+  xy: 0, 29
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+
+hu_xeng2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef120
+  rotate: false
+  xy: 0, 0
+  size: 234, 228
+  orig: 234, 228
+  offset: 0, 0
+  index: -1
+ef122
+  rotate: false
+  xy: 0, 229
+  size: 264, 242
+  orig: 264, 242
+  offset: 0, 0
+  index: -1
+ef24
+  rotate: false
+  xy: 487, 294
+  size: 222, 177
+  orig: 222, 177
+  offset: 0, 0
+  index: -1
+ef25
+  rotate: false
+  xy: 710, 322
+  size: 147, 149
+  orig: 147, 151
+  offset: 0, 1
+  index: -1
+ef27
+  rotate: false
+  xy: 265, 244
+  size: 221, 227
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
