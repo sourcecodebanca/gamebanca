@@ -1,0 +1,125 @@
+
+Trident_Ulti_Gem_FX.png
+size: 330,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Screenlight
+  rotate: false
+  xy: 252, 8
+  size: 43, 24
+  orig: 46, 25
+  offset: 1, 1
+  index: -1
+StarLight
+  rotate: false
+  xy: 291, 76
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+UltimateSkill_ring
+  rotate: false
+  xy: 87, 14
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+bglight
+  rotate: false
+  xy: 87, 72
+  size: 87, 33
+  orig: 90, 34
+  offset: 1, 1
+  index: -1
+circleblur
+  rotate: false
+  xy: 207, 26
+  size: 43, 43
+  orig: 47, 47
+  offset: 2, 2
+  index: -1
+dotlight
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+flare_golden
+  rotate: false
+  xy: 2, 20
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+goldenBall/goldenBall_0000000
+  rotate: false
+  xy: 252, 34
+  size: 51, 38
+  orig: 74, 70
+  offset: 16, 19
+  index: -1
+goldenBall/goldenBall_0000001
+  rotate: false
+  xy: 176, 71
+  size: 55, 40
+  orig: 74, 70
+  offset: 12, 17
+  index: -1
+goldenBall/goldenBall_0000002
+  rotate: false
+  xy: 233, 74
+  size: 56, 37
+  orig: 74, 70
+  offset: 10, 16
+  index: -1
+goldenBall/goldenBall_0000003
+  rotate: false
+  xy: 145, 36
+  size: 60, 33
+  orig: 74, 70
+  offset: 5, 15
+  index: -1
+goldenBall/goldenBall_0000004
+  rotate: false
+  xy: 145, 7
+  size: 50, 27
+  orig: 74, 70
+  offset: 5, 15
+  index: -1
+goldenBall/goldenBall_0000005
+  rotate: false
+  xy: 297, 5
+  size: 31, 27
+  orig: 74, 70
+  offset: 8, 16
+  index: -1
+goldenBall/goldenBall_0000006
+  rotate: false
+  xy: 305, 49
+  size: 23, 25
+  orig: 74, 70
+  offset: 6, 19
+  index: -1
+goldenBall/goldenBall_0000007
+  rotate: false
+  xy: 197, 5
+  size: 16, 19
+  orig: 74, 70
+  offset: 6, 25
+  index: -1
+goldenBall/goldenBall_0000008
+  rotate: false
+  xy: 20, 4
+  size: 13, 14
+  orig: 74, 70
+  offset: 6, 28
+  index: -1
+linelight
+  rotate: false
+  xy: 2, 107
+  size: 165, 4
+  orig: 179, 5
+  offset: 7, 1
+  index: -1

@@ -1,0 +1,328 @@
+{
+"skeleton": { "hash": "0tSO6gbrnJaMCWj+67/kdj8TIaQ", "spine": "3.6.48", "width": 73, "height": 59, "images": "" },
+"bones": [
+	{ "name": "Trident_Electric_Gem_FX" },
+	{ "name": "All_FX", "parent": "Trident_Electric_Gem_FX" },
+	{ "name": "Flare", "parent": "All_FX", "y": -1.75 },
+	{ "name": "Ring", "parent": "All_FX", "scaleX": 1.05, "scaleY": 1.05 },
+	{ "name": "TypicalEffect", "parent": "All_FX" },
+	{ "name": "TE_Elec1", "parent": "TypicalEffect" },
+	{ "name": "TE_Elec2", "parent": "TypicalEffect" },
+	{ "name": "TE_Elec3", "parent": "TypicalEffect" },
+	{ "name": "TE_Elec4", "parent": "TypicalEffect" },
+	{ "name": "TE_Elec5", "parent": "TypicalEffect" }
+],
+"slots": [
+	{ "name": "Ring", "bone": "Ring" },
+	{ "name": "TE_Elec1", "bone": "TE_Elec1" },
+	{ "name": "TE_Elec4", "bone": "TE_Elec4" },
+	{ "name": "TE_Elec2", "bone": "TE_Elec2" },
+	{ "name": "TE_Elec3", "bone": "TE_Elec3", "attachment": "ElectFX03/ElectFX030001" },
+	{ "name": "TE_Elec5", "bone": "TE_Elec5", "attachment": "ElectFX03/ElectFX030001" },
+	{ "name": "flare", "bone": "Flare" }
+],
+"skins": {
+	"default": {
+		"Ring": {
+			"elec_ring": { "width": 65, "height": 65 }
+		},
+		"TE_Elec1": {
+			"ElecFX01/ElecFX010001": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010002": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010003": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010004": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010005": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010006": { "width": 39, "height": 41 }
+		},
+		"TE_Elec2": {
+			"ElectFX02/ElectFX020001": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020002": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020003": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020004": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020005": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020006": { "width": 64, "height": 30 },
+			"ElectFX02/ElectFX020007": { "width": 64, "height": 30 }
+		},
+		"TE_Elec3": {
+			"ElectFX03/ElectFX030001": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030002": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030003": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030004": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030005": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030006": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030007": { "width": 73, "height": 59 }
+		},
+		"TE_Elec4": {
+			"ElecFX01/ElecFX010001": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010002": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010003": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010004": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010005": { "width": 39, "height": 41 },
+			"ElecFX01/ElecFX010006": { "width": 39, "height": 41 }
+		},
+		"TE_Elec5": {
+			"ElectFX03/ElectFX030001": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030002": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030003": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030004": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030005": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030006": { "width": 73, "height": 59 },
+			"ElectFX03/ElectFX030007": { "width": 73, "height": 59 }
+		},
+		"flare": {
+			"flare_green": { "x": 0.81, "y": -1.3, "width": 95, "height": 97 }
+		}
+	}
+},
+"animations": {
+	"Electric_gem_FX": {
+		"slots": {
+			"Ring": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.6,
+						"color": "ffffff09",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffffff" },
+					{
+						"time": 1.4,
+						"color": "ffffff09",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{ "time": 1.6333, "color": "ffffffff" },
+					{ "time": 2.2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "elec_ring" }
+				]
+			},
+			"TE_Elec1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "ElecFX01/ElecFX010001" },
+					{ "time": 0.2, "name": "ElecFX01/ElecFX010002" },
+					{ "time": 0.2333, "name": "ElecFX01/ElecFX010003" },
+					{ "time": 0.2667, "name": "ElecFX01/ElecFX010004" },
+					{ "time": 0.3, "name": "ElecFX01/ElecFX010005" },
+					{ "time": 0.3333, "name": "ElecFX01/ElecFX010006" },
+					{ "time": 0.3667, "name": "ElecFX01/ElecFX010001" },
+					{ "time": 0.4, "name": "ElecFX01/ElecFX010002" },
+					{ "time": 0.4333, "name": "ElecFX01/ElecFX010003" },
+					{ "time": 0.4667, "name": "ElecFX01/ElecFX010004" },
+					{ "time": 0.5, "name": "ElecFX01/ElecFX010005" },
+					{ "time": 0.5333, "name": "ElecFX01/ElecFX010006" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"TE_Elec2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "ElectFX02/ElectFX020002" },
+					{ "time": 0.0667, "name": "ElectFX02/ElectFX020003" },
+					{ "time": 0.1, "name": "ElectFX02/ElectFX020004" },
+					{ "time": 0.1333, "name": "ElectFX02/ElectFX020005" },
+					{ "time": 0.1667, "name": "ElectFX02/ElectFX020006" },
+					{ "time": 0.2, "name": "ElectFX02/ElectFX020007" },
+					{ "time": 0.2333, "name": "ElectFX02/ElectFX020001" },
+					{ "time": 0.2667, "name": "ElectFX02/ElectFX020002" },
+					{ "time": 0.3, "name": "ElectFX02/ElectFX020003" },
+					{ "time": 0.3333, "name": "ElectFX02/ElectFX020004" },
+					{ "time": 0.3667, "name": "ElectFX02/ElectFX020005" },
+					{ "time": 0.4, "name": "ElectFX02/ElectFX020006" },
+					{ "time": 0.4333, "name": "ElectFX02/ElectFX020007" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"TE_Elec3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "ElectFX03/ElectFX030001" },
+					{ "time": 0.4333, "name": "ElectFX03/ElectFX030002" },
+					{ "time": 0.4667, "name": "ElectFX03/ElectFX030003" },
+					{ "time": 0.5, "name": "ElectFX03/ElectFX030004" },
+					{ "time": 0.5333, "name": "ElectFX03/ElectFX030005" },
+					{ "time": 0.5667, "name": "ElectFX03/ElectFX030006" },
+					{ "time": 0.6, "name": "ElectFX03/ElectFX030007" },
+					{ "time": 0.6333, "name": "ElectFX03/ElectFX030001" },
+					{ "time": 0.6667, "name": "ElectFX03/ElectFX030002" },
+					{ "time": 0.7, "name": "ElectFX03/ElectFX030003" },
+					{ "time": 0.7333, "name": "ElectFX03/ElectFX030004" },
+					{ "time": 0.7667, "name": "ElectFX03/ElectFX030005" },
+					{ "time": 0.8, "name": "ElectFX03/ElectFX030006" },
+					{ "time": 0.8333, "name": "ElectFX03/ElectFX030007" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"TE_Elec4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "ElecFX01/ElecFX010001" },
+					{ "time": 0.2333, "name": "ElecFX01/ElecFX010002" },
+					{ "time": 0.2667, "name": "ElecFX01/ElecFX010003" },
+					{ "time": 0.3, "name": "ElecFX01/ElecFX010004" },
+					{ "time": 0.3333, "name": "ElecFX01/ElecFX010005" },
+					{ "time": 0.3667, "name": "ElecFX01/ElecFX010006" },
+					{ "time": 0.4, "name": "ElecFX01/ElecFX010001" },
+					{ "time": 0.4333, "name": "ElecFX01/ElecFX010002" },
+					{ "time": 0.4667, "name": "ElecFX01/ElecFX010003" },
+					{ "time": 0.5, "name": "ElecFX01/ElecFX010004" },
+					{ "time": 0.5333, "name": "ElecFX01/ElecFX010005" },
+					{ "time": 0.5667, "name": "ElecFX01/ElecFX010006" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"TE_Elec5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2667, "name": "ElectFX03/ElectFX030001" },
+					{ "time": 0.3, "name": "ElectFX03/ElectFX030002" },
+					{ "time": 0.3333, "name": "ElectFX03/ElectFX030003" },
+					{ "time": 0.3667, "name": "ElectFX03/ElectFX030004" },
+					{ "time": 0.4, "name": "ElectFX03/ElectFX030005" },
+					{ "time": 0.4333, "name": "ElectFX03/ElectFX030006" },
+					{ "time": 0.4667, "name": "ElectFX03/ElectFX030007" },
+					{ "time": 0.5, "name": "ElectFX03/ElectFX030001" },
+					{ "time": 0.5333, "name": "ElectFX03/ElectFX030002" },
+					{ "time": 0.5667, "name": "ElectFX03/ElectFX030003" },
+					{ "time": 0.6, "name": "ElectFX03/ElectFX030004" },
+					{ "time": 0.6333, "name": "ElectFX03/ElectFX030005" },
+					{ "time": 0.6667, "name": "ElectFX03/ElectFX030006" },
+					{ "time": 0.7, "name": "ElectFX03/ElectFX030007" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"flare": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.6,
+						"color": "ffffff00",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 1, 0.26 ]
+					},
+					{
+						"time": 1.4,
+						"color": "ffffff00",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 1, 0.26 ]
+					},
+					{ "time": 2.2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "flare_green" }
+				]
+			}
+		},
+		"bones": {
+			"All_FX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"Flare": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.6,
+						"x": 0.7,
+						"y": 0.7,
+						"curve": [ 0.022, 0.31, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.997, 0.55 ]
+					},
+					{
+						"time": 1.4,
+						"x": 0.7,
+						"y": 0.7,
+						"curve": [ 0.022, 0.31, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.997, 0.55 ]
+					},
+					{ "time": 2.2, "x": 0.7, "y": 0.7 }
+				]
+			},
+			"Ring": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"TE_Elec1": {
+				"rotate": [
+					{ "time": 0, "angle": -36.52 }
+				],
+				"translate": [
+					{ "time": 0, "x": -15.6, "y": -12.48 }
+				]
+			},
+			"TE_Elec2": {
+				"rotate": [
+					{ "time": 0, "angle": 45.78 }
+				],
+				"translate": [
+					{ "time": 0, "x": -16.17, "y": 15.84 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.7, "y": 1 }
+				]
+			},
+			"TE_Elec3": {
+				"rotate": [
+					{ "time": 0, "angle": -20.1 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.68, "y": 12 }
+				]
+			},
+			"TE_Elec4": {
+				"rotate": [
+					{ "time": 0, "angle": 40.92 }
+				],
+				"translate": [
+					{ "time": 0, "x": 17.79, "y": -13.81 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": -0.7 }
+				]
+			},
+			"TE_Elec5": {
+				"rotate": [
+					{ "time": 0, "angle": -18.9 }
+				],
+				"translate": [
+					{ "time": 0, "x": -1.43, "y": 8.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.7, "y": -0.7 }
+				]
+			}
+		}
+	}
+}
+}

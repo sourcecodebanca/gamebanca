@@ -1,0 +1,97 @@
+
+Trident_Fire_Gem_FX.png
+size: 335,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BombFX0001
+  rotate: false
+  xy: 67, 5
+  size: 60, 48
+  orig: 67, 67
+  offset: 6, 1
+  index: -1
+BombFX0002
+  rotate: false
+  xy: 71, 55
+  size: 65, 56
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+BombFX0003
+  rotate: false
+  xy: 206, 50
+  size: 62, 62
+  orig: 67, 67
+  offset: 4, 1
+  index: -1
+BombFX0004
+  rotate: false
+  xy: 208, 114
+  size: 64, 61
+  orig: 67, 67
+  offset: 3, 1
+  index: -1
+BombFX0005
+  rotate: false
+  xy: 2, 39
+  size: 63, 66
+  orig: 67, 67
+  offset: 3, 1
+  index: -1
+BombFX0006
+  rotate: false
+  xy: 71, 113
+  size: 67, 62
+  orig: 67, 67
+  offset: 0, 1
+  index: -1
+BombFX0007
+  rotate: false
+  xy: 140, 114
+  size: 66, 61
+  orig: 67, 67
+  offset: 1, 0
+  index: -1
+BombFX0008
+  rotate: false
+  xy: 140, 52
+  size: 64, 60
+  orig: 67, 67
+  offset: 3, 3
+  index: -1
+BombFX0009
+  rotate: false
+  xy: 274, 114
+  size: 59, 61
+  orig: 67, 67
+  offset: 5, 4
+  index: -1
+BombFX0010
+  rotate: false
+  xy: 270, 57
+  size: 59, 55
+  orig: 67, 67
+  offset: 5, 6
+  index: -1
+BombFX0011
+  rotate: false
+  xy: 270, 6
+  size: 54, 49
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+fire_ring
+  rotate: false
+  xy: 129, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+flare_red
+  rotate: false
+  xy: 2, 107
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1

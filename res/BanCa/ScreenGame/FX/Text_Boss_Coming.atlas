@@ -1,0 +1,139 @@
+
+Text_Boss_Coming.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Boss Coming/exportBossComing_0000000
+  rotate: true
+  xy: 765, 47
+  size: 457, 59
+  orig: 475, 90
+  offset: 10, 15
+  index: -1
+Boss Coming/exportBossComing_0000002
+  rotate: false
+  xy: 474, 506
+  size: 461, 70
+  orig: 475, 90
+  offset: 9, 10
+  index: -1
+Boss Coming/exportBossComing_0000004
+  rotate: true
+  xy: 609, 45
+  size: 459, 77
+  orig: 475, 90
+  offset: 9, 6
+  index: -1
+Boss Coming/exportBossComing_0000006
+  rotate: true
+  xy: 526, 47
+  size: 457, 81
+  orig: 475, 90
+  offset: 10, 4
+  index: -1
+Boss Coming/exportBossComing_0000008
+  rotate: true
+  xy: 940, 290
+  size: 456, 83
+  orig: 475, 90
+  offset: 10, 3
+  index: -1
+Boss Coming/exportBossComing_0000010
+  rotate: false
+  xy: 476, 661
+  size: 462, 85
+  orig: 475, 90
+  offset: 7, 2
+  index: -1
+Boss Coming/exportBossComing_0000012
+  rotate: true
+  xy: 1, 2
+  size: 470, 87
+  orig: 475, 90
+  offset: 3, 1
+  index: -1
+Boss Coming/exportBossComing_0000014
+  rotate: false
+  xy: 1, 746
+  size: 473, 89
+  orig: 475, 90
+  offset: 1, 0
+  index: -1
+Boss Coming/exportBossComing_0000015
+  rotate: false
+  xy: 1, 655
+  size: 471, 89
+  orig: 475, 90
+  offset: 2, 0
+  index: -1
+Boss Coming/exportBossComing_0000016
+  rotate: false
+  xy: 476, 748
+  size: 473, 87
+  orig: 475, 90
+  offset: 1, 0
+  index: -1
+Boss Coming/exportBossComing_0000017
+  rotate: true
+  xy: 90, 4
+  size: 468, 88
+  orig: 475, 90
+  offset: 5, 1
+  index: -1
+Boss Coming/exportBossComing_0000018
+  rotate: true
+  xy: 270, 1
+  size: 471, 85
+  orig: 475, 90
+  offset: 1, 1
+  index: -1
+Boss Coming/exportBossComing_0000019
+  rotate: true
+  xy: 180, 5
+  size: 467, 88
+  orig: 475, 90
+  offset: 7, 1
+  index: -1
+Boss Coming/exportBossComing_0000020
+  rotate: true
+  xy: 357, 4
+  size: 468, 84
+  orig: 475, 90
+  offset: 2, 1
+  index: -1
+Boss Coming/exportBossComing_0000021
+  rotate: false
+  xy: 1, 474
+  size: 469, 89
+  orig: 475, 90
+  offset: 5, 0
+  index: -1
+Boss Coming/exportBossComing_0000022
+  rotate: false
+  xy: 474, 578
+  size: 462, 81
+  orig: 475, 90
+  offset: 6, 1
+  index: -1
+Boss Coming/exportBossComing_0000023
+  rotate: false
+  xy: 1, 565
+  size: 471, 88
+  orig: 475, 90
+  offset: 2, 2
+  index: -1
+Boss Coming/exportBossComing_0000024
+  rotate: true
+  xy: 443, 5
+  size: 467, 81
+  orig: 475, 90
+  offset: 4, 1
+  index: -1
+Boss Coming/exportBossComing_0000025
+  rotate: true
+  xy: 688, 48
+  size: 456, 75
+  orig: 475, 90
+  offset: 10, 3
+  index: -1

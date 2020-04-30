@@ -1,0 +1,164 @@
+{
+"skeleton": { "hash": "BDE67MS5ABckvjxR/cZkLBWWnOM", "spine": "3.6.48", "width": 95, "height": 95, "images": "" },
+"bones": [
+	{ "name": "Trident_Fire_Gem_FX" },
+	{ "name": "All_FX", "parent": "Trident_Fire_Gem_FX" },
+	{ "name": "Flare", "parent": "All_FX", "y": -1.75 },
+	{ "name": "Ring", "parent": "All_FX", "scaleX": 1.05, "scaleY": 1.05 },
+	{ "name": "TypicalEffect", "parent": "All_FX" },
+	{ "name": "TE_Bomb1", "parent": "TypicalEffect", "x": -1.1, "y": 3.84 }
+],
+"slots": [
+	{ "name": "Ring", "bone": "Ring" },
+	{ "name": "TE_Bomb1", "bone": "TE_Bomb1", "attachment": "BombFX0001" },
+	{ "name": "flare", "bone": "Flare" }
+],
+"skins": {
+	"default": {
+		"Ring": {
+			"fire_ring": { "width": 65, "height": 65 }
+		},
+		"TE_Bomb1": {
+			"BombFX0001": { "width": 95, "height": 95 },
+			"BombFX0002": { "width": 95, "height": 95 },
+			"BombFX0003": { "width": 95, "height": 95 },
+			"BombFX0004": { "width": 95, "height": 95 },
+			"BombFX0005": { "width": 95, "height": 95 },
+			"BombFX0006": { "width": 95, "height": 95 },
+			"BombFX0007": { "width": 95, "height": 95 },
+			"BombFX0008": { "width": 95, "height": 95 },
+			"BombFX0009": { "width": 95, "height": 95 },
+			"BombFX0010": { "width": 95, "height": 95 },
+			"BombFX0011": { "width": 95, "height": 95 }
+		},
+		"flare": {
+			"flare_red": { "x": 0.81, "y": -1.3, "width": 95, "height": 97 }
+		}
+	}
+},
+"animations": {
+	"Bomb_gem_FX": {
+		"slots": {
+			"Ring": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.6,
+						"color": "ffffff09",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffffff" },
+					{
+						"time": 1.4,
+						"color": "ffffff09",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{ "time": 1.6333, "color": "ffffffff" },
+					{ "time": 2.2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "fire_ring" }
+				]
+			},
+			"TE_Bomb1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "BombFX0001" },
+					{ "time": 0.0667, "name": "BombFX0002" },
+					{ "time": 0.1333, "name": "BombFX0003" },
+					{ "time": 0.2, "name": "BombFX0004" },
+					{ "time": 0.2667, "name": "BombFX0005" },
+					{ "time": 0.3333, "name": "BombFX0006" },
+					{ "time": 0.4, "name": "BombFX0007" },
+					{ "time": 0.4667, "name": "BombFX0008" },
+					{ "time": 0.5333, "name": "BombFX0009" },
+					{ "time": 0.6, "name": "BombFX0010" },
+					{ "time": 0.6667, "name": "BombFX0011" }
+				]
+			},
+			"flare": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.6,
+						"color": "ffffff00",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 1, 0.26 ]
+					},
+					{
+						"time": 1.4,
+						"color": "ffffff00",
+						"curve": [ 0.087, 0.55, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 1, 0.26 ]
+					},
+					{ "time": 2.2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "flare_red" }
+				]
+			}
+		},
+		"bones": {
+			"All_FX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"Flare": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.6,
+						"x": 0.7,
+						"y": 0.7,
+						"curve": [ 0.022, 0.31, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.997, 0.55 ]
+					},
+					{
+						"time": 1.4,
+						"x": 0.7,
+						"y": 0.7,
+						"curve": [ 0.022, 0.31, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.997, 0.55 ]
+					},
+					{ "time": 2.2, "x": 0.7, "y": 0.7 }
+				]
+			},
+			"Ring": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

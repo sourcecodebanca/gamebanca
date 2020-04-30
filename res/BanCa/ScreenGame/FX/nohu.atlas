@@ -1,0 +1,125 @@
+
+nohu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1, 1
+  size: 975, 698
+  orig: 977, 700
+  offset: 1, 1
+  index: -1
+circle_light
+  rotate: false
+  xy: 978, 1
+  size: 692, 617
+  orig: 694, 619
+  offset: 1, 1
+  index: -1
+money_win
+  rotate: false
+  xy: 1521, 817
+  size: 458, 113
+  orig: 460, 115
+  offset: 1, 1
+  index: -1
+Dragon_king
+  rotate: false
+  xy: 1672, 1
+  size: 210, 266
+  orig: 212, 268
+  offset: 1, 1
+  index: -1
+wave
+  rotate: false
+  xy: 978, 620
+  size: 541, 385
+  orig: 543, 387
+  offset: 1, 1
+  index: -1
+candyfish
+  rotate: false
+  xy: 1672, 500
+  size: 105, 90
+  orig: 107, 92
+  offset: 1, 1
+  index: -1
+lovecoin
+  rotate: false
+  xy: 1848, 483
+  size: 140, 110
+  orig: 142, 112
+  offset: 1, 1
+  index: -1
+U
+  rotate: false
+  xy: 1672, 269
+  size: 174, 229
+  orig: 176, 231
+  offset: 1, 1
+  index: -1
+O
+  rotate: false
+  xy: 1884, 1
+  size: 157, 228
+  orig: 159, 230
+  offset: 1, 1
+  index: -1
+N
+  rotate: false
+  xy: 593, 701
+  size: 185, 205
+  orig: 187, 207
+  offset: 1, 1
+  index: -1
+N copy
+  rotate: false
+  xy: 1521, 932
+  size: 121, 145
+  orig: 123, 147
+  offset: 1, 1
+  index: -1
+H
+  rotate: false
+  xy: 1848, 269
+  size: 185, 212
+  orig: 187, 214
+  offset: 1, 1
+  index: -1
+H copy
+  rotate: false
+  xy: 780, 868
+  size: 124, 157
+  orig: 126, 159
+  offset: 1, 1
+  index: -1
+texture_text
+  rotate: false
+  xy: 1521, 620
+  size: 498, 195
+  orig: 500, 197
+  offset: 1, 1
+  index: -1
+Text copy
+  rotate: false
+  xy: 1, 701
+  size: 590, 259
+  orig: 592, 261
+  offset: 1, 1
+  index: -1
+O  copy
+  rotate: false
+  xy: 593, 908
+  size: 105, 176
+  orig: 107, 178
+  offset: 1, 1
+  index: -1
+Å¨
+  rotate: false
+  xy: 780, 701
+  size: 125, 165
+  orig: 127, 167
+  offset: 1, 1
+  index: -1

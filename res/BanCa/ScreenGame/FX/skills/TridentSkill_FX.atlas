@@ -1,0 +1,153 @@
+
+TridentSkill_FX.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClashEff/ClashEff_0000000
+  rotate: false
+  xy: 471, 440
+  size: 23, 30
+  orig: 130, 130
+  offset: 58, 53
+  index: -1
+ClashEff/ClashEff_0000001
+  rotate: false
+  xy: 471, 472
+  size: 37, 36
+  orig: 130, 130
+  offset: 49, 51
+  index: -1
+ClashEff/ClashEff_0000002
+  rotate: false
+  xy: 432, 94
+  size: 55, 46
+  orig: 130, 130
+  offset: 41, 47
+  index: -1
+ClashEff/ClashEff_0000003
+  rotate: false
+  xy: 432, 235
+  size: 76, 95
+  orig: 130, 130
+  offset: 24, 17
+  index: -1
+ClashEff/ClashEff_0000004
+  rotate: false
+  xy: 318, 14
+  size: 93, 101
+  orig: 130, 130
+  offset: 19, 16
+  index: -1
+ClashEff/ClashEff_0000005
+  rotate: true
+  xy: 212, 12
+  size: 103, 104
+  orig: 130, 130
+  offset: 14, 12
+  index: -1
+ClashEff/ClashEff_0000006
+  rotate: false
+  xy: 193, 201
+  size: 90, 107
+  orig: 130, 130
+  offset: 12, 12
+  index: -1
+ClashEff/ClashEff_0000007
+  rotate: false
+  xy: 193, 131
+  size: 86, 68
+  orig: 130, 130
+  offset: 11, 50
+  index: -1
+ClashEff/ClashEff_0000008
+  rotate: false
+  xy: 432, 142
+  size: 67, 42
+  orig: 130, 130
+  offset: 31, 47
+  index: -1
+ClashEff/ClashEff_0000009
+  rotate: false
+  xy: 432, 186
+  size: 66, 47
+  orig: 130, 130
+  offset: 32, 47
+  index: -1
+ClashEff/ClashEff_0000010
+  rotate: true
+  xy: 496, 445
+  size: 25, 14
+  orig: 130, 130
+  offset: 31, 71
+  index: -1
+ClashEff/ClashEff_0000011
+  rotate: false
+  xy: 193, 122
+  size: 9, 7
+  orig: 130, 130
+  offset: 31, 76
+  index: -1
+StarLight
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+TDStarlight
+  rotate: false
+  xy: 225, 310
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+TridentFX_Smoke
+  rotate: false
+  xy: 2, 310
+  size: 221, 198
+  orig: 221, 198
+  offset: 0, 0
+  index: -1
+TridentFX_dotscircle
+  rotate: false
+  xy: 394, 332
+  size: 75, 176
+  orig: 81, 182
+  offset: 2, 4
+  index: -1
+TridentFX_explode
+  rotate: false
+  xy: 2, 118
+  size: 189, 190
+  orig: 192, 192
+  offset: 0, 2
+  index: -1
+TridentFX_explode2
+  rotate: false
+  xy: 225, 340
+  size: 167, 168
+  orig: 192, 192
+  offset: 11, 13
+  index: -1
+TridentHead
+  rotate: false
+  xy: 285, 117
+  size: 72, 221
+  orig: 79, 235
+  offset: 3, 11
+  index: -1
+TridentHead_bl
+  rotate: false
+  xy: 359, 124
+  size: 71, 206
+  orig: 79, 235
+  offset: 4, 0
+  index: -1
+TridentHead_glow
+  rotate: true
+  xy: 2, 37
+  size: 79, 208
+  orig: 79, 235
+  offset: 0, 27
+  index: -1

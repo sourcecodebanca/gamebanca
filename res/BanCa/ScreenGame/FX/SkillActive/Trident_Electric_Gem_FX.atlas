@@ -1,0 +1,160 @@
+
+Trident_Electric_Gem_FX.png
+size: 505,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ElecFX01/ElecFX010001
+  rotate: false
+  xy: 119, 3
+  size: 27, 25
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ElecFX01/ElecFX010002
+  rotate: false
+  xy: 331, 3
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ElecFX01/ElecFX010003
+  rotate: false
+  xy: 96, 12
+  size: 18, 10
+  orig: 27, 29
+  offset: 1, 7
+  index: -1
+ElecFX01/ElecFX010004
+  rotate: false
+  xy: 360, 3
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ElecFX01/ElecFX010005
+  rotate: false
+  xy: 389, 4
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ElecFX01/ElecFX010006
+  rotate: false
+  xy: 71, 4
+  size: 23, 18
+  orig: 27, 29
+  offset: 1, 6
+  index: -1
+ElectFX02/ElectFX020001
+  rotate: false
+  xy: 435, 49
+  size: 25, 21
+  orig: 45, 21
+  offset: 2, 0
+  index: -1
+ElectFX02/ElectFX020002
+  rotate: false
+  xy: 463, 26
+  size: 37, 21
+  orig: 45, 21
+  offset: 1, 0
+  index: -1
+ElectFX02/ElectFX020003
+  rotate: false
+  xy: 148, 7
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+ElectFX02/ElectFX020004
+  rotate: false
+  xy: 195, 7
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+ElectFX02/ElectFX020005
+  rotate: false
+  xy: 242, 9
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+ElectFX02/ElectFX020006
+  rotate: false
+  xy: 418, 12
+  size: 43, 21
+  orig: 45, 21
+  offset: 2, 0
+  index: -1
+ElectFX02/ElectFX020007
+  rotate: false
+  xy: 463, 49
+  size: 40, 21
+  orig: 45, 21
+  offset: 5, 0
+  index: -1
+ElectFX03/ElectFX030001
+  rotate: false
+  xy: 289, 2
+  size: 40, 29
+  orig: 51, 41
+  offset: 10, 12
+  index: -1
+ElectFX03/ElectFX030002
+  rotate: false
+  xy: 384, 35
+  size: 49, 35
+  orig: 51, 41
+  offset: 2, 6
+  index: -1
+ElectFX03/ElectFX030003
+  rotate: false
+  xy: 331, 34
+  size: 51, 36
+  orig: 51, 41
+  offset: 0, 5
+  index: -1
+ElectFX03/ElectFX030004
+  rotate: false
+  xy: 119, 30
+  size: 51, 40
+  orig: 51, 41
+  offset: 0, 1
+  index: -1
+ElectFX03/ElectFX030005
+  rotate: false
+  xy: 225, 32
+  size: 51, 38
+  orig: 51, 41
+  offset: 0, 3
+  index: -1
+ElectFX03/ElectFX030006
+  rotate: false
+  xy: 278, 33
+  size: 51, 37
+  orig: 51, 41
+  offset: 0, 4
+  index: -1
+ElectFX03/ElectFX030007
+  rotate: false
+  xy: 172, 30
+  size: 51, 40
+  orig: 51, 41
+  offset: 0, 1
+  index: -1
+elec_ring
+  rotate: false
+  xy: 71, 24
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+flare_green
+  rotate: false
+  xy: 2, 2
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1

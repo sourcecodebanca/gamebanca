@@ -1,0 +1,153 @@
+
+Trident_Lazer_Gem_FX.png
+size: 647,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LaserFX0001
+  rotate: false
+  xy: 328, 67
+  size: 32, 78
+  orig: 96, 95
+  offset: 44, 12
+  index: -1
+LaserFX0002
+  rotate: false
+  xy: 498, 78
+  size: 49, 67
+  orig: 96, 95
+  offset: 25, 17
+  index: -1
+LaserFX0003
+  rotate: false
+  xy: 179, 3
+  size: 73, 58
+  orig: 96, 95
+  offset: 12, 21
+  index: -1
+LaserFX0004
+  rotate: false
+  xy: 2, 58
+  size: 71, 87
+  orig: 96, 95
+  offset: 14, 6
+  index: -1
+LaserFX0005
+  rotate: false
+  xy: 362, 70
+  size: 63, 75
+  orig: 96, 95
+  offset: 18, 12
+  index: -1
+LaserFX0006
+  rotate: false
+  xy: 244, 66
+  size: 82, 79
+  orig: 96, 95
+  offset: 6, 10
+  index: -1
+LaserFX0007
+  rotate: false
+  xy: 160, 63
+  size: 82, 82
+  orig: 96, 95
+  offset: 7, 4
+  index: -1
+LaserFX0008
+  rotate: false
+  xy: 427, 74
+  size: 69, 71
+  orig: 96, 95
+  offset: 14, 10
+  index: -1
+LaserFX0009
+  rotate: false
+  xy: 565, 78
+  size: 80, 67
+  orig: 96, 95
+  offset: 6, 15
+  index: -1
+LaserFX0010
+  rotate: false
+  xy: 109, 2
+  size: 68, 56
+  orig: 96, 95
+  offset: 13, 22
+  index: -1
+LaserFX0011
+  rotate: false
+  xy: 2, 10
+  size: 57, 46
+  orig: 96, 95
+  offset: 19, 27
+  index: -1
+LaserFX0012
+  rotate: false
+  xy: 318, 27
+  size: 46, 37
+  orig: 96, 95
+  offset: 25, 32
+  index: -1
+LaserFX0013
+  rotate: false
+  xy: 366, 41
+  size: 36, 27
+  orig: 96, 95
+  offset: 30, 37
+  index: -1
+LaserFX0014
+  rotate: false
+  xy: 318, 6
+  size: 24, 19
+  orig: 96, 95
+  offset: 37, 41
+  index: -1
+LaserFX0015
+  rotate: false
+  xy: 344, 15
+  size: 12, 10
+  orig: 96, 95
+  offset: 43, 43
+  index: -1
+LazerEff
+  rotate: false
+  xy: 254, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+flare_golden
+  rotate: false
+  xy: 75, 60
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+flare_green
+  rotate: false
+  xy: 427, 4
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+flare_pink
+  rotate: false
+  xy: 496, 4
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+flare_red
+  rotate: false
+  xy: 565, 8
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+lazer_ring
+  rotate: false
+  xy: 61, 10
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

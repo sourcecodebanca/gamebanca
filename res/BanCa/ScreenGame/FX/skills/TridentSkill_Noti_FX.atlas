@@ -1,0 +1,125 @@
+
+TridentSkill_Noti_FX.png
+size: 627,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClashEff/ClashEff_0000000
+  rotate: false
+  xy: 604, 113
+  size: 18, 24
+  orig: 100, 100
+  offset: 45, 40
+  index: -1
+ClashEff/ClashEff_0000001
+  rotate: false
+  xy: 214, 14
+  size: 29, 28
+  orig: 100, 100
+  offset: 37, 39
+  index: -1
+ClashEff/ClashEff_0000002
+  rotate: false
+  xy: 169, 6
+  size: 43, 36
+  orig: 100, 100
+  offset: 31, 36
+  index: -1
+ClashEff/ClashEff_0000003
+  rotate: false
+  xy: 480, 16
+  size: 59, 74
+  orig: 100, 100
+  offset: 18, 13
+  index: -1
+ClashEff/ClashEff_0000004
+  rotate: false
+  xy: 406, 12
+  size: 72, 78
+  orig: 100, 100
+  offset: 14, 12
+  index: -1
+ClashEff/ClashEff_0000005
+  rotate: false
+  xy: 324, 9
+  size: 80, 81
+  orig: 100, 100
+  offset: 10, 9
+  index: -1
+ClashEff/ClashEff_0000006
+  rotate: false
+  xy: 252, 7
+  size: 70, 83
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+ClashEff/ClashEff_0000007
+  rotate: false
+  xy: 541, 37
+  size: 67, 53
+  orig: 100, 100
+  offset: 8, 38
+  index: -1
+ClashEff/ClashEff_0000008
+  rotate: false
+  xy: 541, 2
+  size: 52, 33
+  orig: 100, 100
+  offset: 24, 36
+  index: -1
+ClashEff/ClashEff_0000009
+  rotate: false
+  xy: 116, 5
+  size: 51, 37
+  orig: 100, 100
+  offset: 25, 36
+  index: -1
+ClashEff/ClashEff_0000010
+  rotate: false
+  xy: 604, 139
+  size: 20, 12
+  orig: 100, 100
+  offset: 23, 54
+  index: -1
+ClashEff/ClashEff_0000011
+  rotate: false
+  xy: 214, 6
+  size: 7, 6
+  orig: 100, 100
+  offset: 24, 58
+  index: -1
+TDStarlight
+  rotate: false
+  xy: 604, 153
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+TridentHead
+  rotate: false
+  xy: 2, 5
+  size: 55, 170
+  orig: 61, 181
+  offset: 3, 8
+  index: -1
+TridentHead_bl
+  rotate: false
+  xy: 59, 16
+  size: 55, 159
+  orig: 61, 181
+  offset: 3, 0
+  index: -1
+poseidon
+  rotate: false
+  xy: 252, 92
+  size: 350, 83
+  orig: 350, 83
+  offset: 0, 0
+  index: -1
+spiral_eff
+  rotate: false
+  xy: 116, 44
+  size: 134, 131
+  orig: 150, 150
+  offset: 11, 19
+  index: -1
