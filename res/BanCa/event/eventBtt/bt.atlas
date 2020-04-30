@@ -1,0 +1,34 @@
+
+bt.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt
+  rotate: false
+  xy: 0, 35
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+cir
+  rotate: false
+  xy: 0, 120
+  size: 128, 128
+  orig: 139, 139
+  offset: 5, 5
+  index: -1
+light2
+  rotate: false
+  xy: 129, 174
+  size: 74, 74
+  orig: 74, 76
+  offset: 0, 1
+  index: -1
+st1
+  rotate: false
+  xy: 0, 0
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+
+Login_Screen_BG.png
+size: 1282,1281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Water_layer02
+  rotate: false
+  xy: 1, 1
+  size: 1280, 185
+  orig: 1280, 185
+  offset: 0, 0
+  index: -1
+Wave_Layer02
+  rotate: false
+  xy: 1, 188
+  size: 1280, 227
+  orig: 1280, 227
+  offset: 0, 0
+  index: -1
+seebg01
+  rotate: false
+  xy: 1, 713
+  size: 1280, 567
+  orig: 1280, 567
+  offset: 0, 0
+  index: -1
+water_level01
+  rotate: false
+  xy: 1, 417
+  size: 1280, 294
+  orig: 1280, 294
+  offset: 0, 0
+  index: -1
+
+Login_Screen_BG2.png
+size: 1282,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueFish
+  rotate: false
+  xy: 433, 173
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+Island
+  rotate: true
+  xy: 433, 74
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+Water_layer03
+  rotate: false
+  xy: 1, 259
+  size: 1280, 88
+  orig: 1280, 88
+  offset: 0, 0
+  index: -1
+Wave_Layer1
+  rotate: false
+  xy: 1, 349
+  size: 1280, 133
+  orig: 1280, 133
+  offset: 0, 0
+  index: -1
+bluefish02
+  rotate: false
+  xy: 433, 28
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 603, 228
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+coral
+  rotate: false
+  xy: 1, 484
+  size: 1280, 153
+  orig: 1280, 153
+  offset: 0, 0
+  index: -1
+light_Flare
+  rotate: false
+  xy: 1, 1
+  size: 430, 256
+  orig: 430, 256
+  offset: 0, 0
+  index: -1
+whale
+  rotate: false
+  xy: 529, 197
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1

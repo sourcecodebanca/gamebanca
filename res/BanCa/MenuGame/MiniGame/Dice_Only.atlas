@@ -1,0 +1,69 @@
+
+Dice_Only.png
+size: 512,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+die_1
+  rotate: false
+  xy: 1, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+die_2
+  rotate: false
+  xy: 390, 131
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+die_3
+  rotate: false
+  xy: 68, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+die_4
+  rotate: false
+  xy: 135, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+die_5
+  rotate: false
+  xy: 390, 64
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+die_6
+  rotate: false
+  xy: 202, 1
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+rd1
+  rotate: false
+  xy: 1, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rd2
+  rotate: false
+  xy: 260, 71
+  size: 128, 125
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+rd3
+  rotate: false
+  xy: 131, 68
+  size: 127, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1

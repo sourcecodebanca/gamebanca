@@ -1,0 +1,48 @@
+
+thang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 446, 175
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+th1
+  rotate: false
+  xy: 182, 12
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+th2
+  rotate: false
+  xy: 182, 83
+  size: 130, 128
+  orig: 170, 168
+  offset: 20, 20
+  index: -1
+th3
+  rotate: false
+  xy: 0, 24
+  size: 181, 187
+  orig: 183, 189
+  offset: 1, 1
+  index: -1
+th4
+  rotate: false
+  xy: 313, 89
+  size: 132, 122
+  orig: 134, 124
+  offset: 1, 1
+  index: -1
+thang
+  rotate: false
+  xy: 0, 0
+  size: 66, 23
+  orig: 68, 25
+  offset: 1, 1
+  index: -1

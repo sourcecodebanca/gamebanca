@@ -1,0 +1,34 @@
+
+LogoBanCa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin
+  rotate: false
+  xy: 796, 838
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 1, 1
+  size: 418, 204
+  orig: 418, 220
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 1, 207
+  size: 455, 655
+  orig: 455, 655
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 458, 188
+  size: 336, 674
+  orig: 336, 674
+  offset: 0, 0
+  index: -1
